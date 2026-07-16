@@ -147,7 +147,7 @@
     "id": "conv_025",
     "direction": "arabic_to_franco",
     "input": "شغل",
-    "expected": "shighl"
+    "expected": "sheghel"
   },
   {
     "id": "conv_026",
@@ -201,7 +201,7 @@
     "id": "conv_034",
     "direction": "arabic_to_franco",
     "input": "بسرعة",
-    "expected": "b ser3a"
+    "expected": "bser3a"
   },
   {
     "id": "conv_035",

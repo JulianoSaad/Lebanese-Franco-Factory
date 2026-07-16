@@ -39,8 +39,12 @@ def apply_feedback_to_lexicon(
     feedback = load_feedback(feedback_path)
     lexicon: list[dict[str, str]] = json.loads(lexicon_path.read_text(encoding="utf-8"))
 
-    # index by arabic / franco for upsert
-    by_ar = {row["arabic"]: i for i, row in enumerate(lexicon) if row.get("arabic")}
+    # First entry wins (matches conversion index). Keep updates on the canonical row.
+    by_ar: dict[str, int] = {}
+    for i, row in enumerate(lexicon):
+        arabic = row.get("arabic")
+        if arabic and arabic not in by_ar:
+            by_ar[arabic] = i
     added = updated = skipped = 0
 
     for item in feedback:

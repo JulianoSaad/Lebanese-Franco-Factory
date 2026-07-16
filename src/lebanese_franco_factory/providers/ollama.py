@@ -1,4 +1,4 @@
-"""Ollama provider adapter (optional; used for model-assisted generation later)."""
+"""Ollama provider adapter — same Provider ABC as OpenAI/vLLM/etc."""
 
 from __future__ import annotations
 
@@ -7,8 +7,10 @@ import urllib.error
 import urllib.request
 from typing import Any
 
+from lebanese_franco_factory.providers.base import Provider
 
-class OllamaProvider:
+
+class OllamaProvider(Provider):
     name = "ollama"
 
     def __init__(self, model: str = "qwen2.5", host: str = "http://127.0.0.1:11434") -> None:
@@ -35,7 +37,6 @@ class OllamaProvider:
         return data.get("response", "")
 
     def chat(self, messages: list[dict[str, str]], **kwargs: Any) -> str:
-        # Flatten to a simple prompt for broad compatibility
         prompt = "\n".join(f"{m.get('role', 'user')}: {m.get('content', '')}" for m in messages)
         prompt += "\nassistant:"
         return self.complete(prompt, **kwargs)

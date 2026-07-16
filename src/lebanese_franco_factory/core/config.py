@@ -23,6 +23,8 @@ DATASET_CONFIG_MAP: dict[str, str] = {
     "variants": "spelling/variants.yaml",
     "abbreviations": "spelling/abbreviations.yaml",
     "spelling": "spelling/typos.yaml",
+    "augmentation": "spelling/augmentation.yaml",
+    "digit_noise": "spelling/augmentation.yaml",
     "explain": "instruction/explain.yaml",
     "summarize": "instruction/summarize.yaml",
     "rewrite": "instruction/rewrite.yaml",

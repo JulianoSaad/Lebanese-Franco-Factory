@@ -17,5 +17,9 @@ jobs:
         run: pip install -e ".[dev]"
       - name: Ruff
         run: ruff check src tests scripts
-      - name: Pytest (includes golden outputs)
+      - name: Pytest (unit, integration, plugins, performance, golden)
         run: pytest -q
+      - name: Generate API docs
+        run: |
+          python -m lebanese_franco_factory.cli.main docs
+          test -d docs/api

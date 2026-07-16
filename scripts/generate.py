@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Thin wrapper: python scripts/generate.py --dataset arabic_to_franco --size 100"""
+"""Thin wrapper → package CLI. Prefer: `lff generate ...`"""
 
 from __future__ import annotations
 
@@ -9,7 +9,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from lebanese_franco_factory.factory.cli import main
+from lebanese_franco_factory.cli.main import main
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    argv = sys.argv[1:]
+    if argv and argv[0] != "generate":
+        argv = ["generate", *argv]
+    raise SystemExit(main(argv))

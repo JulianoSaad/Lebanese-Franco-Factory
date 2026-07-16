@@ -17,7 +17,7 @@ class ChatSFTRecord(BaseModel):
     family: Literal["chat_sft"] = "chat_sft"
     domain: str
     language: str = "lebanese_franco"
-    messages: list[ChatMessage]
+    messages: list[ChatMessage] = Field(min_length=2)
     meta: dict[str, Any] = Field(default_factory=dict)
 
 

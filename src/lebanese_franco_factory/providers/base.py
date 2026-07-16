@@ -1,23 +1,30 @@
-"""Provider protocol — model-agnostic interface (implementations later)."""
+"""Provider ABC — all backends share one API."""
 
 from __future__ import annotations
 
-from typing import Any, Protocol, runtime_checkable
+from abc import ABC, abstractmethod
+from typing import Any
 
 
-@runtime_checkable
-class Provider(Protocol):
+class Provider(ABC):
+    """Common interface for model-assisted generation and evaluation."""
+
     name: str
 
+    @abstractmethod
     def chat(self, messages: list[dict[str, str]], **kwargs: Any) -> str:
-        """Return assistant text for a chat completion request."""
+        """Return assistant text for chat messages."""
 
+    @abstractmethod
     def complete(self, prompt: str, **kwargs: Any) -> str:
-        """Return text completion for a prompt."""
+        """Return a text completion for a prompt."""
+
+    def __repr__(self) -> str:  # pragma: no cover - trivial
+        return f"<{self.__class__.__name__} name={self.name!r}>"
 
 
-class NotConfiguredProvider:
-    """Placeholder used until real providers are wired."""
+class NotConfiguredProvider(Provider):
+    """Placeholder used until a real provider is selected."""
 
     name = "none"
 

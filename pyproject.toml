@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lebanese-franco-factory"
-version = "0.1.0"
+version = "0.1.1"
 description = "Factory for Lebanese Franco (Arabizi) dataset generation"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -16,12 +16,14 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest>=7.0", "ruff>=0.4", "mypy>=1.8"]
+dev = ["pytest>=7.0", "ruff>=0.4", "mypy>=1.8", "pdoc>=14.0"]
 dashboard = ["fastapi>=0.110", "uvicorn>=0.27", "python-multipart>=0.0.9"]
 train = ["transformers>=4.40", "datasets>=2.18", "peft>=0.10", "accelerate>=0.28"]
+docs = ["pdoc>=14.0"]
 
 [project.scripts]
-lff-generate = "lebanese_franco_factory.factory.cli:main"
+lff = "lebanese_franco_factory.cli.main:main"
+lff-generate = "lebanese_franco_factory.cli.main:main"
 lff-train = "lebanese_franco_factory.training.lora_train:main"
 lff-eval = "lebanese_franco_factory.benchmarks.runner:main"
 
@@ -35,6 +37,9 @@ pythonpath = ["src"]
 [tool.ruff]
 line-length = 100
 target-version = "py310"
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/*" = ["E402"]  # path bootstrap before package import
 
 [tool.mypy]
 python_version = "3.10"

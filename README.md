@@ -5,6 +5,18 @@ Config-driven **factory** that generates, validates, cleans, and exports Lebanes
 Part of [Lebanese Language Lab](https://github.com/JulianoSaad/Lebanese-Language-Lab).  
 Dataset releases: [Lebanese-Franco-Datasets](https://github.com/JulianoSaad/Lebanese-Franco-Datasets).
 
+## Layout
+
+```text
+src/lebanese_franco_factory/   # package (CLI, factory, providers, training, …)
+plugins/                       # independent dataset plugins
+dictionary/                    # modular packs (food, sports, …)
+configs/                       # YAML dataset + training configs
+tests/                         # unit · integration · plugins · performance · golden
+docs/api/                      # auto-generated API docs (pdoc)
+scripts/                       # thin wrappers only — prefer `lff`
+```
+
 ## Quickstart
 
 ```bash
@@ -14,40 +26,44 @@ pip install -e ".[dev]"
 
 pytest -q
 
-python scripts/generate.py --dataset arabic_to_franco --size 100 --seed 42
-python scripts/generate.py --dataset chat_sft --language lebanese_franco --size 100
-python scripts/generate.py --dataset typos --size 50
-python scripts/generate.py --dataset explain --size 50
+# Preferred package CLI
+lff generate --dataset arabic_to_franco --size 100 --seed 42
+lff generate --dataset chat_sft --language lebanese_franco --size 100
+lff generate --dataset augmentation --size 50
+
+# API docs (from day 1 — regenerate anytime)
+lff docs
 ```
 
-Export a run into the Datasets repo layout:
+`scripts/*.py` remain as thin wrappers for convenience.
 
-```bash
-python scripts/export.py --run output/conversion/arabic_to_franco/<stamp> --version v0.1
+## Providers
+
+```python
+from lebanese_franco_factory.providers import get_provider
+p = get_provider("ollama", model="qwen2.5")
 ```
 
-## Families
+All of OpenAI / Ollama / LiteLLM / vLLM / Hugging Face share the same `Provider` ABC. See [`docs/providers.md`](docs/providers.md).
 
-| Family | Examples |
+## Families / plugins
+
+| Plugin | Datasets |
 |---|---|
-| `chat_sft` | casual chat |
-| `conversion` | arabic_to_franco, franco_to_arabic, english_to_franco, franco_to_english |
+| `chat` | chat_sft, casual_chat |
+| `conversion` | arabic↔franco, english↔franco |
 | `spelling` | typos, variants, abbreviations |
 | `instruction` | explain, summarize, rewrite |
+| `augmentation` | digit_noise / augmentation |
 
-## Training / eval
-
-```bash
-python scripts/train.py --smoke
-python scripts/evaluate.py
-```
-
-## Dashboard / Review (optional)
+## Training / eval / UI
 
 ```bash
+lff train --smoke
+lff evaluate
 pip install -e ".[dashboard]"
-python scripts/dashboard.py   # http://127.0.0.1:8080
-python scripts/review.py      # http://127.0.0.1:8081
+lff dashboard   # :8080
+lff review      # :8081
 ```
 
 ## License

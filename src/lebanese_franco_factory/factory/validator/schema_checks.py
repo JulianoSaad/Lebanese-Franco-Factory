@@ -1,30 +1,37 @@
-"""Lightweight record validation."""
+"""Lightweight record validation using Pydantic schemas where applicable."""
 
 from __future__ import annotations
 
 from typing import Any
 
+from pydantic import ValidationError
+
+from lebanese_franco_factory.core.schemas import (
+    ChatSFTRecord,
+    ConversionRecord,
+    InstructionRecord,
+    SpellingRecord,
+)
+
 
 def validate_records(records: list[dict[str, Any]], family: str) -> dict[str, Any]:
     errors: list[str] = []
+    model = {
+        "chat_sft": ChatSFTRecord,
+        "conversion": ConversionRecord,
+        "spelling": SpellingRecord,
+        "instruction": InstructionRecord,
+    }.get(family)
+
     for i, row in enumerate(records):
-        if "id" not in row:
-            errors.append(f"row {i}: missing id")
+        if model is None:
+            if "id" not in row:
+                errors.append(f"row {i}: missing id")
             continue
-        if family == "conversion":
-            for key in ("direction", "source", "target"):
-                if not row.get(key):
-                    errors.append(f"{row.get('id')}: missing {key}")
-        elif family == "chat_sft":
-            messages = row.get("messages")
-            if not isinstance(messages, list) or len(messages) < 2:
-                errors.append(f"{row.get('id')}: messages must have >= 2 turns")
-            else:
-                for msg in messages:
-                    if msg.get("role") not in {"user", "assistant", "system"}:
-                        errors.append(f"{row.get('id')}: bad role {msg.get('role')!r}")
-                    if not msg.get("content"):
-                        errors.append(f"{row.get('id')}: empty content")
+        try:
+            model.model_validate(row)
+        except ValidationError as exc:
+            errors.append(f"{row.get('id', i)}: {exc.errors()[0]['msg']}")
     return {
         "ok": not errors,
         "checked": len(records),

@@ -23,5 +23,505 @@
     "id": "casual_05",
     "user": "mesh tamam l yom",
     "assistant": "leh? shu sar?"
+  },
+  {
+    "id": "casual_010",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_011",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_012",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_013",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_014",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_015",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_016",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_017",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_018",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_019",
+    "user": "{greeting} shu akhbarak?",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_020",
+    "user": "ana {word} l yom",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_021",
+    "user": "ana {word} l yom",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_022",
+    "user": "ana {word} l yom",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_023",
+    "user": "ana {word} l yom",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_024",
+    "user": "ana {word} l yom",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_025",
+    "user": "ana {word} l yom",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_026",
+    "user": "ana {word} l yom",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_027",
+    "user": "ana {word} l yom",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_028",
+    "user": "ana {word} l yom",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_029",
+    "user": "ana {word} l yom",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_030",
+    "user": "baddak {word}?",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_031",
+    "user": "baddak {word}?",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_032",
+    "user": "baddak {word}?",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_033",
+    "user": "baddak {word}?",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_034",
+    "user": "baddak {word}?",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_035",
+    "user": "baddak {word}?",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_036",
+    "user": "baddak {word}?",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_037",
+    "user": "baddak {word}?",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_038",
+    "user": "baddak {word}?",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_039",
+    "user": "baddak {word}?",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_040",
+    "user": "lesh {word}?",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_041",
+    "user": "lesh {word}?",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_042",
+    "user": "lesh {word}?",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_043",
+    "user": "lesh {word}?",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_044",
+    "user": "lesh {word}?",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_045",
+    "user": "lesh {word}?",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_046",
+    "user": "lesh {word}?",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_047",
+    "user": "lesh {word}?",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_048",
+    "user": "lesh {word}?",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_049",
+    "user": "lesh {word}?",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_050",
+    "user": "emta {word}?",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_051",
+    "user": "emta {word}?",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_052",
+    "user": "emta {word}?",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_053",
+    "user": "emta {word}?",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_054",
+    "user": "emta {word}?",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_055",
+    "user": "emta {word}?",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_056",
+    "user": "emta {word}?",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_057",
+    "user": "emta {word}?",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_058",
+    "user": "emta {word}?",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_059",
+    "user": "emta {word}?",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_060",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_061",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_062",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_063",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_064",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_065",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_066",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_067",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_068",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_069",
+    "user": "min ma3ak? ana {word}",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_070",
+    "user": "khalas {greeting}",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_071",
+    "user": "khalas {greeting}",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_072",
+    "user": "khalas {greeting}",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_073",
+    "user": "khalas {greeting}",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_074",
+    "user": "khalas {greeting}",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_075",
+    "user": "khalas {greeting}",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_076",
+    "user": "khalas {greeting}",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_077",
+    "user": "khalas {greeting}",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_078",
+    "user": "khalas {greeting}",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_079",
+    "user": "khalas {greeting}",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_080",
+    "user": "tab {word} yalla",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_081",
+    "user": "tab {word} yalla",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_082",
+    "user": "tab {word} yalla",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_083",
+    "user": "tab {word} yalla",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_084",
+    "user": "tab {word} yalla",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_085",
+    "user": "tab {word} yalla",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_086",
+    "user": "tab {word} yalla",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_087",
+    "user": "tab {word} yalla",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_088",
+    "user": "tab {word} yalla",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_089",
+    "user": "tab {word} yalla",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_090",
+    "user": "ma fhimt, {word}?",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_091",
+    "user": "ma fhimt, {word}?",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_092",
+    "user": "ma fhimt, {word}?",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_093",
+    "user": "ma fhimt, {word}?",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_094",
+    "user": "ma fhimt, {word}?",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_095",
+    "user": "ma fhimt, {word}?",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_096",
+    "user": "ma fhimt, {word}?",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_097",
+    "user": "ma fhimt, {word}?",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_098",
+    "user": "ma fhimt, {word}?",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_099",
+    "user": "ma fhimt, {word}?",
+    "assistant": "khalas, yalla"
+  },
+  {
+    "id": "casual_100",
+    "user": "wallah {word}",
+    "assistant": "mnih, w enta?"
+  },
+  {
+    "id": "casual_101",
+    "user": "wallah {word}",
+    "assistant": "yalla {greeting}"
+  },
+  {
+    "id": "casual_102",
+    "user": "wallah {word}",
+    "assistant": "ok {word}"
+  },
+  {
+    "id": "casual_103",
+    "user": "wallah {word}",
+    "assistant": "mesh meshkle"
+  },
+  {
+    "id": "casual_104",
+    "user": "wallah {word}",
+    "assistant": "ba3den {word}"
+  },
+  {
+    "id": "casual_105",
+    "user": "wallah {word}",
+    "assistant": "akid, {greeting}"
+  },
+  {
+    "id": "casual_106",
+    "user": "wallah {word}",
+    "assistant": "stanna shway"
+  },
+  {
+    "id": "casual_107",
+    "user": "wallah {word}",
+    "assistant": "tamam {word}"
+  },
+  {
+    "id": "casual_108",
+    "user": "wallah {word}",
+    "assistant": "eh {greeting}"
+  },
+  {
+    "id": "casual_109",
+    "user": "wallah {word}",
+    "assistant": "khalas, yalla"
   }
 ]

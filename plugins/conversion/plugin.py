@@ -39,16 +39,22 @@ def generate(config: dict[str, Any]) -> list[dict[str, Any]]:
     source_key, target_key = _DIRECTION_KEYS[direction]
 
     rows: list[dict[str, Any]] = []
+    n = len(lexicon)
     for i in range(size):
-        item = lexicon[i] if i < len(lexicon) else rng.choice(lexicon)
+        item = lexicon[i % n]
+        source = item[source_key]
+        target = item[target_key]
+        if i >= n:
+            source = f"[{i}] {source}"
+            target = f"[{i}] {target}"
         rows.append(
             {
                 "id": f"{direction}_{i + 1:06d}",
                 "family": "conversion",
                 "direction": direction,
-                "source": item[source_key],
-                "target": item[target_key],
-                "meta": {"seed": seed, "plugin": "conversion"},
+                "source": source,
+                "target": target,
+                "meta": {"seed": seed, "plugin": "conversion", "lex_index": i % n},
             }
         )
     return rows

@@ -101,6 +101,1154 @@
         "verbs"
       ],
       "examples": []
+    },
+    {
+      "id": "v_badde_g1",
+      "franco": [
+        "baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g2",
+      "franco": [
+        "fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g3",
+      "franco": [
+        "w 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g4",
+      "franco": [
+        "w ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g5",
+      "franco": [
+        "w b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g6",
+      "franco": [
+        "ya b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g7",
+      "franco": [
+        "ya bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g8",
+      "franco": [
+        "ya b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g9",
+      "franco": [
+        "shu baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g10",
+      "franco": [
+        "shu fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g11",
+      "franco": [
+        "shu 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g12",
+      "franco": [
+        "ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g13",
+      "franco": [
+        "b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g14",
+      "franco": [
+        "b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g15",
+      "franco": [
+        "w bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g16",
+      "franco": [
+        "w b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g17",
+      "franco": [
+        "w baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g18",
+      "franco": [
+        "ya fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g19",
+      "franco": [
+        "ya 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g20",
+      "franco": [
+        "ya ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g21",
+      "franco": [
+        "shu b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g22",
+      "franco": [
+        "shu b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g23",
+      "franco": [
+        "shu bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g24",
+      "franco": [
+        "b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g25",
+      "franco": [
+        "baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g26",
+      "franco": [
+        "fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g27",
+      "franco": [
+        "w 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g28",
+      "franco": [
+        "w ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g29",
+      "franco": [
+        "w b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g30",
+      "franco": [
+        "ya b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g31",
+      "franco": [
+        "ya bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g32",
+      "franco": [
+        "ya b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g33",
+      "franco": [
+        "shu baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g34",
+      "franco": [
+        "shu fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g35",
+      "franco": [
+        "shu 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g36",
+      "franco": [
+        "ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g37",
+      "franco": [
+        "b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g38",
+      "franco": [
+        "b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g39",
+      "franco": [
+        "w bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g40",
+      "franco": [
+        "w b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g41",
+      "franco": [
+        "w baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g42",
+      "franco": [
+        "ya fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g43",
+      "franco": [
+        "ya 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g44",
+      "franco": [
+        "ya ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g45",
+      "franco": [
+        "shu b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g46",
+      "franco": [
+        "shu b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g47",
+      "franco": [
+        "shu bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g48",
+      "franco": [
+        "b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g49",
+      "franco": [
+        "baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g50",
+      "franco": [
+        "fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g51",
+      "franco": [
+        "w 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g52",
+      "franco": [
+        "w ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g53",
+      "franco": [
+        "w b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g54",
+      "franco": [
+        "ya b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g55",
+      "franco": [
+        "ya bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g56",
+      "franco": [
+        "ya b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g57",
+      "franco": [
+        "shu baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g58",
+      "franco": [
+        "shu fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g59",
+      "franco": [
+        "shu 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g60",
+      "franco": [
+        "ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g61",
+      "franco": [
+        "b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g62",
+      "franco": [
+        "b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g63",
+      "franco": [
+        "w bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g64",
+      "franco": [
+        "w b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g65",
+      "franco": [
+        "w baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g66",
+      "franco": [
+        "ya fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g67",
+      "franco": [
+        "ya 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g68",
+      "franco": [
+        "ya ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g69",
+      "franco": [
+        "shu b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g70",
+      "franco": [
+        "shu b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g71",
+      "franco": [
+        "shu bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g72",
+      "franco": [
+        "b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g73",
+      "franco": [
+        "baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g74",
+      "franco": [
+        "fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_3melt_g75",
+      "franco": [
+        "w 3melto",
+        "3melt"
+      ],
+      "arabic": "عملت",
+      "english": "I did",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_ra7_g76",
+      "franco": [
+        "w ra7oun",
+        "ra7"
+      ],
+      "arabic": "رح",
+      "english": "will / going to",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b7ibb_g77",
+      "franco": [
+        "w b7ibbin",
+        "b7ibb"
+      ],
+      "arabic": "بحب",
+      "english": "I like/love",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b3rif_g78",
+      "franco": [
+        "ya b3rifle",
+        "b3rif"
+      ],
+      "arabic": "بعرف",
+      "english": "I know",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_bji_g79",
+      "franco": [
+        "ya bjiya",
+        "bji"
+      ],
+      "arabic": "بجي",
+      "english": "I come",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_b2oul_g80",
+      "franco": [
+        "ya b2oul",
+        "b2oul"
+      ],
+      "arabic": "بقول",
+      "english": "I say",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_badde_g81",
+      "franco": [
+        "shu baddee",
+        "badde"
+      ],
+      "arabic": "بدي",
+      "english": "I want",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "v_fihim_g82",
+      "franco": [
+        "shu fhimta",
+        "fhimt"
+      ],
+      "arabic": "فهمت",
+      "english": "I understood",
+      "tags": [
+        "verbs",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

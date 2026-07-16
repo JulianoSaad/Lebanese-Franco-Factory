@@ -50,6 +50,1210 @@
         "work"
       ],
       "examples": []
+    },
+    {
+      "id": "w_shighl_g1",
+      "franco": [
+        "shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g2",
+      "franco": [
+        "maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g3",
+      "franco": [
+        "w meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g4",
+      "franco": [
+        "w deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g5",
+      "franco": [
+        "w shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g6",
+      "franco": [
+        "ya maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g7",
+      "franco": [
+        "ya meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g8",
+      "franco": [
+        "ya deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g9",
+      "franco": [
+        "shu shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g10",
+      "franco": [
+        "shu maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g11",
+      "franco": [
+        "shu meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g12",
+      "franco": [
+        "deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g13",
+      "franco": [
+        "shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g14",
+      "franco": [
+        "maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g15",
+      "franco": [
+        "w meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g16",
+      "franco": [
+        "w deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g17",
+      "franco": [
+        "w shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g18",
+      "franco": [
+        "ya maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g19",
+      "franco": [
+        "ya meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g20",
+      "franco": [
+        "ya deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g21",
+      "franco": [
+        "shu shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g22",
+      "franco": [
+        "shu maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g23",
+      "franco": [
+        "shu meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g24",
+      "franco": [
+        "deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g25",
+      "franco": [
+        "shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g26",
+      "franco": [
+        "maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g27",
+      "franco": [
+        "w meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g28",
+      "franco": [
+        "w deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g29",
+      "franco": [
+        "w shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g30",
+      "franco": [
+        "ya maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g31",
+      "franco": [
+        "ya meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g32",
+      "franco": [
+        "ya deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g33",
+      "franco": [
+        "shu shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g34",
+      "franco": [
+        "shu maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g35",
+      "franco": [
+        "shu meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g36",
+      "franco": [
+        "deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g37",
+      "franco": [
+        "shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g38",
+      "franco": [
+        "maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g39",
+      "franco": [
+        "w meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g40",
+      "franco": [
+        "w deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g41",
+      "franco": [
+        "w shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g42",
+      "franco": [
+        "ya maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g43",
+      "franco": [
+        "ya meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g44",
+      "franco": [
+        "ya deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g45",
+      "franco": [
+        "shu shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g46",
+      "franco": [
+        "shu maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g47",
+      "franco": [
+        "shu meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g48",
+      "franco": [
+        "deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g49",
+      "franco": [
+        "shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g50",
+      "franco": [
+        "maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g51",
+      "franco": [
+        "w meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g52",
+      "franco": [
+        "w deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g53",
+      "franco": [
+        "w shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g54",
+      "franco": [
+        "ya maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g55",
+      "franco": [
+        "ya meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g56",
+      "franco": [
+        "ya deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g57",
+      "franco": [
+        "shu shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g58",
+      "franco": [
+        "shu maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g59",
+      "franco": [
+        "shu meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g60",
+      "franco": [
+        "deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g61",
+      "franco": [
+        "shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g62",
+      "franco": [
+        "maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g63",
+      "franco": [
+        "w meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g64",
+      "franco": [
+        "w deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g65",
+      "franco": [
+        "w shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g66",
+      "franco": [
+        "ya maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g67",
+      "franco": [
+        "ya meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g68",
+      "franco": [
+        "ya deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g69",
+      "franco": [
+        "shu shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g70",
+      "franco": [
+        "shu maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g71",
+      "franco": [
+        "shu meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g72",
+      "franco": [
+        "deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g73",
+      "franco": [
+        "shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g74",
+      "franco": [
+        "maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g75",
+      "franco": [
+        "w meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g76",
+      "franco": [
+        "w deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g77",
+      "franco": [
+        "w shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g78",
+      "franco": [
+        "ya maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g79",
+      "franco": [
+        "ya meetingya",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g80",
+      "franco": [
+        "ya deadline",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g81",
+      "franco": [
+        "shu shighle",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g82",
+      "franco": [
+        "shu maktaba",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting_g83",
+      "franco": [
+        "shu meetingo",
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline_g84",
+      "franco": [
+        "deadlineoun",
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_shighl_g85",
+      "franco": [
+        "shighlin",
+        "shighl"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab_g86",
+      "franco": [
+        "maktable",
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

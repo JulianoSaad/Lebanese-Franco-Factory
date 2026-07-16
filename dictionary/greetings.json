@@ -128,6 +128,1126 @@
         "greetings"
       ],
       "examples": []
+    },
+    {
+      "id": "g_mar7aba_g1",
+      "franco": [
+        "mar7abae",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g2",
+      "franco": [
+        "kifaka",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g3",
+      "franco": [
+        "w kifiko",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g4",
+      "franco": [
+        "w ahlaoun",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g5",
+      "franco": [
+        "w sabah l kherin",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g6",
+      "franco": [
+        "ya masa l kherle",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g7",
+      "franco": [
+        "ya yallaya",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g8",
+      "franco": [
+        "ya bye",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g9",
+      "franco": [
+        "shu tsharafnae",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g10",
+      "franco": [
+        "shu shu fi ma fia",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g11",
+      "franco": [
+        "shu mar7abao",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g12",
+      "franco": [
+        "kifakoun",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g13",
+      "franco": [
+        "kifikin",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g14",
+      "franco": [
+        "ahlale",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g15",
+      "franco": [
+        "w sabah l kherya",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g16",
+      "franco": [
+        "w masa l kher",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g17",
+      "franco": [
+        "w yallae",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g18",
+      "franco": [
+        "ya byea",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g19",
+      "franco": [
+        "ya tsharafnao",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g20",
+      "franco": [
+        "ya shu fi ma fioun",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g21",
+      "franco": [
+        "shu mar7abain",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g22",
+      "franco": [
+        "shu kifakle",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g23",
+      "franco": [
+        "shu kifikya",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g24",
+      "franco": [
+        "ahla",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g25",
+      "franco": [
+        "sabah l khere",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g26",
+      "franco": [
+        "masa l khera",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g27",
+      "franco": [
+        "w yallao",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g28",
+      "franco": [
+        "w byeoun",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g29",
+      "franco": [
+        "w tsharafnain",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g30",
+      "franco": [
+        "ya shu fi ma file",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g31",
+      "franco": [
+        "ya mar7abaya",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g32",
+      "franco": [
+        "ya kifak",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g33",
+      "franco": [
+        "shu kifike",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g34",
+      "franco": [
+        "shu ahlaa",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g35",
+      "franco": [
+        "shu sabah l khero",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g36",
+      "franco": [
+        "masa l kheroun",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g37",
+      "franco": [
+        "yallain",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g38",
+      "franco": [
+        "byele",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g39",
+      "franco": [
+        "w tsharafnaya",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g40",
+      "franco": [
+        "w shu fi ma fi",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g41",
+      "franco": [
+        "w mar7abae",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g42",
+      "franco": [
+        "ya kifaka",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g43",
+      "franco": [
+        "ya kifiko",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g44",
+      "franco": [
+        "ya ahlaoun",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g45",
+      "franco": [
+        "shu sabah l kherin",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g46",
+      "franco": [
+        "shu masa l kherle",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g47",
+      "franco": [
+        "shu yallaya",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g48",
+      "franco": [
+        "bye",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g49",
+      "franco": [
+        "tsharafnae",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g50",
+      "franco": [
+        "shu fi ma fia",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g51",
+      "franco": [
+        "w mar7abao",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g52",
+      "franco": [
+        "w kifakoun",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g53",
+      "franco": [
+        "w kifikin",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g54",
+      "franco": [
+        "ya ahlale",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g55",
+      "franco": [
+        "ya sabah l kherya",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g56",
+      "franco": [
+        "ya masa l kher",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g57",
+      "franco": [
+        "shu yallae",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g58",
+      "franco": [
+        "shu byea",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g59",
+      "franco": [
+        "shu tsharafnao",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g60",
+      "franco": [
+        "shu fi ma fioun",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g61",
+      "franco": [
+        "mar7abain",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g62",
+      "franco": [
+        "kifakle",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g63",
+      "franco": [
+        "w kifikya",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g64",
+      "franco": [
+        "w ahla",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g65",
+      "franco": [
+        "w sabah l khere",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g66",
+      "franco": [
+        "ya masa l khera",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g67",
+      "franco": [
+        "ya yallao",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g68",
+      "franco": [
+        "ya byeoun",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g69",
+      "franco": [
+        "shu tsharafnain",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g70",
+      "franco": [
+        "shu shu fi ma file",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_mar7aba_g71",
+      "franco": [
+        "shu mar7abaya",
+        "mar7aba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak_g72",
+      "franco": [
+        "kifak",
+        "kifak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik_g73",
+      "franco": [
+        "kifike",
+        "kifik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla_g74",
+      "franco": [
+        "ahlaa",
+        "ahla"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah_g75",
+      "franco": [
+        "w sabah l khero",
+        "sabah l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa_g76",
+      "franco": [
+        "w masa l kheroun",
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla_g77",
+      "franco": [
+        "w yallain",
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye_g78",
+      "franco": [
+        "ya byele",
+        "bye"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna_g79",
+      "franco": [
+        "ya tsharafnaya",
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi_g80",
+      "franco": [
+        "ya shu fi ma fi",
+        "shu fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

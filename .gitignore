@@ -9,7 +9,12 @@ dist/
 build/
 output/*
 !output/.gitkeep
+feedback/*.jsonl
+!feedback/.gitkeep
 .DS_Store
 .env
 *.jsonl
 !tests/**/*.json
+!benchmarks/**/*.json
+!data/**/*.json
+!dictionary/**/*.json

@@ -51,6 +51,1210 @@
         "sports"
       ],
       "examples": []
+    },
+    {
+      "id": "s_football_g1",
+      "franco": [
+        "footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g2",
+      "franco": [
+        "goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g3",
+      "franco": [
+        "w matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g4",
+      "franco": [
+        "w teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g5",
+      "franco": [
+        "w footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g6",
+      "franco": [
+        "ya goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g7",
+      "franco": [
+        "ya matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g8",
+      "franco": [
+        "ya team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g9",
+      "franco": [
+        "shu footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g10",
+      "franco": [
+        "shu goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g11",
+      "franco": [
+        "shu matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g12",
+      "franco": [
+        "teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g13",
+      "franco": [
+        "footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g14",
+      "franco": [
+        "goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g15",
+      "franco": [
+        "w matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g16",
+      "franco": [
+        "w team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g17",
+      "franco": [
+        "w footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g18",
+      "franco": [
+        "ya goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g19",
+      "franco": [
+        "ya matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g20",
+      "franco": [
+        "ya teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g21",
+      "franco": [
+        "shu footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g22",
+      "franco": [
+        "shu goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g23",
+      "franco": [
+        "shu matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g24",
+      "franco": [
+        "team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g25",
+      "franco": [
+        "footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g26",
+      "franco": [
+        "goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g27",
+      "franco": [
+        "w matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g28",
+      "franco": [
+        "w teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g29",
+      "franco": [
+        "w footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g30",
+      "franco": [
+        "ya goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g31",
+      "franco": [
+        "ya matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g32",
+      "franco": [
+        "ya team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g33",
+      "franco": [
+        "shu footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g34",
+      "franco": [
+        "shu goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g35",
+      "franco": [
+        "shu matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g36",
+      "franco": [
+        "teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g37",
+      "franco": [
+        "footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g38",
+      "franco": [
+        "goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g39",
+      "franco": [
+        "w matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g40",
+      "franco": [
+        "w team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g41",
+      "franco": [
+        "w footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g42",
+      "franco": [
+        "ya goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g43",
+      "franco": [
+        "ya matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g44",
+      "franco": [
+        "ya teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g45",
+      "franco": [
+        "shu footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g46",
+      "franco": [
+        "shu goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g47",
+      "franco": [
+        "shu matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g48",
+      "franco": [
+        "team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g49",
+      "franco": [
+        "footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g50",
+      "franco": [
+        "goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g51",
+      "franco": [
+        "w matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g52",
+      "franco": [
+        "w teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g53",
+      "franco": [
+        "w footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g54",
+      "franco": [
+        "ya goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g55",
+      "franco": [
+        "ya matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g56",
+      "franco": [
+        "ya team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g57",
+      "franco": [
+        "shu footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g58",
+      "franco": [
+        "shu goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g59",
+      "franco": [
+        "shu matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g60",
+      "franco": [
+        "teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g61",
+      "franco": [
+        "footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g62",
+      "franco": [
+        "goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g63",
+      "franco": [
+        "w matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g64",
+      "franco": [
+        "w team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g65",
+      "franco": [
+        "w footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g66",
+      "franco": [
+        "ya goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g67",
+      "franco": [
+        "ya matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g68",
+      "franco": [
+        "ya teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g69",
+      "franco": [
+        "shu footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g70",
+      "franco": [
+        "shu goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g71",
+      "franco": [
+        "shu matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g72",
+      "franco": [
+        "team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g73",
+      "franco": [
+        "footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g74",
+      "franco": [
+        "goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g75",
+      "franco": [
+        "w matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g76",
+      "franco": [
+        "w teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g77",
+      "franco": [
+        "w footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g78",
+      "franco": [
+        "ya goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g79",
+      "franco": [
+        "ya matchya",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g80",
+      "franco": [
+        "ya team",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g81",
+      "franco": [
+        "shu footballe",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g82",
+      "franco": [
+        "shu goala",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match_g83",
+      "franco": [
+        "shu matcho",
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team_g84",
+      "franco": [
+        "teamoun",
+        "team"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_football_g85",
+      "franco": [
+        "footballin",
+        "football"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal_g86",
+      "franco": [
+        "goalle",
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

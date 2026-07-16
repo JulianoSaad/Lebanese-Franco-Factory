@@ -1,0 +1,102 @@
+[
+  {
+    "input": "كيفك؟",
+    "direction": "arabic_to_franco",
+    "expected": "kifak?"
+  },
+  {
+    "input": "مرحبا",
+    "direction": "arabic_to_franco",
+    "expected": "mar7aba"
+  },
+  {
+    "input": "أهلا",
+    "direction": "arabic_to_franco",
+    "expected": "ahla"
+  },
+  {
+    "input": "يلا",
+    "direction": "arabic_to_franco",
+    "expected": "yalla"
+  },
+  {
+    "input": "شو في؟",
+    "direction": "arabic_to_franco",
+    "expected": "shu fi?"
+  },
+  {
+    "input": "تمام",
+    "direction": "arabic_to_franco",
+    "expected": "tamam"
+  },
+  {
+    "input": "مش مشكلة",
+    "direction": "arabic_to_franco",
+    "expected": "mesh meshkle"
+  },
+  {
+    "input": "شكرا",
+    "direction": "arabic_to_franco",
+    "expected": "shukran"
+  },
+  {
+    "input": "عفوا",
+    "direction": "arabic_to_franco",
+    "expected": "3afwan"
+  },
+  {
+    "input": "صباح الخير",
+    "direction": "arabic_to_franco",
+    "expected": "sabah l kher"
+  },
+  {
+    "input": "مساء الخير",
+    "direction": "arabic_to_franco",
+    "expected": "masa l kher"
+  },
+  {
+    "input": "تصبح على خير",
+    "direction": "arabic_to_franco",
+    "expected": "tesba7 3ala kher"
+  },
+  {
+    "input": "وينك؟",
+    "direction": "arabic_to_franco",
+    "expected": "waynak?"
+  },
+  {
+    "input": "شو عم تعمل؟",
+    "direction": "arabic_to_franco",
+    "expected": "shu 3am ta3mil?"
+  },
+  {
+    "input": "بدي",
+    "direction": "arabic_to_franco",
+    "expected": "badde"
+  },
+  {
+    "input": "ما بدي",
+    "direction": "arabic_to_franco",
+    "expected": "ma badde"
+  },
+  {
+    "input": "فهمت",
+    "direction": "arabic_to_franco",
+    "expected": "fhimt"
+  },
+  {
+    "input": "ما فهمت",
+    "direction": "arabic_to_franco",
+    "expected": "ma fhimt"
+  },
+  {
+    "input": "أنا تعبان",
+    "direction": "arabic_to_franco",
+    "expected": "ana ta3ban"
+  },
+  {
+    "input": "أنا مبسوط",
+    "direction": "arabic_to_franco",
+    "expected": "ana mabsout"
+  }
+]

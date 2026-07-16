@@ -1,0 +1,15 @@
+name: summarize
+plugin: instruction
+family: instruction
+task: summarize
+language: lebanese_franco
+version: 0.1.0
+size: 10000
+seed: 42
+dictionary_packs: [greetings, verbs, work]
+export:
+  format: jsonl
+  split:
+    train: 0.98
+    validation: 0.01
+    test: 0.01

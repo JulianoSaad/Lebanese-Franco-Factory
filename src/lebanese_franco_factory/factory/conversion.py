@@ -27,7 +27,8 @@ def _index(source_key: str, target_key: str) -> dict[str, str]:
     for row in _lexicon():
         src = row.get(source_key)
         tgt = row.get(target_key)
-        if src and tgt:
+        # First entry wins — preserves canonical golden pairs at the top of the lexicon.
+        if src and tgt and src not in mapping:
             mapping[src] = tgt
     return mapping
 

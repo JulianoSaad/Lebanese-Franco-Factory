@@ -12,20 +12,43 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
 
-# Golden tests (CI gate)
 pytest -q
 
-# Generate a small conversion set
 python scripts/generate.py --dataset arabic_to_franco --size 100 --seed 42
+python scripts/generate.py --dataset chat_sft --language lebanese_franco --size 100
+python scripts/generate.py --dataset typos --size 50
+python scripts/generate.py --dataset explain --size 50
 ```
 
-## Build order
+Export a run into the Datasets repo layout:
 
-```
-Dictionary → Templates → Generator → Validator → Exporter → Dataset
+```bash
+python scripts/export.py --run output/conversion/arabic_to_franco/<stamp> --version v0.1
 ```
 
-Dashboard / Human Review / Benchmarks come **later** (see Lab roadmap).
+## Families
+
+| Family | Examples |
+|---|---|
+| `chat_sft` | casual chat |
+| `conversion` | arabic_to_franco, franco_to_arabic, english_to_franco, franco_to_english |
+| `spelling` | typos, variants, abbreviations |
+| `instruction` | explain, summarize, rewrite |
+
+## Training / eval
+
+```bash
+python scripts/train.py --smoke
+python scripts/evaluate.py
+```
+
+## Dashboard / Review (optional)
+
+```bash
+pip install -e ".[dashboard]"
+python scripts/dashboard.py   # http://127.0.0.1:8080
+python scripts/review.py      # http://127.0.0.1:8081
+```
 
 ## License
 

@@ -17,9 +17,13 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "ruff>=0.4", "mypy>=1.8"]
+dashboard = ["fastapi>=0.110", "uvicorn>=0.27", "python-multipart>=0.0.9"]
+train = ["transformers>=4.40", "datasets>=2.18", "peft>=0.10", "accelerate>=0.28"]
 
 [project.scripts]
 lff-generate = "lebanese_franco_factory.factory.cli:main"
+lff-train = "lebanese_franco_factory.training.lora_train:main"
+lff-eval = "lebanese_franco_factory.benchmarks.runner:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

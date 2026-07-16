@@ -38,6 +38,1224 @@
         "gaming"
       ],
       "examples": []
+    },
+    {
+      "id": "g_game_g1",
+      "franco": [
+        "gamee",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g2",
+      "franco": [
+        "levela",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g3",
+      "franco": [
+        "w wino",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g4",
+      "franco": [
+        "w gameoun",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g5",
+      "franco": [
+        "w levelin",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g6",
+      "franco": [
+        "ya winle",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g7",
+      "franco": [
+        "ya gameya",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g8",
+      "franco": [
+        "ya level",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g9",
+      "franco": [
+        "shu wine",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g10",
+      "franco": [
+        "shu gamea",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g11",
+      "franco": [
+        "shu levelo",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g12",
+      "franco": [
+        "winoun",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g13",
+      "franco": [
+        "gamein",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g14",
+      "franco": [
+        "levelle",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g15",
+      "franco": [
+        "w winya",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g16",
+      "franco": [
+        "w game",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g17",
+      "franco": [
+        "w levele",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g18",
+      "franco": [
+        "ya wina",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g19",
+      "franco": [
+        "ya gameo",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g20",
+      "franco": [
+        "ya leveloun",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g21",
+      "franco": [
+        "shu winin",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g22",
+      "franco": [
+        "shu gamele",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g23",
+      "franco": [
+        "shu levelya",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g24",
+      "franco": [
+        "win",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g25",
+      "franco": [
+        "gamee",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g26",
+      "franco": [
+        "levela",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g27",
+      "franco": [
+        "w wino",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g28",
+      "franco": [
+        "w gameoun",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g29",
+      "franco": [
+        "w levelin",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g30",
+      "franco": [
+        "ya winle",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g31",
+      "franco": [
+        "ya gameya",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g32",
+      "franco": [
+        "ya level",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g33",
+      "franco": [
+        "shu wine",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g34",
+      "franco": [
+        "shu gamea",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g35",
+      "franco": [
+        "shu levelo",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g36",
+      "franco": [
+        "winoun",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g37",
+      "franco": [
+        "gamein",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g38",
+      "franco": [
+        "levelle",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g39",
+      "franco": [
+        "w winya",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g40",
+      "franco": [
+        "w game",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g41",
+      "franco": [
+        "w levele",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g42",
+      "franco": [
+        "ya wina",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g43",
+      "franco": [
+        "ya gameo",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g44",
+      "franco": [
+        "ya leveloun",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g45",
+      "franco": [
+        "shu winin",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g46",
+      "franco": [
+        "shu gamele",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g47",
+      "franco": [
+        "shu levelya",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g48",
+      "franco": [
+        "win",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g49",
+      "franco": [
+        "gamee",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g50",
+      "franco": [
+        "levela",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g51",
+      "franco": [
+        "w wino",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g52",
+      "franco": [
+        "w gameoun",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g53",
+      "franco": [
+        "w levelin",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g54",
+      "franco": [
+        "ya winle",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g55",
+      "franco": [
+        "ya gameya",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g56",
+      "franco": [
+        "ya level",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g57",
+      "franco": [
+        "shu wine",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g58",
+      "franco": [
+        "shu gamea",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g59",
+      "franco": [
+        "shu levelo",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g60",
+      "franco": [
+        "winoun",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g61",
+      "franco": [
+        "gamein",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g62",
+      "franco": [
+        "levelle",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g63",
+      "franco": [
+        "w winya",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g64",
+      "franco": [
+        "w game",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g65",
+      "franco": [
+        "w levele",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g66",
+      "franco": [
+        "ya wina",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g67",
+      "franco": [
+        "ya gameo",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g68",
+      "franco": [
+        "ya leveloun",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g69",
+      "franco": [
+        "shu winin",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g70",
+      "franco": [
+        "shu gamele",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g71",
+      "franco": [
+        "shu levelya",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g72",
+      "franco": [
+        "win",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g73",
+      "franco": [
+        "gamee",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g74",
+      "franco": [
+        "levela",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g75",
+      "franco": [
+        "w wino",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g76",
+      "franco": [
+        "w gameoun",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g77",
+      "franco": [
+        "w levelin",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g78",
+      "franco": [
+        "ya winle",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g79",
+      "franco": [
+        "ya gameya",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g80",
+      "franco": [
+        "ya level",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g81",
+      "franco": [
+        "shu wine",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g82",
+      "franco": [
+        "shu gamea",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g83",
+      "franco": [
+        "shu levelo",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g84",
+      "franco": [
+        "winoun",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_game_g85",
+      "franco": [
+        "gamein",
+        "game"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level_g86",
+      "franco": [
+        "levelle",
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win_g87",
+      "franco": [
+        "w winya",
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "expanded",
+        "gaming"
+      ],
+      "examples": []
     }
   ]
 }

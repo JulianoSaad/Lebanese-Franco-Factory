@@ -62,6 +62,1196 @@
         "cities"
       ],
       "examples": []
+    },
+    {
+      "id": "c_beitut_g1",
+      "franco": [
+        "beitute",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g2",
+      "franco": [
+        "trablousa",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g3",
+      "franco": [
+        "w saidao",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g4",
+      "franco": [
+        "w jouniehoun",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g5",
+      "franco": [
+        "w zahlein",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g6",
+      "franco": [
+        "ya beitutle",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g7",
+      "franco": [
+        "ya trablousya",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g8",
+      "franco": [
+        "ya saida",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g9",
+      "franco": [
+        "shu jouniehe",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g10",
+      "franco": [
+        "shu zahlea",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g11",
+      "franco": [
+        "shu beituto",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g12",
+      "franco": [
+        "trablousoun",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g13",
+      "franco": [
+        "saidain",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g14",
+      "franco": [
+        "jouniehle",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g15",
+      "franco": [
+        "w zahleya",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g16",
+      "franco": [
+        "w beitut",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g17",
+      "franco": [
+        "w trablouse",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g18",
+      "franco": [
+        "ya saidaa",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g19",
+      "franco": [
+        "ya jounieho",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g20",
+      "franco": [
+        "ya zahleoun",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g21",
+      "franco": [
+        "shu beitutin",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g22",
+      "franco": [
+        "shu trablousle",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g23",
+      "franco": [
+        "shu saidaya",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g24",
+      "franco": [
+        "jounieh",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g25",
+      "franco": [
+        "zahlee",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g26",
+      "franco": [
+        "beituta",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g27",
+      "franco": [
+        "w trablouso",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g28",
+      "franco": [
+        "w saidaoun",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g29",
+      "franco": [
+        "w jouniehin",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g30",
+      "franco": [
+        "ya zahlele",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g31",
+      "franco": [
+        "ya beitutya",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g32",
+      "franco": [
+        "ya trablous",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g33",
+      "franco": [
+        "shu saidae",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g34",
+      "franco": [
+        "shu jounieha",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g35",
+      "franco": [
+        "shu zahleo",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g36",
+      "franco": [
+        "beitutoun",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g37",
+      "franco": [
+        "trablousin",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g38",
+      "franco": [
+        "saidale",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g39",
+      "franco": [
+        "w jouniehya",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g40",
+      "franco": [
+        "w zahle",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g41",
+      "franco": [
+        "w beitute",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g42",
+      "franco": [
+        "ya trablousa",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g43",
+      "franco": [
+        "ya saidao",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g44",
+      "franco": [
+        "ya jouniehoun",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g45",
+      "franco": [
+        "shu zahlein",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g46",
+      "franco": [
+        "shu beitutle",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g47",
+      "franco": [
+        "shu trablousya",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g48",
+      "franco": [
+        "saida",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g49",
+      "franco": [
+        "jouniehe",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g50",
+      "franco": [
+        "zahlea",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g51",
+      "franco": [
+        "w beituto",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g52",
+      "franco": [
+        "w trablousoun",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g53",
+      "franco": [
+        "w saidain",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g54",
+      "franco": [
+        "ya jouniehle",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g55",
+      "franco": [
+        "ya zahleya",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g56",
+      "franco": [
+        "ya beitut",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g57",
+      "franco": [
+        "shu trablouse",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g58",
+      "franco": [
+        "shu saidaa",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g59",
+      "franco": [
+        "shu jounieho",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g60",
+      "franco": [
+        "zahleoun",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g61",
+      "franco": [
+        "beitutin",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g62",
+      "franco": [
+        "trablousle",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g63",
+      "franco": [
+        "w saidaya",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g64",
+      "franco": [
+        "w jounieh",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g65",
+      "franco": [
+        "w zahlee",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g66",
+      "franco": [
+        "ya beituta",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g67",
+      "franco": [
+        "ya trablouso",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g68",
+      "franco": [
+        "ya saidaoun",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g69",
+      "franco": [
+        "shu jouniehin",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g70",
+      "franco": [
+        "shu zahlele",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g71",
+      "franco": [
+        "shu beitutya",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g72",
+      "franco": [
+        "trablous",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g73",
+      "franco": [
+        "saidae",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g74",
+      "franco": [
+        "jounieha",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g75",
+      "franco": [
+        "w zahleo",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g76",
+      "franco": [
+        "w beitutoun",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g77",
+      "franco": [
+        "w trablousin",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g78",
+      "franco": [
+        "ya saidale",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g79",
+      "franco": [
+        "ya jouniehya",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g80",
+      "franco": [
+        "ya zahle",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_beitut_g81",
+      "franco": [
+        "shu beitute",
+        "beitut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli_g82",
+      "franco": [
+        "shu trablousa",
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida_g83",
+      "franco": [
+        "shu saidao",
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh_g84",
+      "franco": [
+        "jouniehoun",
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle_g85",
+      "franco": [
+        "zahlein",
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

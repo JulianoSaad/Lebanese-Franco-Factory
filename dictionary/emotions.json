@@ -50,6 +50,1210 @@
         "emotions"
       ],
       "examples": []
+    },
+    {
+      "id": "e_mabsout_g1",
+      "franco": [
+        "mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g2",
+      "franco": [
+        "za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g3",
+      "franco": [
+        "w ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g4",
+      "franco": [
+        "w mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g5",
+      "franco": [
+        "w mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g6",
+      "franco": [
+        "ya za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g7",
+      "franco": [
+        "ya ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g8",
+      "franco": [
+        "ya mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g9",
+      "franco": [
+        "shu mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g10",
+      "franco": [
+        "shu za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g11",
+      "franco": [
+        "shu ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g12",
+      "franco": [
+        "mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g13",
+      "franco": [
+        "mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g14",
+      "franco": [
+        "za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g15",
+      "franco": [
+        "w ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g16",
+      "franco": [
+        "w mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g17",
+      "franco": [
+        "w mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g18",
+      "franco": [
+        "ya za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g19",
+      "franco": [
+        "ya ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g20",
+      "franco": [
+        "ya mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g21",
+      "franco": [
+        "shu mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g22",
+      "franco": [
+        "shu za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g23",
+      "franco": [
+        "shu ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g24",
+      "franco": [
+        "mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g25",
+      "franco": [
+        "mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g26",
+      "franco": [
+        "za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g27",
+      "franco": [
+        "w ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g28",
+      "franco": [
+        "w mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g29",
+      "franco": [
+        "w mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g30",
+      "franco": [
+        "ya za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g31",
+      "franco": [
+        "ya ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g32",
+      "franco": [
+        "ya mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g33",
+      "franco": [
+        "shu mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g34",
+      "franco": [
+        "shu za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g35",
+      "franco": [
+        "shu ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g36",
+      "franco": [
+        "mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g37",
+      "franco": [
+        "mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g38",
+      "franco": [
+        "za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g39",
+      "franco": [
+        "w ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g40",
+      "franco": [
+        "w mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g41",
+      "franco": [
+        "w mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g42",
+      "franco": [
+        "ya za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g43",
+      "franco": [
+        "ya ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g44",
+      "franco": [
+        "ya mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g45",
+      "franco": [
+        "shu mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g46",
+      "franco": [
+        "shu za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g47",
+      "franco": [
+        "shu ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g48",
+      "franco": [
+        "mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g49",
+      "franco": [
+        "mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g50",
+      "franco": [
+        "za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g51",
+      "franco": [
+        "w ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g52",
+      "franco": [
+        "w mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g53",
+      "franco": [
+        "w mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g54",
+      "franco": [
+        "ya za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g55",
+      "franco": [
+        "ya ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g56",
+      "franco": [
+        "ya mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g57",
+      "franco": [
+        "shu mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g58",
+      "franco": [
+        "shu za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g59",
+      "franco": [
+        "shu ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g60",
+      "franco": [
+        "mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g61",
+      "franco": [
+        "mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g62",
+      "franco": [
+        "za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g63",
+      "franco": [
+        "w ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g64",
+      "franco": [
+        "w mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g65",
+      "franco": [
+        "w mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g66",
+      "franco": [
+        "ya za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g67",
+      "franco": [
+        "ya ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g68",
+      "franco": [
+        "ya mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g69",
+      "franco": [
+        "shu mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g70",
+      "franco": [
+        "shu za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g71",
+      "franco": [
+        "shu ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g72",
+      "franco": [
+        "mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g73",
+      "franco": [
+        "mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g74",
+      "franco": [
+        "za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g75",
+      "franco": [
+        "w ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g76",
+      "franco": [
+        "w mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g77",
+      "franco": [
+        "w mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g78",
+      "franco": [
+        "ya za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g79",
+      "franco": [
+        "ya ta3banya",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g80",
+      "franco": [
+        "ya mesh tamam",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g81",
+      "franco": [
+        "shu mabsoute",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g82",
+      "franco": [
+        "shu za3lana",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban_g83",
+      "franco": [
+        "shu ta3bano",
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam_g84",
+      "franco": [
+        "mesh tamamoun",
+        "mesh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_mabsout_g85",
+      "franco": [
+        "mabsoutin",
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan_g86",
+      "franco": [
+        "za3lanle",
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "expanded",
+        "emotions"
+      ],
+      "examples": []
     }
   ]
 }

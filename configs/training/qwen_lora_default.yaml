@@ -1,0 +1,23 @@
+model_name_or_path: Qwen/Qwen2.5-0.5B-Instruct
+output_dir: output/training/qwen_lora_v0.1
+dataset_mix:
+  - path: output/chat_sft
+    weight: 0.6
+  - path: output/conversion
+    weight: 0.4
+lora:
+  r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules: [q_proj, v_proj]
+train:
+  num_train_epochs: 1
+  per_device_train_batch_size: 2
+  learning_rate: 2.0e-4
+  max_seq_length: 512
+  logging_steps: 10
+  save_steps: 200
+  fp16: false
+  bf16: false
+smoke:
+  max_samples: 64

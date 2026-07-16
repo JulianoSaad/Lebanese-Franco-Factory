@@ -75,6 +75,1182 @@
         "food"
       ],
       "examples": []
+    },
+    {
+      "id": "f_man2oushe_g1",
+      "franco": [
+        "man2oushee",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g2",
+      "franco": [
+        "hummusa",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g3",
+      "franco": [
+        "w tabbouleo",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g4",
+      "franco": [
+        "w falafeloun",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g5",
+      "franco": [
+        "w kahwein",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g6",
+      "franco": [
+        "ya shayle",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g7",
+      "franco": [
+        "ya man2ousheya",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g8",
+      "franco": [
+        "ya hummus",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g9",
+      "franco": [
+        "shu tabboulee",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g10",
+      "franco": [
+        "shu falafela",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g11",
+      "franco": [
+        "shu kahweo",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g12",
+      "franco": [
+        "shayoun",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g13",
+      "franco": [
+        "man2oushein",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g14",
+      "franco": [
+        "hummusle",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g15",
+      "franco": [
+        "w tabbouleya",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g16",
+      "franco": [
+        "w falafel",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g17",
+      "franco": [
+        "w kahwee",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g18",
+      "franco": [
+        "ya shaya",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g19",
+      "franco": [
+        "ya man2ousheo",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g20",
+      "franco": [
+        "ya hummusoun",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g21",
+      "franco": [
+        "shu tabboulein",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g22",
+      "franco": [
+        "shu falafelle",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g23",
+      "franco": [
+        "shu kahweya",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g24",
+      "franco": [
+        "shay",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g25",
+      "franco": [
+        "man2oushee",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g26",
+      "franco": [
+        "hummusa",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g27",
+      "franco": [
+        "w tabbouleo",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g28",
+      "franco": [
+        "w falafeloun",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g29",
+      "franco": [
+        "w kahwein",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g30",
+      "franco": [
+        "ya shayle",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g31",
+      "franco": [
+        "ya man2ousheya",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g32",
+      "franco": [
+        "ya hummus",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g33",
+      "franco": [
+        "shu tabboulee",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g34",
+      "franco": [
+        "shu falafela",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g35",
+      "franco": [
+        "shu kahweo",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g36",
+      "franco": [
+        "shayoun",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g37",
+      "franco": [
+        "man2oushein",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g38",
+      "franco": [
+        "hummusle",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g39",
+      "franco": [
+        "w tabbouleya",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g40",
+      "franco": [
+        "w falafel",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g41",
+      "franco": [
+        "w kahwee",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g42",
+      "franco": [
+        "ya shaya",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g43",
+      "franco": [
+        "ya man2ousheo",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g44",
+      "franco": [
+        "ya hummusoun",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g45",
+      "franco": [
+        "shu tabboulein",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g46",
+      "franco": [
+        "shu falafelle",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g47",
+      "franco": [
+        "shu kahweya",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g48",
+      "franco": [
+        "shay",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g49",
+      "franco": [
+        "man2oushee",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g50",
+      "franco": [
+        "hummusa",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g51",
+      "franco": [
+        "w tabbouleo",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g52",
+      "franco": [
+        "w falafeloun",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g53",
+      "franco": [
+        "w kahwein",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g54",
+      "franco": [
+        "ya shayle",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g55",
+      "franco": [
+        "ya man2ousheya",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g56",
+      "franco": [
+        "ya hummus",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g57",
+      "franco": [
+        "shu tabboulee",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g58",
+      "franco": [
+        "shu falafela",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g59",
+      "franco": [
+        "shu kahweo",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g60",
+      "franco": [
+        "shayoun",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g61",
+      "franco": [
+        "man2oushein",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g62",
+      "franco": [
+        "hummusle",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g63",
+      "franco": [
+        "w tabbouleya",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g64",
+      "franco": [
+        "w falafel",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g65",
+      "franco": [
+        "w kahwee",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g66",
+      "franco": [
+        "ya shaya",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g67",
+      "franco": [
+        "ya man2ousheo",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g68",
+      "franco": [
+        "ya hummusoun",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g69",
+      "franco": [
+        "shu tabboulein",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g70",
+      "franco": [
+        "shu falafelle",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g71",
+      "franco": [
+        "shu kahweya",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g72",
+      "franco": [
+        "shay",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g73",
+      "franco": [
+        "man2oushee",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g74",
+      "franco": [
+        "hummusa",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g75",
+      "franco": [
+        "w tabbouleo",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g76",
+      "franco": [
+        "w falafeloun",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g77",
+      "franco": [
+        "w kahwein",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g78",
+      "franco": [
+        "ya shayle",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_man2oushe_g79",
+      "franco": [
+        "ya man2ousheya",
+        "man2oushe"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus_g80",
+      "franco": [
+        "ya hummus",
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule_g81",
+      "franco": [
+        "shu tabboulee",
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel_g82",
+      "franco": [
+        "shu falafela",
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe_g83",
+      "franco": [
+        "shu kahweo",
+        "kahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay_g84",
+      "franco": [
+        "shayoun",
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "expanded",
+        "food"
+      ],
+      "examples": []
     }
   ]
 }

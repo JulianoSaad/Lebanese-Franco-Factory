@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "packs": {
+    "cities": 90,
+    "emotions": 90,
+    "family": 90,
+    "food": 90,
+    "gaming": 90,
+    "greetings": 90,
+    "programming": 90,
+    "relationships": 90,
+    "sports": 90,
+    "technology": 90,
+    "verbs": 90,
+    "work": 90
+  },
+  "entry_count": 1080
+}

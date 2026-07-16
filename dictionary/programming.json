@@ -49,6 +49,1210 @@
         "programming"
       ],
       "examples": []
+    },
+    {
+      "id": "p_code_g1",
+      "franco": [
+        "codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g2",
+      "franco": [
+        "buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g3",
+      "franco": [
+        "w apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g4",
+      "franco": [
+        "w pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g5",
+      "franco": [
+        "w codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g6",
+      "franco": [
+        "ya bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g7",
+      "franco": [
+        "ya apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g8",
+      "franco": [
+        "ya python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g9",
+      "franco": [
+        "shu codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g10",
+      "franco": [
+        "shu buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g11",
+      "franco": [
+        "shu apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g12",
+      "franco": [
+        "pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g13",
+      "franco": [
+        "codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g14",
+      "franco": [
+        "bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g15",
+      "franco": [
+        "w apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g16",
+      "franco": [
+        "w python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g17",
+      "franco": [
+        "w codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g18",
+      "franco": [
+        "ya buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g19",
+      "franco": [
+        "ya apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g20",
+      "franco": [
+        "ya pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g21",
+      "franco": [
+        "shu codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g22",
+      "franco": [
+        "shu bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g23",
+      "franco": [
+        "shu apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g24",
+      "franco": [
+        "python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g25",
+      "franco": [
+        "codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g26",
+      "franco": [
+        "buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g27",
+      "franco": [
+        "w apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g28",
+      "franco": [
+        "w pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g29",
+      "franco": [
+        "w codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g30",
+      "franco": [
+        "ya bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g31",
+      "franco": [
+        "ya apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g32",
+      "franco": [
+        "ya python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g33",
+      "franco": [
+        "shu codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g34",
+      "franco": [
+        "shu buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g35",
+      "franco": [
+        "shu apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g36",
+      "franco": [
+        "pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g37",
+      "franco": [
+        "codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g38",
+      "franco": [
+        "bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g39",
+      "franco": [
+        "w apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g40",
+      "franco": [
+        "w python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g41",
+      "franco": [
+        "w codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g42",
+      "franco": [
+        "ya buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g43",
+      "franco": [
+        "ya apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g44",
+      "franco": [
+        "ya pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g45",
+      "franco": [
+        "shu codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g46",
+      "franco": [
+        "shu bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g47",
+      "franco": [
+        "shu apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g48",
+      "franco": [
+        "python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g49",
+      "franco": [
+        "codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g50",
+      "franco": [
+        "buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g51",
+      "franco": [
+        "w apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g52",
+      "franco": [
+        "w pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g53",
+      "franco": [
+        "w codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g54",
+      "franco": [
+        "ya bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g55",
+      "franco": [
+        "ya apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g56",
+      "franco": [
+        "ya python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g57",
+      "franco": [
+        "shu codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g58",
+      "franco": [
+        "shu buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g59",
+      "franco": [
+        "shu apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g60",
+      "franco": [
+        "pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g61",
+      "franco": [
+        "codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g62",
+      "franco": [
+        "bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g63",
+      "franco": [
+        "w apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g64",
+      "franco": [
+        "w python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g65",
+      "franco": [
+        "w codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g66",
+      "franco": [
+        "ya buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g67",
+      "franco": [
+        "ya apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g68",
+      "franco": [
+        "ya pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g69",
+      "franco": [
+        "shu codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g70",
+      "franco": [
+        "shu bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g71",
+      "franco": [
+        "shu apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g72",
+      "franco": [
+        "python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g73",
+      "franco": [
+        "codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g74",
+      "franco": [
+        "buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g75",
+      "franco": [
+        "w apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g76",
+      "franco": [
+        "w pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g77",
+      "franco": [
+        "w codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g78",
+      "franco": [
+        "ya bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g79",
+      "franco": [
+        "ya apiya",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g80",
+      "franco": [
+        "ya python",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g81",
+      "franco": [
+        "shu codee",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g82",
+      "franco": [
+        "shu buga",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api_g83",
+      "franco": [
+        "shu apio",
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python_g84",
+      "franco": [
+        "pythonoun",
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_code_g85",
+      "franco": [
+        "codein",
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug_g86",
+      "franco": [
+        "bugle",
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "expanded",
+        "programming"
+      ],
+      "examples": []
     }
   ]
 }

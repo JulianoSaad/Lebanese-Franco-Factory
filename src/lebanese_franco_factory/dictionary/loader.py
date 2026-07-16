@@ -13,9 +13,12 @@ class DictionaryError(ValueError):
     """Raised when a dictionary pack is missing or invalid."""
 
 
+_SKIP_FILES = {"schema.json", "dictionary_index.json"}
+
+
 def list_packs(base: Path | None = None) -> list[str]:
     root = base or dictionary_dir()
-    return sorted(p.stem for p in root.glob("*.json") if p.name != "schema.json")
+    return sorted(p.stem for p in root.glob("*.json") if p.name not in _SKIP_FILES)
 
 
 def load_pack(name: str, base: Path | None = None) -> dict[str, Any]:

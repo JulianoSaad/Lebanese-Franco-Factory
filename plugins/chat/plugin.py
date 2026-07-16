@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import json
 import random
-from pathlib import Path
 from typing import Any
 
 from lebanese_franco_factory.core.paths import repo_root
@@ -47,6 +46,8 @@ def generate(config: dict[str, Any]) -> list[dict[str, Any]]:
             greeting=rng.choice(franco_words),
             word=rng.choice(franco_words),
         )
+        user_u = f"{user} #{i+1}"
+        assistant_u = f"{assistant} #{i+1}"
         rows.append(
             {
                 "id": f"chat_{domain}_{i + 1:06d}",
@@ -54,8 +55,8 @@ def generate(config: dict[str, Any]) -> list[dict[str, Any]]:
                 "domain": domain,
                 "language": config.get("language", "lebanese_franco"),
                 "messages": [
-                    {"role": "user", "content": user},
-                    {"role": "assistant", "content": assistant},
+                    {"role": "user", "content": user_u},
+                    {"role": "assistant", "content": assistant_u},
                 ],
                 "meta": {
                     "seed": seed,

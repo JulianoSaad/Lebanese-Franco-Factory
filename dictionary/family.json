@@ -51,6 +51,1210 @@
         "family"
       ],
       "examples": []
+    },
+    {
+      "id": "fam_bayye_g1",
+      "franco": [
+        "bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g2",
+      "franco": [
+        "immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g3",
+      "franco": [
+        "w khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g4",
+      "franco": [
+        "w ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g5",
+      "franco": [
+        "w bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g6",
+      "franco": [
+        "ya immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g7",
+      "franco": [
+        "ya khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g8",
+      "franco": [
+        "ya ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g9",
+      "franco": [
+        "shu bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g10",
+      "franco": [
+        "shu immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g11",
+      "franco": [
+        "shu khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g12",
+      "franco": [
+        "ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g13",
+      "franco": [
+        "bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g14",
+      "franco": [
+        "immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g15",
+      "franco": [
+        "w khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g16",
+      "franco": [
+        "w ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g17",
+      "franco": [
+        "w bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g18",
+      "franco": [
+        "ya immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g19",
+      "franco": [
+        "ya khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g20",
+      "franco": [
+        "ya ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g21",
+      "franco": [
+        "shu bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g22",
+      "franco": [
+        "shu immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g23",
+      "franco": [
+        "shu khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g24",
+      "franco": [
+        "ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g25",
+      "franco": [
+        "bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g26",
+      "franco": [
+        "immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g27",
+      "franco": [
+        "w khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g28",
+      "franco": [
+        "w ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g29",
+      "franco": [
+        "w bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g30",
+      "franco": [
+        "ya immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g31",
+      "franco": [
+        "ya khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g32",
+      "franco": [
+        "ya ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g33",
+      "franco": [
+        "shu bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g34",
+      "franco": [
+        "shu immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g35",
+      "franco": [
+        "shu khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g36",
+      "franco": [
+        "ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g37",
+      "franco": [
+        "bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g38",
+      "franco": [
+        "immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g39",
+      "franco": [
+        "w khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g40",
+      "franco": [
+        "w ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g41",
+      "franco": [
+        "w bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g42",
+      "franco": [
+        "ya immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g43",
+      "franco": [
+        "ya khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g44",
+      "franco": [
+        "ya ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g45",
+      "franco": [
+        "shu bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g46",
+      "franco": [
+        "shu immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g47",
+      "franco": [
+        "shu khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g48",
+      "franco": [
+        "ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g49",
+      "franco": [
+        "bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g50",
+      "franco": [
+        "immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g51",
+      "franco": [
+        "w khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g52",
+      "franco": [
+        "w ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g53",
+      "franco": [
+        "w bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g54",
+      "franco": [
+        "ya immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g55",
+      "franco": [
+        "ya khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g56",
+      "franco": [
+        "ya ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g57",
+      "franco": [
+        "shu bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g58",
+      "franco": [
+        "shu immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g59",
+      "franco": [
+        "shu khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g60",
+      "franco": [
+        "ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g61",
+      "franco": [
+        "bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g62",
+      "franco": [
+        "immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g63",
+      "franco": [
+        "w khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g64",
+      "franco": [
+        "w ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g65",
+      "franco": [
+        "w bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g66",
+      "franco": [
+        "ya immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g67",
+      "franco": [
+        "ya khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g68",
+      "franco": [
+        "ya ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g69",
+      "franco": [
+        "shu bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g70",
+      "franco": [
+        "shu immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g71",
+      "franco": [
+        "shu khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g72",
+      "franco": [
+        "ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g73",
+      "franco": [
+        "bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g74",
+      "franco": [
+        "immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g75",
+      "franco": [
+        "w khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g76",
+      "franco": [
+        "w ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g77",
+      "franco": [
+        "w bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g78",
+      "franco": [
+        "ya immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g79",
+      "franco": [
+        "ya khayyeya",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g80",
+      "franco": [
+        "ya ekhte",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g81",
+      "franco": [
+        "shu bayyee",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g82",
+      "franco": [
+        "shu immea",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye_g83",
+      "franco": [
+        "shu khayyeo",
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte_g84",
+      "franco": [
+        "ekhteoun",
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_bayye_g85",
+      "franco": [
+        "bayyein",
+        "bayye"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme_g86",
+      "franco": [
+        "immele",
+        "imme"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "expanded",
+        "family"
+      ],
+      "examples": []
     }
   ]
 }

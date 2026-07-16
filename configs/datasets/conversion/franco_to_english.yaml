@@ -1,0 +1,14 @@
+name: franco_to_english
+plugin: conversion
+family: conversion
+direction: franco_to_english
+language: lebanese_franco
+version: 0.1.0
+size: 50000
+seed: 42
+export:
+  format: jsonl
+  split:
+    train: 0.98
+    validation: 0.01
+    test: 0.01

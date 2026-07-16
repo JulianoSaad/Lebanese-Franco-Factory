@@ -1,0 +1,62 @@
+[
+  {
+    "source": "kifak?a",
+    "expected": "kifak?"
+  },
+  {
+    "source": "mar7abaa",
+    "expected": "mar7aba"
+  },
+  {
+    "source": "ahlaa",
+    "expected": "ahla"
+  },
+  {
+    "source": "yallaa",
+    "expected": "yalla"
+  },
+  {
+    "source": "shu fi?a",
+    "expected": "shu fi?"
+  },
+  {
+    "source": "tamama",
+    "expected": "tamam"
+  },
+  {
+    "source": "mesh meshklea",
+    "expected": "mesh meshkle"
+  },
+  {
+    "source": "shukrana",
+    "expected": "shukran"
+  },
+  {
+    "source": "3afwana",
+    "expected": "3afwan"
+  },
+  {
+    "source": "sabah l khera",
+    "expected": "sabah l kher"
+  },
+  {
+    "source": "masa l khera",
+    "expected": "masa l kher"
+  },
+  {
+    "source": "tesba7 3ala khera",
+    "expected": "tesba7 3ala kher"
+  },
+  {
+    "source": "waynak?a",
+    "expected": "waynak?"
+  },
+  {
+    "source": "shu 3am ta3mil?a",
+    "expected": "shu 3am ta3mil?"
+  },
+  {
+    "source": "baddea",
+    "expected": "badde"
+  }
+]

@@ -1,0 +1,14 @@
+name: variants
+plugin: spelling
+family: spelling
+kind: variants
+language: lebanese_franco
+version: 0.1.0
+size: 10000
+seed: 42
+export:
+  format: jsonl
+  split:
+    train: 0.98
+    validation: 0.01
+    test: 0.01

@@ -50,6 +50,1210 @@
         "technology"
       ],
       "examples": []
+    },
+    {
+      "id": "t_phone_g1",
+      "franco": [
+        "phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g2",
+      "franco": [
+        "interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g3",
+      "franco": [
+        "w appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g4",
+      "franco": [
+        "w wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g5",
+      "franco": [
+        "w phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g6",
+      "franco": [
+        "ya internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g7",
+      "franco": [
+        "ya appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g8",
+      "franco": [
+        "ya wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g9",
+      "franco": [
+        "shu phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g10",
+      "franco": [
+        "shu interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g11",
+      "franco": [
+        "shu appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g12",
+      "franco": [
+        "wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g13",
+      "franco": [
+        "phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g14",
+      "franco": [
+        "internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g15",
+      "franco": [
+        "w appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g16",
+      "franco": [
+        "w wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g17",
+      "franco": [
+        "w phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g18",
+      "franco": [
+        "ya interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g19",
+      "franco": [
+        "ya appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g20",
+      "franco": [
+        "ya wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g21",
+      "franco": [
+        "shu phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g22",
+      "franco": [
+        "shu internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g23",
+      "franco": [
+        "shu appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g24",
+      "franco": [
+        "wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g25",
+      "franco": [
+        "phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g26",
+      "franco": [
+        "interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g27",
+      "franco": [
+        "w appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g28",
+      "franco": [
+        "w wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g29",
+      "franco": [
+        "w phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g30",
+      "franco": [
+        "ya internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g31",
+      "franco": [
+        "ya appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g32",
+      "franco": [
+        "ya wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g33",
+      "franco": [
+        "shu phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g34",
+      "franco": [
+        "shu interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g35",
+      "franco": [
+        "shu appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g36",
+      "franco": [
+        "wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g37",
+      "franco": [
+        "phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g38",
+      "franco": [
+        "internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g39",
+      "franco": [
+        "w appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g40",
+      "franco": [
+        "w wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g41",
+      "franco": [
+        "w phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g42",
+      "franco": [
+        "ya interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g43",
+      "franco": [
+        "ya appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g44",
+      "franco": [
+        "ya wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g45",
+      "franco": [
+        "shu phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g46",
+      "franco": [
+        "shu internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g47",
+      "franco": [
+        "shu appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g48",
+      "franco": [
+        "wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g49",
+      "franco": [
+        "phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g50",
+      "franco": [
+        "interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g51",
+      "franco": [
+        "w appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g52",
+      "franco": [
+        "w wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g53",
+      "franco": [
+        "w phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g54",
+      "franco": [
+        "ya internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g55",
+      "franco": [
+        "ya appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g56",
+      "franco": [
+        "ya wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g57",
+      "franco": [
+        "shu phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g58",
+      "franco": [
+        "shu interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g59",
+      "franco": [
+        "shu appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g60",
+      "franco": [
+        "wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g61",
+      "franco": [
+        "phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g62",
+      "franco": [
+        "internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g63",
+      "franco": [
+        "w appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g64",
+      "franco": [
+        "w wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g65",
+      "franco": [
+        "w phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g66",
+      "franco": [
+        "ya interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g67",
+      "franco": [
+        "ya appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g68",
+      "franco": [
+        "ya wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g69",
+      "franco": [
+        "shu phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g70",
+      "franco": [
+        "shu internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g71",
+      "franco": [
+        "shu appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g72",
+      "franco": [
+        "wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g73",
+      "franco": [
+        "phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g74",
+      "franco": [
+        "interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g75",
+      "franco": [
+        "w appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g76",
+      "franco": [
+        "w wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g77",
+      "franco": [
+        "w phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g78",
+      "franco": [
+        "ya internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g79",
+      "franco": [
+        "ya appya",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g80",
+      "franco": [
+        "ya wifi",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g81",
+      "franco": [
+        "shu phonee",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g82",
+      "franco": [
+        "shu interneta",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app_g83",
+      "franco": [
+        "shu appo",
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi_g84",
+      "franco": [
+        "wifioun",
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_phone_g85",
+      "franco": [
+        "phonein",
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet_g86",
+      "franco": [
+        "internetle",
+        "internet"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

@@ -37,6 +37,1224 @@
         "relationships"
       ],
       "examples": []
+    },
+    {
+      "id": "r_sa7eb_g1",
+      "franco": [
+        "sa7ebe",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g2",
+      "franco": [
+        "sa7baa",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g3",
+      "franco": [
+        "w 7abibeo",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g4",
+      "franco": [
+        "w sa7eboun",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g5",
+      "franco": [
+        "w sa7bain",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g6",
+      "franco": [
+        "ya 7abibele",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g7",
+      "franco": [
+        "ya sa7ebya",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g8",
+      "franco": [
+        "ya sa7ba",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g9",
+      "franco": [
+        "shu 7abibee",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g10",
+      "franco": [
+        "shu sa7eba",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g11",
+      "franco": [
+        "shu sa7bao",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g12",
+      "franco": [
+        "7abibeoun",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g13",
+      "franco": [
+        "sa7ebin",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g14",
+      "franco": [
+        "sa7bale",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g15",
+      "franco": [
+        "w 7abibeya",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g16",
+      "franco": [
+        "w sa7eb",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g17",
+      "franco": [
+        "w sa7bae",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g18",
+      "franco": [
+        "ya 7abibea",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g19",
+      "franco": [
+        "ya sa7ebo",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g20",
+      "franco": [
+        "ya sa7baoun",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g21",
+      "franco": [
+        "shu 7abibein",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g22",
+      "franco": [
+        "shu sa7eble",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g23",
+      "franco": [
+        "shu sa7baya",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g24",
+      "franco": [
+        "7abibe",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g25",
+      "franco": [
+        "sa7ebe",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g26",
+      "franco": [
+        "sa7baa",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g27",
+      "franco": [
+        "w 7abibeo",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g28",
+      "franco": [
+        "w sa7eboun",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g29",
+      "franco": [
+        "w sa7bain",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g30",
+      "franco": [
+        "ya 7abibele",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g31",
+      "franco": [
+        "ya sa7ebya",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g32",
+      "franco": [
+        "ya sa7ba",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g33",
+      "franco": [
+        "shu 7abibee",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g34",
+      "franco": [
+        "shu sa7eba",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g35",
+      "franco": [
+        "shu sa7bao",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g36",
+      "franco": [
+        "7abibeoun",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g37",
+      "franco": [
+        "sa7ebin",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g38",
+      "franco": [
+        "sa7bale",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g39",
+      "franco": [
+        "w 7abibeya",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g40",
+      "franco": [
+        "w sa7eb",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g41",
+      "franco": [
+        "w sa7bae",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g42",
+      "franco": [
+        "ya 7abibea",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g43",
+      "franco": [
+        "ya sa7ebo",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g44",
+      "franco": [
+        "ya sa7baoun",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g45",
+      "franco": [
+        "shu 7abibein",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g46",
+      "franco": [
+        "shu sa7eble",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g47",
+      "franco": [
+        "shu sa7baya",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g48",
+      "franco": [
+        "7abibe",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g49",
+      "franco": [
+        "sa7ebe",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g50",
+      "franco": [
+        "sa7baa",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g51",
+      "franco": [
+        "w 7abibeo",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g52",
+      "franco": [
+        "w sa7eboun",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g53",
+      "franco": [
+        "w sa7bain",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g54",
+      "franco": [
+        "ya 7abibele",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g55",
+      "franco": [
+        "ya sa7ebya",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g56",
+      "franco": [
+        "ya sa7ba",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g57",
+      "franco": [
+        "shu 7abibee",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g58",
+      "franco": [
+        "shu sa7eba",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g59",
+      "franco": [
+        "shu sa7bao",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g60",
+      "franco": [
+        "7abibeoun",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g61",
+      "franco": [
+        "sa7ebin",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g62",
+      "franco": [
+        "sa7bale",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g63",
+      "franco": [
+        "w 7abibeya",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g64",
+      "franco": [
+        "w sa7eb",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g65",
+      "franco": [
+        "w sa7bae",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g66",
+      "franco": [
+        "ya 7abibea",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g67",
+      "franco": [
+        "ya sa7ebo",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g68",
+      "franco": [
+        "ya sa7baoun",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g69",
+      "franco": [
+        "shu 7abibein",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g70",
+      "franco": [
+        "shu sa7eble",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g71",
+      "franco": [
+        "shu sa7baya",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g72",
+      "franco": [
+        "7abibe",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g73",
+      "franco": [
+        "sa7ebe",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g74",
+      "franco": [
+        "sa7baa",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g75",
+      "franco": [
+        "w 7abibeo",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g76",
+      "franco": [
+        "w sa7eboun",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g77",
+      "franco": [
+        "w sa7bain",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g78",
+      "franco": [
+        "ya 7abibele",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g79",
+      "franco": [
+        "ya sa7ebya",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g80",
+      "franco": [
+        "ya sa7ba",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g81",
+      "franco": [
+        "shu 7abibee",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g82",
+      "franco": [
+        "shu sa7eba",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g83",
+      "franco": [
+        "shu sa7bao",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g84",
+      "franco": [
+        "7abibeoun",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7eb_g85",
+      "franco": [
+        "sa7ebin",
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba_g86",
+      "franco": [
+        "sa7bale",
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe_g87",
+      "franco": [
+        "w 7abibeya",
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships",
+        "expanded"
+      ],
+      "examples": []
     }
   ]
 }

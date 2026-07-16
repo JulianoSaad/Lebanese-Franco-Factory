@@ -375,7 +375,7 @@
     "id": "conv_063",
     "direction": "arabic_to_franco",
     "input": "جامعة",
-    "expected": "jam3a"
+    "expected": "jem3a"
   },
   {
     "id": "conv_064",

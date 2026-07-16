@@ -1,0 +1,31 @@
+{
+  "pack": "time",
+  "version": "0.1.0",
+  "notes": "Lebanese Franco spelling: university=jem3a; friday/week=jom3a (native convention).",
+  "entries": [
+    {
+      "id": "t_jem3a_university",
+      "franco": ["jem3a"],
+      "arabic": "جامعة",
+      "english": "university",
+      "tags": ["time", "education"],
+      "examples": []
+    },
+    {
+      "id": "t_jom3a_friday",
+      "franco": ["jom3a"],
+      "arabic": "جمعة",
+      "english": "friday",
+      "tags": ["time", "calendar"],
+      "examples": []
+    },
+    {
+      "id": "t_jom3a_week",
+      "franco": ["jom3a"],
+      "arabic": "أسبوع",
+      "english": "week",
+      "tags": ["time", "calendar"],
+      "examples": []
+    }
+  ]
+}

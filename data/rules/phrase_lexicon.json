@@ -1881,12 +1881,12 @@
   },
   {
     "arabic": "مرحبا",
-    "franco": "shu mar7abaya",
+    "franco": "mar7aba",
     "english": "hello"
   },
   {
     "arabic": "كيفك؟",
-    "franco": "kifike",
+    "franco": "kifak?",
     "english": "how are you (f)"
   },
   {
@@ -1896,7 +1896,7 @@
   },
   {
     "arabic": "صباح الخير",
-    "franco": "w sabah l khero",
+    "franco": "sabah l kher",
     "english": "good morning"
   },
   {
@@ -24998,5 +24998,195 @@
     "arabic": "منيح (4448)",
     "franco": "mnih (4448)",
     "english": "good / fine"
+  },
+  {
+    "arabic": "شو في ما في؟",
+    "franco": "shu fi ma fi?",
+    "english": "what's up?"
+  },
+  {
+    "arabic": "يا زلمة",
+    "franco": "ya zalame",
+    "english": "dude"
+  },
+  {
+    "arabic": "على راسي",
+    "franco": "3ala rase",
+    "english": "of course / my pleasure"
+  },
+  {
+    "arabic": "كل شي تمام",
+    "franco": "kell shi tamam",
+    "english": "everything is fine"
+  },
+  {
+    "arabic": "ما بعرف",
+    "franco": "ma b3rif",
+    "english": "I don't know"
+  },
+  {
+    "arabic": "استنى شوي",
+    "franco": "stanna shway",
+    "english": "wait a bit"
+  },
+  {
+    "arabic": "شو رأيك؟",
+    "franco": "shu ra2yak?",
+    "english": "what do you think?"
+  },
+  {
+    "arabic": "خلصنا",
+    "franco": "khallasna",
+    "english": "we're done"
+  },
+  {
+    "arabic": "النت مقطوع",
+    "franco": "l net ma2tou3",
+    "english": "the internet is down"
+  },
+  {
+    "arabic": "في ترافيك",
+    "franco": "fi traffic",
+    "english": "there's traffic"
+  },
+  {
+    "arabic": "بدك قهوة؟",
+    "franco": "baddak ahwe?",
+    "english": "do you want coffee?"
+  },
+  {
+    "arabic": "منيح كتير",
+    "franco": "mnih ktir",
+    "english": "very good"
+  },
+  {
+    "arabic": "بشوفك",
+    "franco": "bshoufak",
+    "english": "see you"
+  },
+  {
+    "arabic": "تعال لهون",
+    "franco": "ta3a la hon",
+    "english": "come here"
+  },
+  {
+    "arabic": "ما في شي",
+    "franco": "ma fi chi",
+    "english": "nothing / it's nothing"
+  },
+  {
+    "arabic": "شو بدك؟",
+    "franco": "shou baddak?",
+    "english": "what do you want?"
+  },
+  {
+    "arabic": "بخير",
+    "franco": "bkhir",
+    "english": "fine / well"
+  },
+  {
+    "arabic": "يلا باي",
+    "franco": "yalla bye",
+    "english": "alright bye"
+  },
+  {
+    "arabic": "صحتين",
+    "franco": "sa7tein",
+    "english": "bon appetit / health"
+  },
+  {
+    "arabic": "ع راسي",
+    "franco": "3a rasi",
+    "english": "gladly"
+  },
+  {
+    "arabic": "ما تقلق",
+    "franco": "ma t2ela2",
+    "english": "don't worry"
+  },
+  {
+    "arabic": "شغل كتير",
+    "franco": "shighl ktir",
+    "english": "lots of work"
+  },
+  {
+    "arabic": "الميتينغ تأجل",
+    "franco": "l meeting t2ajjal",
+    "english": "the meeting was postponed"
+  },
+  {
+    "arabic": "جول مجنون",
+    "franco": "goal majnoun",
+    "english": "crazy goal"
+  },
+  {
+    "arabic": "الأب ما عم يفتح",
+    "franco": "l app ma 3am yefte7",
+    "english": "the app won't open"
+  },
+  {
+    "arabic": "بحب المناقيش",
+    "franco": "b7ibb l man2oushe",
+    "english": "I love manakish"
+  },
+  {
+    "arabic": "بيروت وحشة",
+    "franco": "beitut w7she",
+    "english": "Beirut is chaotic/missed vibes"
+  },
+  {
+    "arabic": "خلينا نشوف",
+    "franco": "khalleena nshouf",
+    "english": "let's see"
+  },
+  {
+    "arabic": "ما فهمت عليك",
+    "franco": "ma fhimt 3layk",
+    "english": "I didn't get what you mean"
+  },
+  {
+    "arabic": "يلا نروح",
+    "franco": "yalla nrou7",
+    "english": ""
+  },
+  {
+    "arabic": "هلق بجي",
+    "franco": "halla2 bji",
+    "english": ""
+  },
+  {
+    "arabic": "تعبان اليوم",
+    "franco": "ta3ban l yom",
+    "english": ""
+  },
+  {
+    "arabic": "بدي قهوة",
+    "franco": "badde kahwe",
+    "english": ""
+  },
+  {
+    "arabic": "خلينا نحكى بعدين",
+    "franco": "khalleena ne7ke ba3den",
+    "english": ""
+  },
+  {
+    "arabic": "بعد شوي",
+    "franco": "ba3d shway",
+    "english": ""
+  },
+  {
+    "arabic": "خلصنا الشغل",
+    "franco": "khallasna l shighl",
+    "english": ""
+  },
+  {
+    "arabic": "في مباراة اليوم؟",
+    "franco": "fi match l yom?",
+    "english": ""
+  },
+  {
+    "arabic": "بعتلي الرسالة",
+    "franco": "b3atli l risale",
+    "english": ""
   }
 ]

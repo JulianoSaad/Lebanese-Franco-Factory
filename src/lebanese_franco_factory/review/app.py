@@ -1,7 +1,8 @@
-"""Human review UI — Correct / Edit / Reject → feedback/human_feedback.jsonl."""
+"""Human review UI — prefers curated queue, writes human_feedback.jsonl."""
 
 from __future__ import annotations
 
+import html
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -20,13 +21,58 @@ def feedback_path() -> Path:
     return path / "human_feedback.jsonl"
 
 
+def reviewed_ids() -> set[str]:
+    path = feedback_path()
+    if not path.exists():
+        return set()
+    ids: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        ids.add(json.loads(line).get("id", ""))
+    return ids
+
+
 def load_queue(limit: int = 50) -> list[dict]:
+    """Prefer curated review queue, then fall back to generated conversion rows."""
+    done = reviewed_ids()
     rows: list[dict] = []
+
+    curated = repo_root() / "data" / "review" / "queue_v0.2.jsonl"
+    if curated.exists():
+        for line in curated.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            if row.get("id") in done:
+                continue
+            if row.get("family") == "conversion":
+                rows.append(row)
+            elif row.get("family") == "chat_sft":
+                # Flatten chat into reviewable text pair for the simple UI
+                msgs = row.get("messages") or []
+                if len(msgs) >= 2:
+                    rows.append(
+                        {
+                            "id": row["id"],
+                            "family": "chat_sft",
+                            "source": msgs[0].get("content", ""),
+                            "target": msgs[1].get("content", ""),
+                        }
+                    )
+            if len(rows) >= limit:
+                return rows
+
+    if rows:
+        return rows
+
     for clean in sorted(output_dir().rglob("clean.jsonl")):
         for line in clean.read_text(encoding="utf-8").splitlines():
             if not line.strip():
                 continue
             row = json.loads(line)
+            if row.get("id") in done:
+                continue
             if row.get("family") == "conversion":
                 rows.append(row)
             if len(rows) >= limit:
@@ -38,31 +84,40 @@ def load_queue(limit: int = 50) -> list[dict]:
 @app.get("/review", response_class=HTMLResponse)
 def review_home() -> str:
     queue = load_queue()
+    remaining = len(queue)
     if not queue:
-        return "<html><body><h1>No conversion samples yet. Generate data first.</h1></body></html>"
+        return (
+            "<html><body><h1>Review queue empty</h1>"
+            "<p>All curated items reviewed, or generate more data.</p>"
+            "<p><a href='/'>Refresh</a></p></body></html>"
+        )
     item = queue[0]
+    src = html.escape(str(item.get("source", "")))
+    tgt = html.escape(str(item.get("target", "")))
+    iid = html.escape(str(item.get("id", "")))
     return f"""<!doctype html>
 <html><head><meta charset='utf-8'><title>Review</title>
 <style>
 body{{font-family:system-ui,sans-serif;max-width:640px;margin:2rem auto;padding:0 1rem}}
 .box{{border:1px solid #ccc;padding:1rem;margin:1rem 0;border-radius:8px}}
-button{{margin-right:.5rem;padding:.5rem .9rem}}
+button{{margin-right:.5rem;padding:.5rem .9rem;cursor:pointer}}
+.meta{{color:#666;font-size:.9rem}}
 </style></head><body>
 <h1>Human Review</h1>
-<div class='box'><b>Original</b><div>{item.get('source','')}</div></div>
-<div class='box'><b>Generated</b><div>{item.get('target','')}</div></div>
+<p class='meta'>Remaining in queue: {remaining} · id: {iid}</p>
+<div class='box'><b>Original</b><div>{src}</div></div>
+<div class='box'><b>Generated</b><div>{tgt}</div></div>
 <form method='post' action='/review/submit'>
-<input type='hidden' name='id' value='{item.get('id','')}'>
-<input type='hidden' name='original' value='{item.get('source','')}'>
-<input type='hidden' name='generated' value='{item.get('target','')}'>
-<label>Edit <input name='corrected' value='{item.get('target','')}' style='width:100%'></label>
+<input type='hidden' name='id' value='{iid}'>
+<input type='hidden' name='original' value='{src}'>
+<input type='hidden' name='generated' value='{tgt}'>
+<label>Edit <input name='corrected' value='{tgt}' style='width:100%'></label>
 <p>
 <button name='decision' value='correct'>Correct</button>
 <button name='decision' value='edit'>Edit</button>
 <button name='decision' value='reject'>Reject</button>
 </p>
 </form>
-<p><a href='/'>Dashboard</a></p>
 </body></html>"""
 
 
@@ -82,7 +137,7 @@ def submit(
         "corrected": corrected if decision == "edit" else generated,
         "reviewer": "anonymous",
         "timestamp": datetime.now(timezone.utc).isoformat(),
-        "dataset_version": "v0.1",
+        "dataset_version": "v0.2",
     }
     with feedback_path().open("a", encoding="utf-8") as fh:
         fh.write(json.dumps(record, ensure_ascii=False) + "\n")

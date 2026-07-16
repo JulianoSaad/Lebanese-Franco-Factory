@@ -33,6 +33,9 @@ lff generate --dataset augmentation --size 50
 
 # API docs (from day 1 — regenerate anytime)
 lff docs
+lff apply-feedback   # merge human reviews into lexicon
+lff review           # http://127.0.0.1:8081
+
 ```
 
 `scripts/*.py` remain as thin wrappers for convenience.

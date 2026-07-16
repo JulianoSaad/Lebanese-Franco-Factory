@@ -1,0 +1,7 @@
+[
+  {"id": "office_01", "user": "3anna meeting {word}?", "assistant": "eh, bkon jahiz. {greeting}"},
+  {"id": "office_02", "user": "l deadline bukra", "assistant": "ok, bkhalles {word} l yom"},
+  {"id": "office_03", "user": "b3atli l file", "assistant": "yalla, ba3to halla2"},
+  {"id": "office_04", "user": "fi call l sa3a 4", "assistant": "tamam, {greeting} bkon online"},
+  {"id": "office_05", "user": "l client za3lan", "assistant": "ma t2ela2, b7ki ma3o ana"}
+]

@@ -1,7 +1,8 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "packs": {
     "cities": 90,
+    "curated_chat": 40,
     "emotions": 90,
     "family": 90,
     "food": 90,
@@ -14,5 +15,5 @@
     "verbs": 90,
     "work": 90
   },
-  "entry_count": 1080
+  "entry_count": 1120
 }

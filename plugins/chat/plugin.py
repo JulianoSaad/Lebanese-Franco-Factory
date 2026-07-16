@@ -12,8 +12,8 @@ from lebanese_franco_factory.dictionary.loader import iter_entries
 PLUGIN = {
     "name": "chat",
     "family": "chat_sft",
-    "version": "0.1.0",
-    "datasets": ["chat_sft", "casual_chat"],
+    "version": "0.2.0",
+    "datasets": ["chat_sft", "casual_chat", "office", "football"],
 }
 
 
@@ -73,3 +73,5 @@ def register(registry) -> None:
     registry.add_generator("chat", generate)
     registry.add_generator("chat_sft", generate)
     registry.add_generator("casual_chat", generate)
+    registry.add_generator("office", generate)
+    registry.add_generator("football", generate)

@@ -15,6 +15,8 @@ DATASET_CONFIG_MAP: dict[str, str] = {
     "casual_chat": "chat_sft/casual_chat.yaml",
     "chat_sft": "chat_sft/casual_chat.yaml",
     "chat": "chat_sft/casual_chat.yaml",
+    "office": "chat_sft/office.yaml",
+    "football": "chat_sft/football.yaml",
     "arabic_to_franco": "conversion/arabic_to_franco.yaml",
     "franco_to_arabic": "conversion/franco_to_arabic.yaml",
     "english_to_franco": "conversion/english_to_franco.yaml",

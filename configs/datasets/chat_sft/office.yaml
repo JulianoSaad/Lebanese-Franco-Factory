@@ -1,22 +1,16 @@
-name: casual_chat
+name: office
 plugin: chat
 family: chat_sft
 language: lebanese_franco
 version: 0.2.0
-size: 100000
+size: 20000
 seed: 42
-domain: casual_chat
+domain: office
 dictionary_packs:
   - curated_chat
-  - greetings
-  - emotions
-  - verbs
   - work
-  - sports
-variation:
-  typo_rate: 0.15
-  abbreviation_rate: 0.25
-  digit_arabizi: true
+  - technology
+  - greetings
 export:
   format: jsonl
   split:

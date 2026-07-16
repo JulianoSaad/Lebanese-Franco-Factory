@@ -40,6 +40,7 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("dashboard", help="Start dashboard on :8080")
     sub.add_parser("review", help="Start human review UI on :8081")
     sub.add_parser("docs", help="Regenerate docs/api HTML via pdoc")
+    sub.add_parser("apply-feedback", help="Merge human_feedback.jsonl into lexicon")
 
     return parser
 
@@ -57,6 +58,7 @@ def main(argv: list[str] | None = None) -> int:
         "dashboard",
         "review",
         "docs",
+        "apply-feedback",
     }:
         pass
     elif argv and argv[0].startswith("--"):
@@ -137,6 +139,13 @@ def main(argv: list[str] | None = None) -> int:
 
         out = generate_api_docs()
         print(f"API docs written to {out}")
+        return 0
+
+    if args.command == "apply-feedback":
+        from lebanese_franco_factory.factory.feedback import apply_feedback_to_lexicon
+
+        stats = apply_feedback_to_lexicon()
+        print(json.dumps(stats, indent=2))
         return 0
 
     return 1

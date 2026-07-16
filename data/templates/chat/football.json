@@ -1,0 +1,7 @@
+[
+  {"id": "fb_01", "user": "shoft l goal?", "assistant": "wallah majnoun, {word}!"},
+  {"id": "fb_02", "user": "min ra7 yirba7?", "assistant": "ana ma3 {word}, akid"},
+  {"id": "fb_03", "user": "l match emta?", "assistant": "l yom l sa3a 8, yalla nshuf"},
+  {"id": "fb_04", "user": "shu ra2yak b l referee?", "assistant": "ghalat ktir, mesh 3adil"},
+  {"id": "fb_05", "user": "{greeting} shu akhbar l team?", "assistant": "mnih, training ktir strong"}
+]

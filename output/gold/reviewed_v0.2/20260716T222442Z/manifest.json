@@ -1,0 +1,19 @@
+{
+  "version": "v0.2.1-gold",
+  "created_at": "2026-07-16T22:24:42.549654+00:00",
+  "counts": {
+    "conversion_gold": 54,
+    "conversion_silver": 66,
+    "chat_gold": 11,
+    "clean": 131,
+    "train": 129,
+    "validation": 1,
+    "test": 1,
+    "native_feedback_rows": 30,
+    "dedupe_dropped": 0
+  },
+  "notes": [
+    "Rebuilt after native review of needs_human_v0.2 (30 items).",
+    "Native/high/edit/non-AI \u2192 gold; remaining AI medium accepts \u2192 silver."
+  ]
+}

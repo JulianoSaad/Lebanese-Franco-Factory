@@ -21,21 +21,33 @@ def feedback_path() -> Path:
     return path / "human_feedback.jsonl"
 
 
-def reviewed_ids() -> set[str]:
+def reviewed_ids(*, require_human: bool = False) -> set[str]:
+    """IDs already reviewed. If require_human, ignore ai_first_pass-only rows."""
     path = feedback_path()
     if not path.exists():
         return set()
-    ids: set[str] = set()
+    latest: dict[str, dict] = {}
     for line in path.read_text(encoding="utf-8").splitlines():
         if not line.strip():
             continue
-        ids.add(json.loads(line).get("id", ""))
-    return ids
+        row = json.loads(line)
+        rid = row.get("id", "")
+        if rid:
+            latest[rid] = row
+    if not require_human:
+        return set(latest)
+    human = {"native", "human", "juliano", "anonymous"}
+    return {
+        rid
+        for rid, row in latest.items()
+        if row.get("reviewer") in human or row.get("batch", "").endswith("_native")
+    }
 
 
 def load_queue(limit: int = 50) -> list[dict]:
     """Prefer curated review queue, then fall back to generated conversion rows."""
-    done = reviewed_ids()
+    done_any = reviewed_ids()
+    done_human = reviewed_ids(require_human=True)
     rows: list[dict] = []
 
     # Priority: needs_human (native pass) → curated queue → generated output
@@ -45,11 +57,13 @@ def load_queue(limit: int = 50) -> list[dict]:
     ):
         if not queue_file.exists():
             continue
+        # needs_human must get a native pass even if AI already reviewed
+        skip_ids = done_human if "needs_human" in queue_file.name else done_any
         for line in queue_file.read_text(encoding="utf-8").splitlines():
             if not line.strip():
                 continue
             row = json.loads(line)
-            if row.get("id") in done:
+            if row.get("id") in skip_ids:
                 continue
             if row.get("family") == "conversion" or "source" in row:
                 rows.append(row)

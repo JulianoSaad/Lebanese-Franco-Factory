@@ -911,7 +911,7 @@
   },
   {
     "arabic": "بيروت",
-    "franco": "shu beitute",
+    "franco": "beitut",
     "english": "Beirut"
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "arabic": "زعلان",
-    "franco": "shu za3lanle",
+    "franco": "za3lan",
     "english": "upset"
   },
   {
@@ -1326,12 +1326,12 @@
   },
   {
     "arabic": "شاي",
-    "franco": "ya shaya",
+    "franco": "shay",
     "english": "tea"
   },
   {
     "arabic": "منقوشة",
-    "franco": "ya man2ousheo",
+    "franco": "man2oushe",
     "english": "manakish"
   },
   {
@@ -1351,7 +1351,7 @@
   },
   {
     "arabic": "قهوة",
-    "franco": "shu kahweya",
+    "franco": "kahwe",
     "english": "coffee"
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "arabic": "أهلا",
-    "franco": "ahlaa",
+    "franco": "ahla",
     "english": "welcome"
   },
   {
@@ -1901,22 +1901,22 @@
   },
   {
     "arabic": "مساء الخير",
-    "franco": "w masa l kheroun",
+    "franco": "masa l kher",
     "english": "good evening"
   },
   {
     "arabic": "يلا",
-    "franco": "w yallain",
+    "franco": "yalla",
     "english": "come on / let's go"
   },
   {
     "arabic": "باي",
-    "franco": "ya byele",
+    "franco": "bye",
     "english": "bye"
   },
   {
     "arabic": "تشرفنا",
-    "franco": "ya tsharafnaya",
+    "franco": "tsharafna",
     "english": "nice to meet you"
   },
   {
@@ -2166,12 +2166,12 @@
   },
   {
     "arabic": "حبيبي",
-    "franco": "shu 7abibein",
+    "franco": "7abibe",
     "english": "my love (m)"
   },
   {
     "arabic": "صاحب",
-    "franco": "shu sa7eble",
+    "franco": "sa7eb",
     "english": "friend (m)"
   },
   {
@@ -2596,12 +2596,12 @@
   },
   {
     "arabic": "بدي",
-    "franco": "w baddee",
+    "franco": "badde",
     "english": "I want"
   },
   {
     "arabic": "فهمت",
-    "franco": "ya fhimta",
+    "franco": "fhimt",
     "english": "I understood"
   },
   {
@@ -2746,12 +2746,12 @@
   },
   {
     "arabic": "شغل",
-    "franco": "shu shighlin",
+    "franco": "shighl",
     "english": "work"
   },
   {
     "arabic": "مكتب",
-    "franco": "shu maktable",
+    "franco": "maktab",
     "english": "office"
   },
   {

@@ -38,18 +38,22 @@ def load_queue(limit: int = 50) -> list[dict]:
     done = reviewed_ids()
     rows: list[dict] = []
 
-    curated = repo_root() / "data" / "review" / "queue_v0.2.jsonl"
-    if curated.exists():
-        for line in curated.read_text(encoding="utf-8").splitlines():
+    # Priority: needs_human (native pass) → curated queue → generated output
+    for queue_file in (
+        repo_root() / "data" / "review" / "needs_human_v0.2.jsonl",
+        repo_root() / "data" / "review" / "queue_v0.2.jsonl",
+    ):
+        if not queue_file.exists():
+            continue
+        for line in queue_file.read_text(encoding="utf-8").splitlines():
             if not line.strip():
                 continue
             row = json.loads(line)
             if row.get("id") in done:
                 continue
-            if row.get("family") == "conversion":
+            if row.get("family") == "conversion" or "source" in row:
                 rows.append(row)
             elif row.get("family") == "chat_sft":
-                # Flatten chat into reviewable text pair for the simple UI
                 msgs = row.get("messages") or []
                 if len(msgs) >= 2:
                     rows.append(
@@ -62,9 +66,8 @@ def load_queue(limit: int = 50) -> list[dict]:
                     )
             if len(rows) >= limit:
                 return rows
-
-    if rows:
-        return rows
+        if rows:
+            return rows
 
     for clean in sorted(output_dir().rglob("clean.jsonl")):
         for line in clean.read_text(encoding="utf-8").splitlines():

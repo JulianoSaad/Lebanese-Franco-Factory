@@ -1,0 +1,40 @@
+{"id": "rev_001", "family": "conversion", "direction": "arabic_to_franco", "source": "كيفك؟", "target": "kifak?"}
+{"id": "rev_002", "family": "conversion", "direction": "arabic_to_franco", "source": "مرحبا", "target": "mar7aba"}
+{"id": "rev_003", "family": "conversion", "direction": "arabic_to_franco", "source": "شو في ما في؟", "target": "shu fi ma fi?"}
+{"id": "rev_004", "family": "conversion", "direction": "arabic_to_franco", "source": "يلا نروح", "target": "yalla nrou7"}
+{"id": "rev_005", "family": "conversion", "direction": "arabic_to_franco", "source": "مش مشكلة", "target": "mesh meshkle"}
+{"id": "rev_006", "family": "conversion", "direction": "arabic_to_franco", "source": "هلق بجي", "target": "halla2 bji"}
+{"id": "rev_007", "family": "conversion", "direction": "arabic_to_franco", "source": "وينك؟", "target": "waynak?"}
+{"id": "rev_008", "family": "conversion", "direction": "arabic_to_franco", "source": "تعبان اليوم", "target": "ta3ban l yom"}
+{"id": "rev_009", "family": "conversion", "direction": "arabic_to_franco", "source": "بدي قهوة", "target": "badde kahwe"}
+{"id": "rev_010", "family": "conversion", "direction": "arabic_to_franco", "source": "خلينا نحكى بعدين", "target": "khalleena ne7ke ba3den"}
+{"id": "rev_011", "family": "conversion", "direction": "arabic_to_franco", "source": "ما بعرف", "target": "ma b3rif"}
+{"id": "rev_012", "family": "conversion", "direction": "arabic_to_franco", "source": "أكيد", "target": "akid"}
+{"id": "rev_013", "family": "conversion", "direction": "arabic_to_franco", "source": "طبعا", "target": "tab3an"}
+{"id": "rev_014", "family": "conversion", "direction": "arabic_to_franco", "source": "صباح الخير", "target": "sabah l kher"}
+{"id": "rev_015", "family": "conversion", "direction": "arabic_to_franco", "source": "تصبح على خير", "target": "tesba7 3ala kher"}
+{"id": "rev_016", "family": "conversion", "direction": "arabic_to_franco", "source": "شو رأيك؟", "target": "shu ra2yak?"}
+{"id": "rev_017", "family": "conversion", "direction": "arabic_to_franco", "source": "كل شي تمام", "target": "kell shi tamam"}
+{"id": "rev_018", "family": "conversion", "direction": "arabic_to_franco", "source": "بعد شوي", "target": "ba3d shway"}
+{"id": "rev_019", "family": "conversion", "direction": "arabic_to_franco", "source": "على راسي", "target": "3ala rase"}
+{"id": "rev_020", "family": "conversion", "direction": "arabic_to_franco", "source": "يا زلمة", "target": "ya zalame"}
+{"id": "rev_021", "family": "conversion", "direction": "arabic_to_franco", "source": "خلصنا الشغل", "target": "khallasna l shighl"}
+{"id": "rev_022", "family": "conversion", "direction": "arabic_to_franco", "source": "في مباراة اليوم؟", "target": "fi match l yom?"}
+{"id": "rev_023", "family": "conversion", "direction": "arabic_to_franco", "source": "النت مقطوع", "target": "l net ma2tou3"}
+{"id": "rev_024", "family": "conversion", "direction": "arabic_to_franco", "source": "بعتلي الرسالة", "target": "b3atli l risale"}
+{"id": "rev_025", "family": "conversion", "direction": "arabic_to_franco", "source": "منيح كتير", "target": "mnih ktir"}
+{"id": "rev_026", "family": "conversion", "direction": "english_to_franco", "source": "how are you?", "target": "kifak?"}
+{"id": "rev_027", "family": "conversion", "direction": "english_to_franco", "source": "what's up?", "target": "shu fi ma fi?"}
+{"id": "rev_028", "family": "conversion", "direction": "english_to_franco", "source": "let's go", "target": "yalla"}
+{"id": "rev_029", "family": "conversion", "direction": "english_to_franco", "source": "no problem", "target": "mesh meshkle"}
+{"id": "rev_030", "family": "conversion", "direction": "english_to_franco", "source": "see you later", "target": "bshoufak ba3den"}
+{"id": "rev_031", "family": "conversion", "direction": "franco_to_arabic", "source": "kifak?", "target": "كيفك؟"}
+{"id": "rev_032", "family": "conversion", "direction": "franco_to_arabic", "source": "mar7aba", "target": "مرحبا"}
+{"id": "rev_033", "family": "conversion", "direction": "franco_to_arabic", "source": "yalla nrou7", "target": "يلا نروح"}
+{"id": "rev_034", "family": "conversion", "direction": "franco_to_arabic", "source": "halla2", "target": "هلق"}
+{"id": "rev_035", "family": "conversion", "direction": "franco_to_arabic", "source": "ba3den", "target": "بعدين"}
+{"id": "rev_036", "family": "chat_sft", "domain": "casual_chat", "messages": [{"role": "user", "content": "kifak? shu fi ma fi?"}, {"role": "assistant", "content": "mnih l 7amdelle, w enta? shu akhbarak?"}]}
+{"id": "rev_037", "family": "chat_sft", "domain": "casual_chat", "messages": [{"role": "user", "content": "yalla nrou7 nishrab ahwe?"}, {"role": "assistant", "content": "yalla, wen? fi ma7al 2arib?"}]}
+{"id": "rev_038", "family": "chat_sft", "domain": "casual_chat", "messages": [{"role": "user", "content": "l traffic w7ish l yom"}, {"role": "assistant", "content": "wallah, khod l sea side iza feek"}]}
+{"id": "rev_039", "family": "chat_sft", "domain": "office", "messages": [{"role": "user", "content": "3anna meeting l sa3a 3?"}, {"role": "assistant", "content": "eh, bkon jahiz. baddak shi 2abl?"}]}
+{"id": "rev_040", "family": "chat_sft", "domain": "football", "messages": [{"role": "user", "content": "shoft l goal?"}, {"role": "assistant", "content": "wallah khayal, shu da3es!"}]}

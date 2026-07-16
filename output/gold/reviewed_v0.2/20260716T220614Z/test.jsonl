@@ -1,0 +1,1 @@
+{"id": "gold_chat_rev_040", "family": "chat_sft", "domain": "curated", "language": "lebanese_franco", "messages": [{"role": "user", "content": "shoft l goal?"}, {"role": "assistant", "content": "wallah khayal, shu da3es!"}], "meta": {"source_feedback_id": "rev_040", "reviewer": "ai_first_pass", "decision": "correct", "note": "Football slang OK", "gold": true}}

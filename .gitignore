@@ -17,4 +17,8 @@ feedback/*.jsonl
 !tests/**/*.json
 !benchmarks/**/*.json
 !data/**/*.json
+!data/review/*.jsonl
 !dictionary/**/*.json
+# Keep small reviewed gold exports + feedback seed history
+!feedback/human_feedback.jsonl
+!output/gold/**/*.jsonl

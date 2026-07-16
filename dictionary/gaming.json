@@ -1,0 +1,43 @@
+{
+  "pack": "gaming",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "g_game",
+      "franco": [
+        "game",
+        "le3be"
+      ],
+      "arabic": "لعبة",
+      "english": "game",
+      "tags": [
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_level",
+      "franco": [
+        "level"
+      ],
+      "arabic": "لفل",
+      "english": "level",
+      "tags": [
+        "gaming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_win",
+      "franco": [
+        "win"
+      ],
+      "arabic": "ربحت",
+      "english": "win",
+      "tags": [
+        "gaming"
+      ],
+      "examples": []
+    }
+  ]
+}

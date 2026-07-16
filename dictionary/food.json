@@ -1,0 +1,80 @@
+{
+  "pack": "food",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "f_man2oushe",
+      "franco": [
+        "man2oushe",
+        "manouche"
+      ],
+      "arabic": "منقوشة",
+      "english": "manakish",
+      "tags": [
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_hummus",
+      "franco": [
+        "hummus"
+      ],
+      "arabic": "حمص",
+      "english": "hummus",
+      "tags": [
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_tabboule",
+      "franco": [
+        "tabboule"
+      ],
+      "arabic": "تبولة",
+      "english": "tabbouleh",
+      "tags": [
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_falafel",
+      "franco": [
+        "falafel"
+      ],
+      "arabic": "فلافل",
+      "english": "falafel",
+      "tags": [
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_kahwe",
+      "franco": [
+        "kahwe",
+        "ahwe"
+      ],
+      "arabic": "قهوة",
+      "english": "coffee",
+      "tags": [
+        "food"
+      ],
+      "examples": []
+    },
+    {
+      "id": "f_shay",
+      "franco": [
+        "shay"
+      ],
+      "arabic": "شاي",
+      "english": "tea",
+      "tags": [
+        "food"
+      ],
+      "examples": []
+    }
+  ]
+}

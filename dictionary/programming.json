@@ -1,0 +1,54 @@
+{
+  "pack": "programming",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "p_code",
+      "franco": [
+        "code"
+      ],
+      "arabic": "كود",
+      "english": "code",
+      "tags": [
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_bug",
+      "franco": [
+        "bug"
+      ],
+      "arabic": "باگ",
+      "english": "bug",
+      "tags": [
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_api",
+      "franco": [
+        "api"
+      ],
+      "arabic": "API",
+      "english": "API",
+      "tags": [
+        "programming"
+      ],
+      "examples": []
+    },
+    {
+      "id": "p_python",
+      "franco": [
+        "python"
+      ],
+      "arabic": "بايثون",
+      "english": "Python",
+      "tags": [
+        "programming"
+      ],
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pack": "sports",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "s_football",
+      "franco": [
+        "football",
+        "kora"
+      ],
+      "arabic": "كرة قدم",
+      "english": "football",
+      "tags": [
+        "sports"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_goal",
+      "franco": [
+        "goal"
+      ],
+      "arabic": "هدف",
+      "english": "goal",
+      "tags": [
+        "sports"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_match",
+      "franco": [
+        "match"
+      ],
+      "arabic": "مباراة",
+      "english": "match",
+      "tags": [
+        "sports"
+      ],
+      "examples": []
+    },
+    {
+      "id": "s_team",
+      "franco": [
+        "team",
+        "fari2"
+      ],
+      "arabic": "فريق",
+      "english": "team",
+      "tags": [
+        "sports"
+      ],
+      "examples": []
+    }
+  ]
+}

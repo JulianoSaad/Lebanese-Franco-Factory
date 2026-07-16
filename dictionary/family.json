@@ -1,0 +1,56 @@
+{
+  "pack": "family",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "fam_bayye",
+      "franco": [
+        "bayye",
+        "baba"
+      ],
+      "arabic": "بيي",
+      "english": "dad",
+      "tags": [
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_imme",
+      "franco": [
+        "imme",
+        "mama"
+      ],
+      "arabic": "امي",
+      "english": "mom",
+      "tags": [
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_khayye",
+      "franco": [
+        "khayye"
+      ],
+      "arabic": "خيي",
+      "english": "brother",
+      "tags": [
+        "family"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fam_ekhte",
+      "franco": [
+        "ekhte"
+      ],
+      "arabic": "اختي",
+      "english": "sister",
+      "tags": [
+        "family"
+      ],
+      "examples": []
+    }
+  ]
+}

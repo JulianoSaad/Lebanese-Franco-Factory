@@ -1,0 +1,55 @@
+{
+  "pack": "emotions",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "e_mabsout",
+      "franco": [
+        "mabsout"
+      ],
+      "arabic": "مبسوط",
+      "english": "happy",
+      "tags": [
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_za3lan",
+      "franco": [
+        "za3lan"
+      ],
+      "arabic": "زعلان",
+      "english": "upset",
+      "tags": [
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_ta3ban",
+      "franco": [
+        "ta3ban"
+      ],
+      "arabic": "تعبان",
+      "english": "tired",
+      "tags": [
+        "emotions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "e_msh_tamam",
+      "franco": [
+        "mesh tamam",
+        "msh tamam"
+      ],
+      "arabic": "مش تمام",
+      "english": "not okay",
+      "tags": [
+        "emotions"
+      ],
+      "examples": []
+    }
+  ]
+}

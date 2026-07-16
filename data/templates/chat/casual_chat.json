@@ -1,0 +1,27 @@
+[
+  {
+    "id": "casual_01",
+    "user": "{greeting} shu fi ma fi?",
+    "assistant": "{greeting} kell shi tamam, w enta?"
+  },
+  {
+    "id": "casual_02",
+    "user": "kifak? ana {word}",
+    "assistant": "tamam, yalla {word} ba3den"
+  },
+  {
+    "id": "casual_03",
+    "user": "shu 3am ta3mil?",
+    "assistant": "wala shi, bas {word}"
+  },
+  {
+    "id": "casual_04",
+    "user": "yalla nrou7?",
+    "assistant": "yalla, ana ready"
+  },
+  {
+    "id": "casual_05",
+    "user": "mesh tamam l yom",
+    "assistant": "leh? shu sar?"
+  }
+]

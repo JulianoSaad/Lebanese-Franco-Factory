@@ -1,0 +1,55 @@
+{
+  "pack": "work",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "w_shighl",
+      "franco": [
+        "shighl",
+        "shoghel"
+      ],
+      "arabic": "شغل",
+      "english": "work",
+      "tags": [
+        "work"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_maktab",
+      "franco": [
+        "maktab"
+      ],
+      "arabic": "مكتب",
+      "english": "office",
+      "tags": [
+        "work"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_meeting",
+      "franco": [
+        "meeting"
+      ],
+      "arabic": "اجتماع",
+      "english": "meeting",
+      "tags": [
+        "work"
+      ],
+      "examples": []
+    },
+    {
+      "id": "w_deadline",
+      "franco": [
+        "deadline"
+      ],
+      "arabic": "deadline",
+      "english": "deadline",
+      "tags": [
+        "work"
+      ],
+      "examples": []
+    }
+  ]
+}

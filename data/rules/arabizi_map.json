@@ -1,0 +1,35 @@
+{
+  "digits": {
+    "2": {
+      "arabic": "ء",
+      "notes": "hamza; also dialectal qaf in some spellings"
+    },
+    "3": {
+      "arabic": "ع",
+      "notes": "ayn"
+    },
+    "5": {
+      "arabic": "خ",
+      "notes": "kha"
+    },
+    "7": {
+      "arabic": "ح",
+      "notes": "ha"
+    },
+    "8": {
+      "arabic": "غ",
+      "notes": "ghayn"
+    },
+    "9": {
+      "arabic": "ق",
+      "notes": "qaf (also sad in some chat spellings)"
+    }
+  },
+  "common_digraphs": {
+    "sh": "ش",
+    "ch": "ش",
+    "kh": "خ",
+    "gh": "غ",
+    "th": "ث"
+  }
+}

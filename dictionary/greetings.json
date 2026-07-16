@@ -1,0 +1,133 @@
+{
+  "pack": "greetings",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "g_mar7aba",
+      "franco": [
+        "mar7aba",
+        "marhaba"
+      ],
+      "arabic": "مرحبا",
+      "english": "hello",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifak",
+      "franco": [
+        "kifak",
+        "keefak"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (m)",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_kifik",
+      "franco": [
+        "kifik",
+        "keefik"
+      ],
+      "arabic": "كيفك؟",
+      "english": "how are you (f)",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_ahla",
+      "franco": [
+        "ahla",
+        "ahlan"
+      ],
+      "arabic": "أهلا",
+      "english": "welcome",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_sabah",
+      "franco": [
+        "sabah l kher",
+        "saba7 l kher"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_masa",
+      "franco": [
+        "masa l kher"
+      ],
+      "arabic": "مساء الخير",
+      "english": "good evening",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_yalla",
+      "franco": [
+        "yalla"
+      ],
+      "arabic": "يلا",
+      "english": "come on / let's go",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_bye",
+      "franco": [
+        "bye",
+        "bai"
+      ],
+      "arabic": "باي",
+      "english": "bye",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_tsharafna",
+      "franco": [
+        "tsharafna"
+      ],
+      "arabic": "تشرفنا",
+      "english": "nice to meet you",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    },
+    {
+      "id": "g_shu_fi",
+      "franco": [
+        "shu fi ma fi",
+        "shou fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what's up",
+      "tags": [
+        "greetings"
+      ],
+      "examples": []
+    }
+  ]
+}

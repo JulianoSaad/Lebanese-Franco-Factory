@@ -1,0 +1,42 @@
+{
+  "pack": "relationships",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "r_sa7eb",
+      "franco": [
+        "sa7eb"
+      ],
+      "arabic": "صاحب",
+      "english": "friend (m)",
+      "tags": [
+        "relationships"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_sa7ba",
+      "franco": [
+        "sa7ba"
+      ],
+      "arabic": "صاحبة",
+      "english": "friend (f)",
+      "tags": [
+        "relationships"
+      ],
+      "examples": []
+    },
+    {
+      "id": "r_7abibe",
+      "franco": [
+        "7abibe"
+      ],
+      "arabic": "حبيبي",
+      "english": "my love (m)",
+      "tags": [
+        "relationships"
+      ],
+      "examples": []
+    }
+  ]
+}

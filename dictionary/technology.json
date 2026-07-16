@@ -1,0 +1,55 @@
+{
+  "pack": "technology",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "t_phone",
+      "franco": [
+        "phone"
+      ],
+      "arabic": "تلفون",
+      "english": "phone",
+      "tags": [
+        "technology"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_internet",
+      "franco": [
+        "internet",
+        "net"
+      ],
+      "arabic": "انترنت",
+      "english": "internet",
+      "tags": [
+        "technology"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_app",
+      "franco": [
+        "app"
+      ],
+      "arabic": "تطبيق",
+      "english": "app",
+      "tags": [
+        "technology"
+      ],
+      "examples": []
+    },
+    {
+      "id": "t_wifi",
+      "franco": [
+        "wifi"
+      ],
+      "arabic": "واي فاي",
+      "english": "wifi",
+      "tags": [
+        "technology"
+      ],
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "conv_001",
+    "direction": "arabic_to_franco",
+    "input": "كيفك؟",
+    "expected": "kifak?"
+  },
+  {
+    "id": "conv_002",
+    "direction": "arabic_to_franco",
+    "input": "مرحبا",
+    "expected": "mar7aba"
+  },
+  {
+    "id": "conv_003",
+    "direction": "arabic_to_franco",
+    "input": "أهلا",
+    "expected": "ahla"
+  },
+  {
+    "id": "conv_004",
+    "direction": "arabic_to_franco",
+    "input": "يلا",
+    "expected": "yalla"
+  },
+  {
+    "id": "conv_005",
+    "direction": "arabic_to_franco",
+    "input": "شو في؟",
+    "expected": "shu fi?"
+  },
+  {
+    "id": "conv_006",
+    "direction": "arabic_to_franco",
+    "input": "تمام",
+    "expected": "tamam"
+  },
+  {
+    "id": "conv_007",
+    "direction": "arabic_to_franco",
+    "input": "مش مشكلة",
+    "expected": "mesh meshkle"
+  },
+  {
+    "id": "conv_008",
+    "direction": "arabic_to_franco",
+    "input": "شكرا",
+    "expected": "shukran"
+  },
+  {
+    "id": "conv_009",
+    "direction": "arabic_to_franco",
+    "input": "عفوا",
+    "expected": "3afwan"
+  },
+  {
+    "id": "conv_010",
+    "direction": "arabic_to_franco",
+    "input": "صباح الخير",
+    "expected": "sabah l kher"
+  },
+  {
+    "id": "conv_011",
+    "direction": "arabic_to_franco",
+    "input": "مساء الخير",
+    "expected": "masa l kher"
+  },
+  {
+    "id": "conv_012",
+    "direction": "arabic_to_franco",
+    "input": "تصبح على خير",
+    "expected": "tesba7 3ala kher"
+  },
+  {
+    "id": "conv_013",
+    "direction": "arabic_to_franco",
+    "input": "وينك؟",
+    "expected": "waynak?"
+  },
+  {
+    "id": "conv_014",
+    "direction": "arabic_to_franco",
+    "input": "شو عم تعمل؟",
+    "expected": "shu 3am ta3mil?"
+  },
+  {
+    "id": "conv_015",
+    "direction": "arabic_to_franco",
+    "input": "بدي",
+    "expected": "badde"
+  },
+  {
+    "id": "conv_016",
+    "direction": "arabic_to_franco",
+    "input": "ما بدي",
+    "expected": "ma badde"
+  },
+  {
+    "id": "conv_017",
+    "direction": "arabic_to_franco",
+    "input": "فهمت",
+    "expected": "fhimt"
+  },
+  {
+    "id": "conv_018",
+    "direction": "arabic_to_franco",
+    "input": "ما فهمت",
+    "expected": "ma fhimt"
+  },
+  {
+    "id": "conv_019",
+    "direction": "arabic_to_franco",
+    "input": "أنا تعبان",
+    "expected": "ana ta3ban"
+  },
+  {
+    "id": "conv_020",
+    "direction": "arabic_to_franco",
+    "input": "أنا مبسوط",
+    "expected": "ana mabsout"
+  },
+  {
+    "id": "conv_021",
+    "direction": "arabic_to_franco",
+    "input": "بيروت",
+    "expected": "beitut"
+  },
+  {
+    "id": "conv_022",
+    "direction": "arabic_to_franco",
+    "input": "منقوشة",
+    "expected": "man2oushe"
+  },
+  {
+    "id": "conv_023",
+    "direction": "arabic_to_franco",
+    "input": "قهوة",
+    "expected": "kahwe"
+  },
+  {
+    "id": "conv_024",
+    "direction": "arabic_to_franco",
+    "input": "شاي",
+    "expected": "shay"
+  },
+  {
+    "id": "conv_025",
+    "direction": "arabic_to_franco",
+    "input": "شغل",
+    "expected": "shighl"
+  },
+  {
+    "id": "conv_026",
+    "direction": "arabic_to_franco",
+    "input": "مكتب",
+    "expected": "maktab"
+  },
+  {
+    "id": "conv_027",
+    "direction": "arabic_to_franco",
+    "input": "صاحب",
+    "expected": "sa7eb"
+  },
+  {
+    "id": "conv_028",
+    "direction": "arabic_to_franco",
+    "input": "حبيبي",
+    "expected": "7abibe"
+  },
+  {
+    "id": "conv_029",
+    "direction": "arabic_to_franco",
+    "input": "باي",
+    "expected": "bye"
+  },
+  {
+    "id": "conv_030",
+    "direction": "arabic_to_franco",
+    "input": "تشرفنا",
+    "expected": "tsharafna"
+  },
+  {
+    "id": "conv_031",
+    "direction": "arabic_to_franco",
+    "input": "مع السلامة",
+    "expected": "ma3 l salame"
+  },
+  {
+    "id": "conv_032",
+    "direction": "arabic_to_franco",
+    "input": "منيح",
+    "expected": "mnih"
+  },
+  {
+    "id": "conv_033",
+    "direction": "arabic_to_franco",
+    "input": "مو منيح",
+    "expected": "mo mnih"
+  },
+  {
+    "id": "conv_034",
+    "direction": "arabic_to_franco",
+    "input": "بسرعة",
+    "expected": "b ser3a"
+  },
+  {
+    "id": "conv_035",
+    "direction": "arabic_to_franco",
+    "input": "بعدين",
+    "expected": "ba3den"
+  },
+  {
+    "id": "conv_036",
+    "direction": "arabic_to_franco",
+    "input": "هلق",
+    "expected": "halla2"
+  },
+  {
+    "id": "conv_037",
+    "direction": "arabic_to_franco",
+    "input": "اليوم",
+    "expected": "l yom"
+  },
+  {
+    "id": "conv_038",
+    "direction": "arabic_to_franco",
+    "input": "بكرا",
+    "expected": "bukra"
+  },
+  {
+    "id": "conv_039",
+    "direction": "arabic_to_franco",
+    "input": "مبارح",
+    "expected": "mbare7"
+  },
+  {
+    "id": "conv_040",
+    "direction": "arabic_to_franco",
+    "input": "وين",
+    "expected": "wayn"
+  },
+  {
+    "id": "conv_041",
+    "direction": "arabic_to_franco",
+    "input": "ليش",
+    "expected": "lesh"
+  },
+  {
+    "id": "conv_042",
+    "direction": "arabic_to_franco",
+    "input": "كيف",
+    "expected": "kif"
+  },
+  {
+    "id": "conv_043",
+    "direction": "arabic_to_franco",
+    "input": "مين",
+    "expected": "min"
+  },
+  {
+    "id": "conv_044",
+    "direction": "arabic_to_franco",
+    "input": "شو",
+    "expected": "shu"
+  },
+  {
+    "id": "conv_045",
+    "direction": "arabic_to_franco",
+    "input": "إيمتى",
+    "expected": "emta"
+  },
+  {
+    "id": "conv_046",
+    "direction": "arabic_to_franco",
+    "input": "كم",
+    "expected": "kam"
+  },
+  {
+    "id": "conv_047",
+    "direction": "arabic_to_franco",
+    "input": "هيك",
+    "expected": "heik"
+  },
+  {
+    "id": "conv_048",
+    "direction": "arabic_to_franco",
+    "input": "كمان",
+    "expected": "kaman"
+  },
+  {
+    "id": "conv_049",
+    "direction": "arabic_to_franco",
+    "input": "بس",
+    "expected": "bas"
+  },
+  {
+    "id": "conv_050",
+    "direction": "arabic_to_franco",
+    "input": "يعني",
+    "expected": "ya3ne"
+  },
+  {
+    "id": "conv_051",
+    "direction": "arabic_to_franco",
+    "input": "خلص",
+    "expected": "khalas"
+  },
+  {
+    "id": "conv_052",
+    "direction": "arabic_to_franco",
+    "input": "استنى",
+    "expected": "stanna"
+  },
+  {
+    "id": "conv_053",
+    "direction": "arabic_to_franco",
+    "input": "تعال",
+    "expected": "ta3a"
+  },
+  {
+    "id": "conv_054",
+    "direction": "arabic_to_franco",
+    "input": "روح",
+    "expected": "rou7"
+  },
+  {
+    "id": "conv_055",
+    "direction": "arabic_to_franco",
+    "input": "شوف",
+    "expected": "shuf"
+  },
+  {
+    "id": "conv_056",
+    "direction": "arabic_to_franco",
+    "input": "سمع",
+    "expected": "sma3"
+  },
+  {
+    "id": "conv_057",
+    "direction": "arabic_to_franco",
+    "input": "اكل",
+    "expected": "ekel"
+  },
+  {
+    "id": "conv_058",
+    "direction": "arabic_to_franco",
+    "input": "مية",
+    "expected": "mayy"
+  },
+  {
+    "id": "conv_059",
+    "direction": "arabic_to_franco",
+    "input": "بيت",
+    "expected": "bet"
+  },
+  {
+    "id": "conv_060",
+    "direction": "arabic_to_franco",
+    "input": "سيارة",
+    "expected": "siyyara"
+  },
+  {
+    "id": "conv_061",
+    "direction": "arabic_to_franco",
+    "input": "شارع",
+    "expected": "shari3"
+  },
+  {
+    "id": "conv_062",
+    "direction": "arabic_to_franco",
+    "input": "مدرسة",
+    "expected": "madrase"
+  },
+  {
+    "id": "conv_063",
+    "direction": "arabic_to_franco",
+    "input": "جامعة",
+    "expected": "jam3a"
+  },
+  {
+    "id": "conv_064",
+    "direction": "arabic_to_franco",
+    "input": "دكتور",
+    "expected": "doctor"
+  },
+  {
+    "id": "conv_065",
+    "direction": "arabic_to_franco",
+    "input": "مستشفى",
+    "expected": "mustashfa"
+  },
+  {
+    "id": "conv_066",
+    "direction": "arabic_to_franco",
+    "input": "حب",
+    "expected": "7obb"
+  },
+  {
+    "id": "conv_067",
+    "direction": "arabic_to_franco",
+    "input": "خوف",
+    "expected": "khawf"
+  },
+  {
+    "id": "conv_068",
+    "direction": "arabic_to_franco",
+    "input": "زعلان",
+    "expected": "za3lan"
+  },
+  {
+    "id": "conv_069",
+    "direction": "arabic_to_franco",
+    "input": "فرحان",
+    "expected": "far7an"
+  },
+  {
+    "id": "conv_070",
+    "direction": "arabic_to_franco",
+    "input": "برد",
+    "expected": "bard"
+  },
+  {
+    "id": "conv_071",
+    "direction": "arabic_to_franco",
+    "input": "شمس",
+    "expected": "shams"
+  },
+  {
+    "id": "conv_072",
+    "direction": "arabic_to_franco",
+    "input": "مطر",
+    "expected": "matar"
+  },
+  {
+    "id": "conv_073",
+    "direction": "arabic_to_franco",
+    "input": "ثلج",
+    "expected": "talj"
+  },
+  {
+    "id": "conv_074",
+    "direction": "arabic_to_franco",
+    "input": "ليل",
+    "expected": "lel"
+  },
+  {
+    "id": "conv_075",
+    "direction": "arabic_to_franco",
+    "input": "نهار",
+    "expected": "nhar"
+  },
+  {
+    "id": "conv_076",
+    "direction": "arabic_to_franco",
+    "input": "ساعة",
+    "expected": "sa3a"
+  },
+  {
+    "id": "conv_077",
+    "direction": "arabic_to_franco",
+    "input": "دقيقة",
+    "expected": "da2i2a"
+  },
+  {
+    "id": "conv_078",
+    "direction": "arabic_to_franco",
+    "input": "رقم",
+    "expected": "ra2em"
+  },
+  {
+    "id": "conv_079",
+    "direction": "arabic_to_franco",
+    "input": "اسم",
+    "expected": "isem"
+  },
+  {
+    "id": "conv_080",
+    "direction": "arabic_to_franco",
+    "input": "عمر",
+    "expected": "3omr"
+  },
+  {
+    "id": "conv_081",
+    "direction": "arabic_to_franco",
+    "input": "فلوس",
+    "expected": "flus"
+  },
+  {
+    "id": "conv_082",
+    "direction": "arabic_to_franco",
+    "input": "غالي",
+    "expected": "ghali"
+  },
+  {
+    "id": "conv_083",
+    "direction": "arabic_to_franco",
+    "input": "رخيص",
+    "expected": "rkhis"
+  },
+  {
+    "id": "conv_084",
+    "direction": "arabic_to_franco",
+    "input": "كبير",
+    "expected": "kbir"
+  },
+  {
+    "id": "conv_085",
+    "direction": "arabic_to_franco",
+    "input": "صغير",
+    "expected": "zghir"
+  },
+  {
+    "id": "conv_086",
+    "direction": "arabic_to_franco",
+    "input": "جديد",
+    "expected": "jdid"
+  },
+  {
+    "id": "conv_087",
+    "direction": "arabic_to_franco",
+    "input": "قديم",
+    "expected": "2adim"
+  },
+  {
+    "id": "conv_088",
+    "direction": "arabic_to_franco",
+    "input": "حلو",
+    "expected": "7elw"
+  },
+  {
+    "id": "conv_089",
+    "direction": "arabic_to_franco",
+    "input": "صعب",
+    "expected": "sa3b"
+  },
+  {
+    "id": "conv_090",
+    "direction": "arabic_to_franco",
+    "input": "سهل",
+    "expected": "sahil"
+  },
+  {
+    "id": "conv_091",
+    "direction": "arabic_to_franco",
+    "input": "صح",
+    "expected": "sa7"
+  },
+  {
+    "id": "conv_092",
+    "direction": "arabic_to_franco",
+    "input": "غلط",
+    "expected": "ghalat"
+  },
+  {
+    "id": "conv_093",
+    "direction": "arabic_to_franco",
+    "input": "ممكن",
+    "expected": "mumkin"
+  },
+  {
+    "id": "conv_094",
+    "direction": "arabic_to_franco",
+    "input": "مستحيل",
+    "expected": "musta7il"
+  },
+  {
+    "id": "conv_095",
+    "direction": "arabic_to_franco",
+    "input": "أكيد",
+    "expected": "akid"
+  },
+  {
+    "id": "conv_096",
+    "direction": "arabic_to_franco",
+    "input": "طبعا",
+    "expected": "tab3an"
+  },
+  {
+    "id": "conv_097",
+    "direction": "arabic_to_franco",
+    "input": "لا",
+    "expected": "la2"
+  },
+  {
+    "id": "conv_098",
+    "direction": "arabic_to_franco",
+    "input": "نعم",
+    "expected": "na3am"
+  },
+  {
+    "id": "conv_099",
+    "direction": "arabic_to_franco",
+    "input": "اه",
+    "expected": "eh"
+  },
+  {
+    "id": "conv_100",
+    "direction": "arabic_to_franco",
+    "input": "والله",
+    "expected": "wallah"
+  }
+]

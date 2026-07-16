@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LebaneseFrancoDictionaryPack",
+  "type": "object",
+  "required": [
+    "pack",
+    "version",
+    "entries"
+  ],
+  "properties": {
+    "pack": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "franco"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "franco": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1
+          },
+          "arabic": {
+            "type": "string"
+          },
+          "english": {
+            "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

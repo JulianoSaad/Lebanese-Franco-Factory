@@ -1,0 +1,67 @@
+{
+  "pack": "cities",
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "c_beitut",
+      "franco": [
+        "beitut",
+        "beirut"
+      ],
+      "arabic": "بيروت",
+      "english": "Beirut",
+      "tags": [
+        "cities"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_tripoli",
+      "franco": [
+        "trablous"
+      ],
+      "arabic": "طرابلس",
+      "english": "Tripoli",
+      "tags": [
+        "cities"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_saida",
+      "franco": [
+        "saida"
+      ],
+      "arabic": "صيدا",
+      "english": "Sidon",
+      "tags": [
+        "cities"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_jounieh",
+      "franco": [
+        "jounieh"
+      ],
+      "arabic": "جونية",
+      "english": "Jounieh",
+      "tags": [
+        "cities"
+      ],
+      "examples": []
+    },
+    {
+      "id": "c_zahle",
+      "franco": [
+        "zahle"
+      ],
+      "arabic": "زحلة",
+      "english": "Zahle",
+      "tags": [
+        "cities"
+      ],
+      "examples": []
+    }
+  ]
+}

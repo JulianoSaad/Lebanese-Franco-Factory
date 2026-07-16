@@ -1,0 +1,22 @@
+name: casual_chat
+plugin: chat
+family: chat_sft
+language: lebanese_franco
+version: 0.1.0
+size: 100000
+seed: 42
+domain: casual_chat
+dictionary_packs:
+  - greetings
+  - emotions
+  - verbs
+variation:
+  typo_rate: 0.15
+  abbreviation_rate: 0.25
+  digit_arabizi: true
+export:
+  format: jsonl
+  split:
+    train: 0.98
+    validation: 0.01
+    test: 0.01

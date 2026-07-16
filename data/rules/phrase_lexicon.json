@@ -1,0 +1,502 @@
+[
+  {
+    "arabic": "كيفك؟",
+    "franco": "kifak?",
+    "english": "how are you?"
+  },
+  {
+    "arabic": "مرحبا",
+    "franco": "mar7aba",
+    "english": "hello"
+  },
+  {
+    "arabic": "أهلا",
+    "franco": "ahla",
+    "english": "welcome"
+  },
+  {
+    "arabic": "يلا",
+    "franco": "yalla",
+    "english": "let's go"
+  },
+  {
+    "arabic": "شو في؟",
+    "franco": "shu fi?",
+    "english": "what's up?"
+  },
+  {
+    "arabic": "تمام",
+    "franco": "tamam",
+    "english": "okay / fine"
+  },
+  {
+    "arabic": "مش مشكلة",
+    "franco": "mesh meshkle",
+    "english": "no problem"
+  },
+  {
+    "arabic": "شكرا",
+    "franco": "shukran",
+    "english": "thank you"
+  },
+  {
+    "arabic": "عفوا",
+    "franco": "3afwan",
+    "english": "you're welcome"
+  },
+  {
+    "arabic": "صباح الخير",
+    "franco": "sabah l kher",
+    "english": "good morning"
+  },
+  {
+    "arabic": "مساء الخير",
+    "franco": "masa l kher",
+    "english": "good evening"
+  },
+  {
+    "arabic": "تصبح على خير",
+    "franco": "tesba7 3ala kher",
+    "english": "good night"
+  },
+  {
+    "arabic": "وينك؟",
+    "franco": "waynak?",
+    "english": "where are you?"
+  },
+  {
+    "arabic": "شو عم تعمل؟",
+    "franco": "shu 3am ta3mil?",
+    "english": "what are you doing?"
+  },
+  {
+    "arabic": "بدي",
+    "franco": "badde",
+    "english": "I want"
+  },
+  {
+    "arabic": "ما بدي",
+    "franco": "ma badde",
+    "english": "I don't want"
+  },
+  {
+    "arabic": "فهمت",
+    "franco": "fhimt",
+    "english": "I understood"
+  },
+  {
+    "arabic": "ما فهمت",
+    "franco": "ma fhimt",
+    "english": "I didn't understand"
+  },
+  {
+    "arabic": "أنا تعبان",
+    "franco": "ana ta3ban",
+    "english": "I'm tired"
+  },
+  {
+    "arabic": "أنا مبسوط",
+    "franco": "ana mabsout",
+    "english": "I'm happy"
+  },
+  {
+    "arabic": "بيروت",
+    "franco": "beitut",
+    "english": "Beirut"
+  },
+  {
+    "arabic": "منقوشة",
+    "franco": "man2oushe",
+    "english": "manakish"
+  },
+  {
+    "arabic": "قهوة",
+    "franco": "kahwe",
+    "english": "coffee"
+  },
+  {
+    "arabic": "شاي",
+    "franco": "shay",
+    "english": "tea"
+  },
+  {
+    "arabic": "شغل",
+    "franco": "shighl",
+    "english": "work"
+  },
+  {
+    "arabic": "مكتب",
+    "franco": "maktab",
+    "english": "office"
+  },
+  {
+    "arabic": "صاحب",
+    "franco": "sa7eb",
+    "english": "friend"
+  },
+  {
+    "arabic": "حبيبي",
+    "franco": "7abibe",
+    "english": "my love"
+  },
+  {
+    "arabic": "باي",
+    "franco": "bye",
+    "english": "bye"
+  },
+  {
+    "arabic": "تشرفنا",
+    "franco": "tsharafna",
+    "english": "nice to meet you"
+  },
+  {
+    "arabic": "مع السلامة",
+    "franco": "ma3 l salame",
+    "english": "goodbye"
+  },
+  {
+    "arabic": "منيح",
+    "franco": "mnih",
+    "english": "good / fine"
+  },
+  {
+    "arabic": "مو منيح",
+    "franco": "mo mnih",
+    "english": "not good"
+  },
+  {
+    "arabic": "بسرعة",
+    "franco": "b ser3a",
+    "english": "quickly"
+  },
+  {
+    "arabic": "بعدين",
+    "franco": "ba3den",
+    "english": "later"
+  },
+  {
+    "arabic": "هلق",
+    "franco": "halla2",
+    "english": "now"
+  },
+  {
+    "arabic": "اليوم",
+    "franco": "l yom",
+    "english": "today"
+  },
+  {
+    "arabic": "بكرا",
+    "franco": "bukra",
+    "english": "tomorrow"
+  },
+  {
+    "arabic": "مبارح",
+    "franco": "mbare7",
+    "english": "yesterday"
+  },
+  {
+    "arabic": "وين",
+    "franco": "wayn",
+    "english": "where"
+  },
+  {
+    "arabic": "ليش",
+    "franco": "lesh",
+    "english": "why"
+  },
+  {
+    "arabic": "كيف",
+    "franco": "kif",
+    "english": "how"
+  },
+  {
+    "arabic": "مين",
+    "franco": "min",
+    "english": "who"
+  },
+  {
+    "arabic": "شو",
+    "franco": "shu",
+    "english": "what"
+  },
+  {
+    "arabic": "إيمتى",
+    "franco": "emta",
+    "english": "when"
+  },
+  {
+    "arabic": "كم",
+    "franco": "kam",
+    "english": "how much / how many"
+  },
+  {
+    "arabic": "هيك",
+    "franco": "heik",
+    "english": "like this"
+  },
+  {
+    "arabic": "كمان",
+    "franco": "kaman",
+    "english": "also"
+  },
+  {
+    "arabic": "بس",
+    "franco": "bas",
+    "english": "but / only"
+  },
+  {
+    "arabic": "يعني",
+    "franco": "ya3ne",
+    "english": "meaning / like"
+  },
+  {
+    "arabic": "خلص",
+    "franco": "khalas",
+    "english": "done / enough"
+  },
+  {
+    "arabic": "استنى",
+    "franco": "stanna",
+    "english": "wait"
+  },
+  {
+    "arabic": "تعال",
+    "franco": "ta3a",
+    "english": "come"
+  },
+  {
+    "arabic": "روح",
+    "franco": "rou7",
+    "english": "go"
+  },
+  {
+    "arabic": "شوف",
+    "franco": "shuf",
+    "english": "look / see"
+  },
+  {
+    "arabic": "سمع",
+    "franco": "sma3",
+    "english": "hear / listen"
+  },
+  {
+    "arabic": "اكل",
+    "franco": "ekel",
+    "english": "food / eat"
+  },
+  {
+    "arabic": "مية",
+    "franco": "mayy",
+    "english": "water"
+  },
+  {
+    "arabic": "بيت",
+    "franco": "bet",
+    "english": "home / house"
+  },
+  {
+    "arabic": "سيارة",
+    "franco": "siyyara",
+    "english": "car"
+  },
+  {
+    "arabic": "شارع",
+    "franco": "shari3",
+    "english": "street"
+  },
+  {
+    "arabic": "مدرسة",
+    "franco": "madrase",
+    "english": "school"
+  },
+  {
+    "arabic": "جامعة",
+    "franco": "jam3a",
+    "english": "university"
+  },
+  {
+    "arabic": "دكتور",
+    "franco": "doctor",
+    "english": "doctor"
+  },
+  {
+    "arabic": "مستشفى",
+    "franco": "mustashfa",
+    "english": "hospital"
+  },
+  {
+    "arabic": "حب",
+    "franco": "7obb",
+    "english": "love"
+  },
+  {
+    "arabic": "خوف",
+    "franco": "khawf",
+    "english": "fear"
+  },
+  {
+    "arabic": "زعلان",
+    "franco": "za3lan",
+    "english": "upset"
+  },
+  {
+    "arabic": "فرحان",
+    "franco": "far7an",
+    "english": "joyful"
+  },
+  {
+    "arabic": "برد",
+    "franco": "bard",
+    "english": "cold"
+  },
+  {
+    "arabic": "شمس",
+    "franco": "shams",
+    "english": "sun"
+  },
+  {
+    "arabic": "مطر",
+    "franco": "matar",
+    "english": "rain"
+  },
+  {
+    "arabic": "ثلج",
+    "franco": "talj",
+    "english": "snow"
+  },
+  {
+    "arabic": "ليل",
+    "franco": "lel",
+    "english": "night"
+  },
+  {
+    "arabic": "نهار",
+    "franco": "nhar",
+    "english": "day"
+  },
+  {
+    "arabic": "ساعة",
+    "franco": "sa3a",
+    "english": "hour / watch"
+  },
+  {
+    "arabic": "دقيقة",
+    "franco": "da2i2a",
+    "english": "minute"
+  },
+  {
+    "arabic": "رقم",
+    "franco": "ra2em",
+    "english": "number"
+  },
+  {
+    "arabic": "اسم",
+    "franco": "isem",
+    "english": "name"
+  },
+  {
+    "arabic": "عمر",
+    "franco": "3omr",
+    "english": "age"
+  },
+  {
+    "arabic": "فلوس",
+    "franco": "flus",
+    "english": "money"
+  },
+  {
+    "arabic": "غالي",
+    "franco": "ghali",
+    "english": "expensive"
+  },
+  {
+    "arabic": "رخيص",
+    "franco": "rkhis",
+    "english": "cheap"
+  },
+  {
+    "arabic": "كبير",
+    "franco": "kbir",
+    "english": "big"
+  },
+  {
+    "arabic": "صغير",
+    "franco": "zghir",
+    "english": "small"
+  },
+  {
+    "arabic": "جديد",
+    "franco": "jdid",
+    "english": "new"
+  },
+  {
+    "arabic": "قديم",
+    "franco": "2adim",
+    "english": "old"
+  },
+  {
+    "arabic": "حلو",
+    "franco": "7elw",
+    "english": "nice / sweet"
+  },
+  {
+    "arabic": "صعب",
+    "franco": "sa3b",
+    "english": "hard"
+  },
+  {
+    "arabic": "سهل",
+    "franco": "sahil",
+    "english": "easy"
+  },
+  {
+    "arabic": "صح",
+    "franco": "sa7",
+    "english": "correct / right"
+  },
+  {
+    "arabic": "غلط",
+    "franco": "ghalat",
+    "english": "wrong"
+  },
+  {
+    "arabic": "ممكن",
+    "franco": "mumkin",
+    "english": "possible / maybe"
+  },
+  {
+    "arabic": "مستحيل",
+    "franco": "musta7il",
+    "english": "impossible"
+  },
+  {
+    "arabic": "أكيد",
+    "franco": "akid",
+    "english": "sure"
+  },
+  {
+    "arabic": "طبعا",
+    "franco": "tab3an",
+    "english": "of course"
+  },
+  {
+    "arabic": "لا",
+    "franco": "la2",
+    "english": "no"
+  },
+  {
+    "arabic": "نعم",
+    "franco": "na3am",
+    "english": "yes"
+  },
+  {
+    "arabic": "اه",
+    "franco": "eh",
+    "english": "yeah"
+  },
+  {
+    "arabic": "والله",
+    "franco": "wallah",
+    "english": "I swear / really"
+  }
+]

@@ -155,13 +155,14 @@ def generate(config: dict[str, Any]) -> list[dict[str, Any]]:
             "synth requires an AI provider (e.g. provider: ollama). "
             "Rule-based variety is what the 'conversion' plugin already does."
         )
-    provider = get_provider(
-        provider_name,
-        **{k: v for k, v in {
-            "model": config.get("model") or config.get("provider_model"),
-            "host": config.get("host") or config.get("provider_host"),
-        }.items() if v is not None},
-    )
+    prov_kwargs = {
+        "model": config.get("model") or config.get("provider_model"),
+        "host": config.get("host") or config.get("provider_host"),
+    }
+    # timeout is Ollama-specific here (other providers manage their own).
+    if provider_name == "ollama" and config.get("timeout") is not None:
+        prov_kwargs["timeout"] = config.get("timeout")
+    provider = get_provider(provider_name, **{k: v for k, v in prov_kwargs.items() if v is not None})
 
     lexicon = json.loads((rules_dir() / "phrase_lexicon.json").read_text(encoding="utf-8"))
     rng = random.Random(seed)

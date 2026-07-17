@@ -13,9 +13,15 @@ from lebanese_franco_factory.providers.base import Provider
 class OllamaProvider(Provider):
     name = "ollama"
 
-    def __init__(self, model: str = "qwen2.5", host: str = "http://127.0.0.1:11434") -> None:
+    def __init__(
+        self,
+        model: str = "qwen2.5",
+        host: str = "http://127.0.0.1:11434",
+        timeout: float = 120.0,
+    ) -> None:
         self.model = model
         self.host = host.rstrip("/")
+        self.timeout = float(timeout)
 
     def complete(self, prompt: str, **kwargs: Any) -> str:
         payload = {
@@ -30,7 +36,7 @@ class OllamaProvider(Provider):
             method="POST",
         )
         try:
-            with urllib.request.urlopen(req, timeout=60) as resp:
+            with urllib.request.urlopen(req, timeout=kwargs.get("timeout", self.timeout)) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
         except urllib.error.URLError as exc:
             raise RuntimeError(f"Ollama not reachable at {self.host}: {exc}") from exc

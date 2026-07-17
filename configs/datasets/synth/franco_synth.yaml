@@ -16,6 +16,7 @@ host: http://127.0.0.1:11434
 # how many phrases to request per model call, and few-shot examples per prompt
 batch_size: 20
 few_shot: 6
+timeout: 120
 
 export:
   format: jsonl

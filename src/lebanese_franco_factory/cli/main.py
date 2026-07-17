@@ -26,6 +26,9 @@ def build_parser() -> argparse.ArgumentParser:
     gen.add_argument("--model", default=None, help="Provider model id/tag")
     gen.add_argument("--host", default=None, help="Provider host URL (e.g. Ollama endpoint)")
     gen.add_argument("--direction", default=None, help="Conversion direction override")
+    gen.add_argument(
+        "--timeout", type=float, default=None, help="Per-call provider timeout (s); Ollama"
+    )
 
     exp = sub.add_parser("export", help="Export a run into Datasets repo layout")
     exp.add_argument("--run", required=True)
@@ -84,6 +87,7 @@ def main(argv: list[str] | None = None) -> int:
                 "model": args.model,
                 "host": args.host,
                 "direction": args.direction,
+                "timeout": args.timeout,
             },
             config_path=args.config,
         )

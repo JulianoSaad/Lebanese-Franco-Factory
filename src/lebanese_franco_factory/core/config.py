@@ -21,6 +21,8 @@ DATASET_CONFIG_MAP: dict[str, str] = {
     "franco_to_arabic": "conversion/franco_to_arabic.yaml",
     "english_to_franco": "conversion/english_to_franco.yaml",
     "franco_to_english": "conversion/franco_to_english.yaml",
+    "franco_synth": "synth/franco_synth.yaml",
+    "synth": "synth/franco_synth.yaml",
     "typos": "spelling/typos.yaml",
     "variants": "spelling/variants.yaml",
     "abbreviations": "spelling/abbreviations.yaml",

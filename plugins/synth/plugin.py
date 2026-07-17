@@ -19,6 +19,7 @@ from __future__ import annotations
 import json
 import random
 import re
+import sys
 from typing import Any
 
 from lebanese_franco_factory.core.paths import rules_dir
@@ -189,14 +190,23 @@ def generate(config: dict[str, Any]) -> list[dict[str, Any]]:
             raise RuntimeError(
                 f"synth: provider {provider_name!r} failed on batch {batch_idx}: {exc}"
             ) from exc
+        added = 0
         for triple in parse_pairs(text):
             key = _norm(triple["franco"])
             if key in seen:
                 continue
             seen.add(key)
             collected.append(triple)
+            added += 1
             if len(collected) >= size:
                 break
+        # progress line (stderr) — every batch, so long runs are never silent
+        print(
+            f"[synth] batch {batch_idx + 1}: +{added} new "
+            f"({len(collected)}/{size} collected)",
+            file=sys.stderr,
+            flush=True,
+        )
 
     return [_to_row(t, direction, i, meta_base) for i, t in enumerate(collected)]
 

@@ -1,16 +1,16 @@
-"""Minimal localhost dashboard for Factory progress and one-click generate."""
+"""Minimal localhost dashboard for Factory progress and one-click generate.
+
+``fastapi`` is an optional ``[dashboard]`` extra and is imported lazily inside
+:func:`create_app`, so importing this module (e.g. for API-doc generation)
+never requires it. Only actually starting the server does.
+"""
 
 from __future__ import annotations
 
 import json
 
-from fastapi import FastAPI, Form
-from fastapi.responses import HTMLResponse, JSONResponse, RedirectResponse
-
 from lebanese_franco_factory.core.paths import output_dir, repo_root
 from lebanese_franco_factory.factory.pipeline import resolve_config, run_generate
-
-app = FastAPI(title="Lebanese Franco Factory Dashboard")
 
 
 def _stats() -> dict:
@@ -42,9 +42,9 @@ def _stats() -> dict:
     }
 
 
-@app.get("/", response_class=HTMLResponse)
-def home() -> str:
+def _home_html() -> str:
     s = _stats()
+
     def bar(n: int, target: int = 100000) -> str:
         pct = min(100, int(100 * n / max(target, 1)))
         return f"{'█' * (pct // 10)}{'░' * (10 - pct // 10)} {pct}%"
@@ -74,27 +74,34 @@ code{{background:#eee;padding:.1rem .3rem}}
 </body></html>"""
 
 
-@app.get("/api/stats")
-def api_stats():
-    return JSONResponse(_stats())
+def create_app():
+    """Build the FastAPI dashboard app (imports fastapi lazily)."""
+    from fastapi import FastAPI, Form
+    from fastapi.responses import HTMLResponse, JSONResponse, RedirectResponse
 
+    app = FastAPI(title="Lebanese Franco Factory Dashboard")
 
-@app.post("/generate")
-def generate(dataset: str = Form(...), size: int = Form(100)):
-    config = resolve_config(dataset, {"size": size, "seed": 42})
-    out = run_generate(config)
-    return RedirectResponse(url=f"/?last={out}", status_code=303)
+    @app.get("/", response_class=HTMLResponse)
+    def home() -> str:
+        return _home_html()
+
+    @app.get("/api/stats")
+    def api_stats():
+        return JSONResponse(_stats())
+
+    @app.post("/generate")
+    def generate(dataset: str = Form(...), size: int = Form(100)):
+        config = resolve_config(dataset, {"size": size, "seed": 42})
+        out = run_generate(config)
+        return RedirectResponse(url=f"/?last={out}", status_code=303)
+
+    return app
 
 
 def main() -> None:
     import uvicorn
 
-    uvicorn.run(
-        "lebanese_franco_factory.dashboard.app:app",
-        host="127.0.0.1",
-        port=8080,
-        reload=False,
-    )
+    uvicorn.run(create_app(), host="127.0.0.1", port=8080)
 
 
 if __name__ == "__main__":

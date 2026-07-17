@@ -124,14 +124,9 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     if args.command == "review":
-        import uvicorn
+        from lebanese_franco_factory.review.app import main as review_main
 
-        uvicorn.run(
-            "lebanese_franco_factory.review.app:app",
-            host="127.0.0.1",
-            port=8081,
-            reload=False,
-        )
+        review_main()
         return 0
 
     if args.command == "docs":

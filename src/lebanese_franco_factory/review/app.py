@@ -1,4 +1,9 @@
-"""Human review UI — prefers curated queue, writes human_feedback.jsonl."""
+"""Human review UI — prefers curated queue, writes human_feedback.jsonl.
+
+``fastapi`` is an optional ``[dashboard]`` extra and is imported lazily inside
+:func:`create_app`, so importing this module (e.g. for API-doc generation)
+never requires it. Only actually starting the server does.
+"""
 
 from __future__ import annotations
 
@@ -7,12 +12,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from fastapi import FastAPI, Form
-from fastapi.responses import HTMLResponse, RedirectResponse
-
 from lebanese_franco_factory.core.paths import output_dir, repo_root
-
-app = FastAPI(title="Lebanese Franco Human Review")
 
 
 def feedback_path() -> Path:
@@ -88,7 +88,7 @@ def load_queue(limit: int = 50) -> list[dict]:
             if not line.strip():
                 continue
             row = json.loads(line)
-            if row.get("id") in done:
+            if row.get("id") in done_any:
                 continue
             if row.get("family") == "conversion":
                 rows.append(row)
@@ -97,9 +97,7 @@ def load_queue(limit: int = 50) -> list[dict]:
     return rows
 
 
-@app.get("/", response_class=HTMLResponse)
-@app.get("/review", response_class=HTMLResponse)
-def review_home() -> str:
+def _review_home_html() -> str:
     queue = load_queue()
     remaining = len(queue)
     if not queue:
@@ -138,14 +136,10 @@ button{{margin-right:.5rem;padding:.5rem .9rem;cursor:pointer}}
 </body></html>"""
 
 
-@app.post("/review/submit")
-def submit(
-    id: str = Form(...),
-    original: str = Form(...),
-    generated: str = Form(...),
-    corrected: str = Form(""),
-    decision: str = Form(...),
-):
+def record_feedback(
+    *, id: str, original: str, generated: str, corrected: str, decision: str
+) -> dict:
+    """Append one review decision to ``feedback/human_feedback.jsonl``."""
     record = {
         "id": id,
         "decision": decision,
@@ -158,4 +152,46 @@ def submit(
     }
     with feedback_path().open("a", encoding="utf-8") as fh:
         fh.write(json.dumps(record, ensure_ascii=False) + "\n")
-    return RedirectResponse(url="/review", status_code=303)
+    return record
+
+
+def create_app():
+    """Build the FastAPI human-review app (imports fastapi lazily)."""
+    from fastapi import FastAPI, Form
+    from fastapi.responses import HTMLResponse, RedirectResponse
+
+    app = FastAPI(title="Lebanese Franco Human Review")
+
+    @app.get("/", response_class=HTMLResponse)
+    @app.get("/review", response_class=HTMLResponse)
+    def review_home() -> str:
+        return _review_home_html()
+
+    @app.post("/review/submit")
+    def submit(
+        id: str = Form(...),
+        original: str = Form(...),
+        generated: str = Form(...),
+        corrected: str = Form(""),
+        decision: str = Form(...),
+    ):
+        record_feedback(
+            id=id,
+            original=original,
+            generated=generated,
+            corrected=corrected,
+            decision=decision,
+        )
+        return RedirectResponse(url="/review", status_code=303)
+
+    return app
+
+
+def main() -> None:
+    import uvicorn
+
+    uvicorn.run(create_app(), host="127.0.0.1", port=8081)
+
+
+if __name__ == "__main__":
+    main()

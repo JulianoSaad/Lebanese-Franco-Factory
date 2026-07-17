@@ -99,9 +99,14 @@ def create_app():
 
 
 def main() -> None:
+    import os
+
     import uvicorn
 
-    uvicorn.run(create_app(), host="127.0.0.1", port=8080)
+    # Default 8090 (8080 is commonly taken); override with LFF_DASHBOARD_PORT.
+    port = int(os.environ.get("LFF_DASHBOARD_PORT", "8090"))
+    host = os.environ.get("LFF_HOST", "127.0.0.1")
+    uvicorn.run(create_app(), host=host, port=port)
 
 
 if __name__ == "__main__":

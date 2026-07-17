@@ -65,8 +65,8 @@ All of OpenAI / Ollama / LiteLLM / vLLM / Hugging Face share the same `Provider`
 lff train --smoke
 lff evaluate
 pip install -e ".[dashboard]"
-lff dashboard   # :8080
-lff review      # :8081
+lff dashboard   # :8090  (override: LFF_DASHBOARD_PORT)
+lff review      # :8081  (override: LFF_REVIEW_PORT)
 ```
 
 ## License

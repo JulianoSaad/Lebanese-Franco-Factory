@@ -188,9 +188,14 @@ def create_app():
 
 
 def main() -> None:
+    import os
+
     import uvicorn
 
-    uvicorn.run(create_app(), host="127.0.0.1", port=8081)
+    # Override with LFF_REVIEW_PORT / LFF_HOST if the default is taken.
+    port = int(os.environ.get("LFF_REVIEW_PORT", "8081"))
+    host = os.environ.get("LFF_HOST", "127.0.0.1")
+    uvicorn.run(create_app(), host=host, port=port)
 
 
 if __name__ == "__main__":

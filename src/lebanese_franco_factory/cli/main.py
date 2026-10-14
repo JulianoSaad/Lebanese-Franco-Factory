@@ -45,8 +45,9 @@ def build_parser() -> argparse.ArgumentParser:
     train.add_argument("--data", action="append", default=None)
 
     sub.add_parser("evaluate", help="Run benchmark suite")
-    sub.add_parser("dashboard", help="Start dashboard on :8080")
-    sub.add_parser("review", help="Start human review UI on :8081")
+    sub.add_parser("serve", help="Start the combined app (Dashboard+Datasets+Review) on :8090")
+    sub.add_parser("dashboard", help="Alias for serve (combined app) on :8090")
+    sub.add_parser("review", help="Alias for serve (combined app) on :8081")
     sub.add_parser("docs", help="Regenerate docs/api HTML via pdoc")
     sub.add_parser("apply-feedback", help="Merge human_feedback.jsonl into lexicon")
 
@@ -63,6 +64,7 @@ def main(argv: list[str] | None = None) -> int:
         "validate",
         "train",
         "evaluate",
+        "serve",
         "dashboard",
         "review",
         "docs",
@@ -133,6 +135,12 @@ def main(argv: list[str] | None = None) -> int:
         from lebanese_franco_factory.benchmarks.runner import main as eval_main
 
         return eval_main()
+
+    if args.command == "serve":
+        from lebanese_franco_factory.webui.server import main as serve_main
+
+        serve_main(default_port=8090, port_env="LFF_PORT")
+        return 0
 
     if args.command == "dashboard":
         from lebanese_franco_factory.dashboard.app import main as dash_main

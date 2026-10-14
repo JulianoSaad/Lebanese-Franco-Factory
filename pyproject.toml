@@ -17,7 +17,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "ruff>=0.4", "mypy>=1.8", "pdoc>=14.0"]
-dashboard = ["fastapi>=0.110", "uvicorn>=0.27", "python-multipart>=0.0.9"]
+dashboard = ["fastapi>=0.110", "uvicorn>=0.27", "python-multipart>=0.0.9", "openpyxl>=3.1"]
 train = ["transformers>=4.40", "datasets>=2.18", "peft>=0.10", "accelerate>=0.28"]
 docs = ["pdoc>=14.0"]
 

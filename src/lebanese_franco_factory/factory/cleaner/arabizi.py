@@ -33,6 +33,23 @@ ATTACHING_PREFIXES = ("b", "bl", "mn", "mnl")
 # §2 MSA case endings.
 MSA_ENDINGS = (("aton", ""), ("atoun", ""), ("oun", ""), ("un", ""))
 
+# §2 Modern Standard Arabic words that no amount of respelling makes Lebanese. Spotted in the
+# `anonymous` reviewer's corrections ("al touroukat mouzdahima", "alshare3 mughlaq bisabab
+# albina2", "ayna anta?"). Normalizing cannot fix vocabulary, so these rows cannot be gold.
+MSA_VOCABULARY = frozenset({
+    "ayna", "anta", "anti", "antum", "hiya", "huwa", "hadha", "hadhihi", "alladhi", "mata",
+    "bisabab", "ghayr", "mughlaq", "mouzdahima", "mouzdahem", "touroukat", "almutabaqi",
+    "mantiqi", "min7aqi", "alse3er", "almablagh", "almina2", "alhadiqa", "alsuq", "latoobis",
+    "lotobis", "oughniya", "mas2oul", "mut3abaton",
+})
+
+
+def msa_vocabulary(text: str) -> list[str]:
+    """MSA words found in the text (empty list = nothing obviously MSA)."""
+    words = [w.strip(".,!?;:'\"()").lower() for w in (text or "").split()]
+    return sorted({w for w in words if w in MSA_VOCABULARY})
+
+
 RULES = (
     ("counter_in_text", "§6.1 no generator counters/ids in the text"),
     ("arabic_in_franco", "§6.2 no Arabic script in a Franco field"),

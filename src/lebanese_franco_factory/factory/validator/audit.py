@@ -17,6 +17,7 @@ from pathlib import Path
 from typing import Iterable
 
 from lebanese_franco_factory.core.paths import repo_root
+from lebanese_franco_factory.factory.cleaner.arabizi import franco_violations, normalize_franco
 from lebanese_franco_factory.factory.validator.quality import (
     classify,
     lex_key,
@@ -91,6 +92,11 @@ def validate_rows(rows: Iterable[dict], lexicon: dict[str, set[str]],
         key = (normalize(src), normalize(tgt))
         duplicate = key in seen
         seen.add(key)
+        # A Franco side that only breaks the mechanical rules of the spelling convention is
+        # fixed by the normalizer, not by a reviewer (docs/ARABIZI_CONVENTION.md).
+        franco = tgt if direction.endswith("_to_franco") else (src if direction.startswith("franco_") else "")
+        normalized = normalize_franco(franco) if franco else ""
+        convention = franco_violations(franco) if franco else []
         lex = "unknown"
         if "arabic" in (direction or "") or (rec.get("meta") or {}).get("arabic"):
             ar = src if direction.startswith("arabic") else ((rec.get("meta") or {}).get("arabic") or "")
@@ -104,8 +110,12 @@ def validate_rows(rows: Iterable[dict], lexicon: dict[str, set[str]],
             "target": tgt,
             "issues": issues,
             "lexicon": lex,
+            "convention": convention,
+            "normalized": normalized if normalized and normalized != franco else "",
             "verdict": classify(issues, lex, duplicate=duplicate),
         })
+        if out[-1]["verdict"] == "review" and out[-1]["normalized"]:
+            out[-1]["verdict"] = "normalize"
     return out
 
 
@@ -234,6 +244,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"  judge ({args.model}): {jg}")
         summary = summarize(results)
         print("  after judge:", summary["verdicts"])
+    norm = [r for r in results if r["verdict"] == "normalize"]
+    if norm:
+        print(f"  normalizer fixes {len(norm):,} row(s) without a human, e.g.")
+        for r in norm[:3]:
+            print(f"    {r['target'] or r['source']!r} -> {r['normalized']!r}")
     needs_human = sum(1 for r in results if r["verdict"] in ("review", "conflict"))
     print(f"  needs a human: {needs_human:,} of {summary['rows']:,} "
           f"({100 * needs_human / max(summary['rows'], 1):.1f}%)")

@@ -1,0 +1,1292 @@
+{
+  "pack": "lebanese_support_phrases",
+  "version": "1.0.0",
+  "provenance": "claude-seed-v1",
+  "note": "Written by Claude (not a native speaker) to the spelling convention in docs/ARABIZI_CONVENTION.md, as seed material for the ISP/support domain where the mined chats are thin. Every franco spelling is normalizer-clean and free of MSA vocabulary, but the word choice still needs a native pass: treat as silver until reviewed. Variant spellings in `franco` are all acceptable; the first is the house spelling.",
+  "needs_native_review": true,
+  "entries": [
+    {
+      "id": "s_internet_slow",
+      "franco": [
+        "l internet 3andi bati2",
+        "l internet bati2"
+      ],
+      "arabic": "الإنترنت عندي بطيء",
+      "english": "my internet is slow",
+      "tags": [
+        "support",
+        "internet"
+      ]
+    },
+    {
+      "id": "s_internet_cut",
+      "franco": [
+        "l internet ma3 msakkar",
+        "l internet maktou3"
+      ],
+      "arabic": "الإنترنت مقطوع",
+      "english": "the internet is down",
+      "tags": [
+        "support",
+        "internet"
+      ]
+    },
+    {
+      "id": "s_internet_keeps_cutting",
+      "franco": [
+        "l internet 3am yen2ete3 kell shway"
+      ],
+      "arabic": "الإنترنت عم ينقطع كل شوي",
+      "english": "the internet keeps dropping",
+      "tags": [
+        "support",
+        "internet"
+      ]
+    },
+    {
+      "id": "s_no_wifi",
+      "franco": [
+        "ma fi wifi"
+      ],
+      "arabic": "ما في واي فاي",
+      "english": "there is no wifi",
+      "tags": [
+        "support",
+        "wifi"
+      ]
+    },
+    {
+      "id": "s_wifi_weak",
+      "franco": [
+        "l wifi da3if b l oda l tenye"
+      ],
+      "arabic": "الواي فاي ضعيف في الغرفة الثانية",
+      "english": "the wifi is weak in the other room",
+      "tags": [
+        "support",
+        "wifi"
+      ]
+    },
+    {
+      "id": "s_wifi_password",
+      "franco": [
+        "badde ghayyer password l wifi"
+      ],
+      "arabic": "بدي غير باسوورد الواي فاي",
+      "english": "I want to change the wifi password",
+      "tags": [
+        "support",
+        "wifi"
+      ]
+    },
+    {
+      "id": "s_router_restart",
+      "franco": [
+        "tafayt l router w dawarto"
+      ],
+      "arabic": "طفيت الراوتر وضويته",
+      "english": "I turned the router off and on",
+      "tags": [
+        "support",
+        "modem"
+      ]
+    },
+    {
+      "id": "s_router_lights",
+      "franco": [
+        "l dawa l a7mar sha3el 3al router"
+      ],
+      "arabic": "الضوء الأحمر شاعل على الراوتر",
+      "english": "the red light is on on the router",
+      "tags": [
+        "support",
+        "modem"
+      ]
+    },
+    {
+      "id": "s_los_red",
+      "franco": [
+        "dawa l LOS a7mar"
+      ],
+      "arabic": "ضوء ال LOS أحمر",
+      "english": "the LOS light is red",
+      "tags": [
+        "support",
+        "fiber"
+      ]
+    },
+    {
+      "id": "s_no_dsl_light",
+      "franco": [
+        "dawa l DSL mesh sha3el"
+      ],
+      "arabic": "ضوء ال DSL مش شاعل",
+      "english": "the DSL light is not on",
+      "tags": [
+        "support",
+        "dsl"
+      ]
+    },
+    {
+      "id": "s_modem_no_login",
+      "franco": [
+        "ma 3am yemshe l username w l password 3al router"
+      ],
+      "arabic": "ما عم يمشي اليوزرنيم والباسوورد على الراوتر",
+      "english": "the router username and password are not working",
+      "tags": [
+        "support",
+        "modem"
+      ]
+    },
+    {
+      "id": "s_cable_check",
+      "franco": [
+        "jarrabet ghayyar l cable"
+      ],
+      "arabic": "جربت غير الكابل",
+      "english": "I tried changing the cable",
+      "tags": [
+        "support",
+        "modem"
+      ]
+    },
+    {
+      "id": "s_speed_test",
+      "franco": [
+        "3melt speed test w l natije da3ife"
+      ],
+      "arabic": "عملت سبيد تست والنتيجة ضعيفة",
+      "english": "I ran a speed test and the result is weak",
+      "tags": [
+        "support",
+        "internet"
+      ]
+    },
+    {
+      "id": "s_quota_finished",
+      "franco": [
+        "l quota khelset"
+      ],
+      "arabic": "الكوتا خلصت",
+      "english": "the quota is finished",
+      "tags": [
+        "support",
+        "account"
+      ]
+    },
+    {
+      "id": "s_how_much_left",
+      "franco": [
+        "addesh ba2yene 3andi quota"
+      ],
+      "arabic": "قديش باقية عندي كوتا",
+      "english": "how much quota do I have left",
+      "tags": [
+        "support",
+        "account"
+      ]
+    },
+    {
+      "id": "s_renew_account",
+      "franco": [
+        "badde jadded l account"
+      ],
+      "arabic": "بدي جدد الأكاونت",
+      "english": "I want to renew my account",
+      "tags": [
+        "support",
+        "billing"
+      ]
+    },
+    {
+      "id": "s_where_to_pay",
+      "franco": [
+        "wen fine edfa3"
+      ],
+      "arabic": "وين فيني إدفع",
+      "english": "where can I pay",
+      "tags": [
+        "support",
+        "billing"
+      ]
+    },
+    {
+      "id": "s_paid_already",
+      "franco": [
+        "dafa3et mn embare7"
+      ],
+      "arabic": "دفعت من امبارح",
+      "english": "I paid yesterday",
+      "tags": [
+        "support",
+        "billing"
+      ]
+    },
+    {
+      "id": "s_bill_high",
+      "franco": [
+        "l fatoura ktir ghalye hal shahr"
+      ],
+      "arabic": "الفاتورة كتير غالية هالشهر",
+      "english": "the bill is very expensive this month",
+      "tags": [
+        "support",
+        "billing"
+      ]
+    },
+    {
+      "id": "s_price_plans",
+      "franco": [
+        "shou l as3ar w l baket l mawjoude"
+      ],
+      "arabic": "شو الأسعار والباقات الموجودة",
+      "english": "what are the prices and available plans",
+      "tags": [
+        "sales",
+        "plans"
+      ]
+    },
+    {
+      "id": "s_upgrade_plan",
+      "franco": [
+        "badde zayyed l speed"
+      ],
+      "arabic": "بدي زيد السبيد",
+      "english": "I want to increase my speed",
+      "tags": [
+        "sales",
+        "plans"
+      ]
+    },
+    {
+      "id": "s_fiber_available",
+      "franco": [
+        "fi fiber bmant2atna"
+      ],
+      "arabic": "في فايبر بمنطقتنا",
+      "english": "is fiber available in our area",
+      "tags": [
+        "sales",
+        "fiber"
+      ]
+    },
+    {
+      "id": "s_install_when",
+      "franco": [
+        "emta fine 3mol l tarkib"
+      ],
+      "arabic": "إيمتى فيني عمل التركيب",
+      "english": "when can I have the installation",
+      "tags": [
+        "sales",
+        "installation"
+      ]
+    },
+    {
+      "id": "s_technician_visit",
+      "franco": [
+        "badde technician yiji 3al beit"
+      ],
+      "arabic": "بدي تكنيشن يجي عالبيت",
+      "english": "I want a technician to come to the house",
+      "tags": [
+        "support",
+        "installation"
+      ]
+    },
+    {
+      "id": "s_technician_late",
+      "franco": [
+        "l technician ma jeye"
+      ],
+      "arabic": "التكنيشن ما جاية",
+      "english": "the technician did not come",
+      "tags": [
+        "support",
+        "installation"
+      ]
+    },
+    {
+      "id": "s_outage_area",
+      "franco": [
+        "fi 3atel b l mant2a"
+      ],
+      "arabic": "في عطل بالمنطقة",
+      "english": "is there an outage in the area",
+      "tags": [
+        "support",
+        "outage"
+      ]
+    },
+    {
+      "id": "s_how_long_fix",
+      "franco": [
+        "addesh badda wa2et ta tetsalla7"
+      ],
+      "arabic": "قديش بدها وقت تتصلح",
+      "english": "how long will it take to be fixed",
+      "tags": [
+        "support",
+        "outage"
+      ]
+    },
+    {
+      "id": "s_open_ticket_asked",
+      "franco": [
+        "3melto shakwa w ma 7ada radd"
+      ],
+      "arabic": "عملت شكوى وما حدا رد",
+      "english": "I filed a complaint and nobody replied",
+      "tags": [
+        "support",
+        "escalation"
+      ]
+    },
+    {
+      "id": "s_nobody_answers",
+      "franco": [
+        "sarle fatra 3am 7awel etwasal ma 7ada byerodd"
+      ],
+      "arabic": "صرلي فترة عم حاول اتواصل ما حدا بيرد",
+      "english": "I have been trying to reach you for a while and nobody answers",
+      "tags": [
+        "support",
+        "escalation"
+      ]
+    },
+    {
+      "id": "s_want_agent",
+      "franco": [
+        "badde e7ke ma3 wa7ad mawjoud"
+      ],
+      "arabic": "بدي احكي مع واحد موجود",
+      "english": "I want to talk to a real person",
+      "tags": [
+        "support",
+        "escalation"
+      ]
+    },
+    {
+      "id": "s_still_waiting",
+      "franco": [
+        "3am estanna mn sa3a"
+      ],
+      "arabic": "عم استنى من ساعة",
+      "english": "I have been waiting for an hour",
+      "tags": [
+        "support",
+        "escalation"
+      ]
+    },
+    {
+      "id": "s_not_working_solution",
+      "franco": [
+        "ma meshe l 7al"
+      ],
+      "arabic": "ما مشي الحل",
+      "english": "it did not work",
+      "tags": [
+        "support"
+      ]
+    },
+    {
+      "id": "s_tried_everything",
+      "franco": [
+        "jarrabet kell shi"
+      ],
+      "arabic": "جربت كل شي",
+      "english": "I tried everything",
+      "tags": [
+        "support"
+      ]
+    },
+    {
+      "id": "s_same_problem",
+      "franco": [
+        "nafs l meshkel ba3do"
+      ],
+      "arabic": "نفس المشكل بعدو",
+      "english": "the same problem is still there",
+      "tags": [
+        "support"
+      ]
+    },
+    {
+      "id": "s_vpn_not_connecting",
+      "franco": [
+        "l VPN mesh 3am yetwasal"
+      ],
+      "arabic": "ال في بي ان مش عم يتوصل",
+      "english": "the vpn is not connecting",
+      "tags": [
+        "support",
+        "vpn"
+      ]
+    },
+    {
+      "id": "s_cannot_register",
+      "franco": [
+        "mesh 3am e2dar sajjel"
+      ],
+      "arabic": "مش عم إقدر سجل",
+      "english": "I cannot register",
+      "tags": [
+        "support",
+        "account"
+      ]
+    },
+    {
+      "id": "s_number_used",
+      "franco": [
+        "3am yetla3le l ra2em maste3mal"
+      ],
+      "arabic": "عم يطلعلي الرقم مستعمل",
+      "english": "it tells me the number is already used",
+      "tags": [
+        "support",
+        "account"
+      ]
+    },
+    {
+      "id": "s_forgot_password",
+      "franco": [
+        "nseet l password"
+      ],
+      "arabic": "نسيت الباسوورد",
+      "english": "I forgot the password",
+      "tags": [
+        "support",
+        "account"
+      ]
+    },
+    {
+      "id": "s_send_code",
+      "franco": [
+        "ma wselne l code"
+      ],
+      "arabic": "ما وصلني الكود",
+      "english": "I did not receive the code",
+      "tags": [
+        "support",
+        "account"
+      ]
+    },
+    {
+      "id": "s_app_not_working",
+      "franco": [
+        "l application mesh 3am tefta7"
+      ],
+      "arabic": "الأبليكاشن مش عم تفتح",
+      "english": "the app is not opening",
+      "tags": [
+        "support",
+        "app"
+      ]
+    },
+    {
+      "id": "s_tv_no_channels",
+      "franco": [
+        "l TV ma fi channels"
+      ],
+      "arabic": "التي في ما في قنوات",
+      "english": "the TV has no channels",
+      "tags": [
+        "support",
+        "tv"
+      ]
+    },
+    {
+      "id": "s_tv_freezing",
+      "franco": [
+        "l sura 3am tewa22af"
+      ],
+      "arabic": "الصورة عم توقف",
+      "english": "the picture keeps freezing",
+      "tags": [
+        "support",
+        "tv"
+      ]
+    },
+    {
+      "id": "s_gaming_lag",
+      "franco": [
+        "l ping 3ale 3am el3ab"
+      ],
+      "arabic": "البينغ عالي عم إلعب",
+      "english": "the ping is high while I play",
+      "tags": [
+        "support",
+        "gaming"
+      ]
+    },
+    {
+      "id": "s_whatsapp_calls",
+      "franco": [
+        "calls l WhatsApp mesh 3am yemsho"
+      ],
+      "arabic": "مكالمات الواتساب مش عم يمشوا",
+      "english": "whatsapp calls are not working",
+      "tags": [
+        "support",
+        "apps"
+      ]
+    },
+    {
+      "id": "s_esim_question",
+      "franco": [
+        "kif fine eshtre esim la l safar"
+      ],
+      "arabic": "كيف فيني إشتري إي سيم للسفر",
+      "english": "how can I buy an eSIM for travel",
+      "tags": [
+        "sales",
+        "esim"
+      ]
+    },
+    {
+      "id": "s_coverage_country",
+      "franco": [
+        "l esim 3am tzabbet b Fransa"
+      ],
+      "arabic": "الإي سيم عم تزبط بفرنسا",
+      "english": "does the eSIM work in France",
+      "tags": [
+        "sales",
+        "esim"
+      ]
+    },
+    {
+      "id": "s_delivery_time",
+      "franco": [
+        "addesh badda wa2et ta tousal l order"
+      ],
+      "arabic": "قديش بدها وقت توصل الأوردر",
+      "english": "how long until the order arrives",
+      "tags": [
+        "sales",
+        "delivery"
+      ]
+    },
+    {
+      "id": "s_pickup_option",
+      "franco": [
+        "fine estelem mn l ma7al"
+      ],
+      "arabic": "فيني إستلم من المحل",
+      "english": "can I pick it up from the shop",
+      "tags": [
+        "sales",
+        "delivery"
+      ]
+    },
+    {
+      "id": "s_where_branch",
+      "franco": [
+        "wen a2rab far3 3andkon"
+      ],
+      "arabic": "وين أقرب فرع عندكم",
+      "english": "where is your nearest branch",
+      "tags": [
+        "sales",
+        "branches"
+      ]
+    },
+    {
+      "id": "s_open_hours",
+      "franco": [
+        "emta fat7in"
+      ],
+      "arabic": "إيمتى فاتحين",
+      "english": "when are you open",
+      "tags": [
+        "sales",
+        "branches"
+      ]
+    },
+    {
+      "id": "s_thanks_service",
+      "franco": [
+        "ya3tikon l 3afye"
+      ],
+      "arabic": "يعطيكم العافية",
+      "english": "thank you for your effort",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_thanks",
+      "franco": [
+        "merci ktir"
+      ],
+      "arabic": "مرسي كتير",
+      "english": "thank you very much",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_please_help",
+      "franco": [
+        "3mol ma3rouf sa3edne"
+      ],
+      "arabic": "عمول معروف ساعدني",
+      "english": "please help me",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_good_morning",
+      "franco": [
+        "saba7 l kheir"
+      ],
+      "arabic": "صباح الخير",
+      "english": "good morning",
+      "tags": [
+        "courtesy",
+        "greetings"
+      ]
+    },
+    {
+      "id": "s_good_evening",
+      "franco": [
+        "masa l kheir"
+      ],
+      "arabic": "مسا الخير",
+      "english": "good evening",
+      "tags": [
+        "courtesy",
+        "greetings"
+      ]
+    },
+    {
+      "id": "s_hello_there",
+      "franco": [
+        "mar7aba, fi shi 7ada"
+      ],
+      "arabic": "مرحبا، في شي حدا",
+      "english": "hello, is anyone there",
+      "tags": [
+        "courtesy",
+        "greetings"
+      ]
+    },
+    {
+      "id": "s_how_are_you_m",
+      "franco": [
+        "kifak"
+      ],
+      "arabic": "كيفك",
+      "english": "how are you (m)",
+      "tags": [
+        "courtesy",
+        "greetings"
+      ]
+    },
+    {
+      "id": "s_how_are_you_f",
+      "franco": [
+        "kifik"
+      ],
+      "arabic": "كيفك",
+      "english": "how are you (f)",
+      "tags": [
+        "courtesy",
+        "greetings"
+      ]
+    },
+    {
+      "id": "s_fine_thanks",
+      "franco": [
+        "mnih l 7amdelle"
+      ],
+      "arabic": "منيح الحمدلله",
+      "english": "fine, thank God",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_one_moment",
+      "franco": [
+        "stanna shway"
+      ],
+      "arabic": "استنى شوي",
+      "english": "wait a moment",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_ok_got_it",
+      "franco": [
+        "tayeb fhemet"
+      ],
+      "arabic": "طيب فهمت",
+      "english": "okay, I understood",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_not_understood",
+      "franco": [
+        "ana mesh fahem"
+      ],
+      "arabic": "أنا مش فاهم",
+      "english": "I do not understand",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_repeat_please",
+      "franco": [
+        "fik t3id"
+      ],
+      "arabic": "فيك تعيد",
+      "english": "can you repeat",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_send_details",
+      "franco": [
+        "ba3atle l details 3al WhatsApp"
+      ],
+      "arabic": "بعتلي الديتايلز عالواتساب",
+      "english": "send me the details on whatsapp",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_call_me",
+      "franco": [
+        "ettesil bi"
+      ],
+      "arabic": "إتصل بي",
+      "english": "call me",
+      "tags": [
+        "courtesy"
+      ]
+    },
+    {
+      "id": "s_i_will_check",
+      "franco": [
+        "ra7 shouf w jawbak"
+      ],
+      "arabic": "رح شوف وجاوبك",
+      "english": "I will check and get back to you",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "s_sorry_delay",
+      "franco": [
+        "ba3tezer 3al ta2kir"
+      ],
+      "arabic": "بعتذر عالتأخير",
+      "english": "sorry for the delay",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "s_anything_else",
+      "franco": [
+        "fi shi tene fine sa3dak fi"
+      ],
+      "arabic": "في شي تاني فيني ساعدك في",
+      "english": "is there anything else I can help with",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "s_give_number",
+      "franco": [
+        "3tine ra2em l account"
+      ],
+      "arabic": "عطيني رقم الأكاونت",
+      "english": "give me the account number",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "s_confirm_address",
+      "franco": [
+        "akked l 3enwein"
+      ],
+      "arabic": "أكد العنوان",
+      "english": "confirm the address",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "s_now_fixed",
+      "franco": [
+        "jarreb halla2"
+      ],
+      "arabic": "جرب هلق",
+      "english": "try now",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "s_will_send_team",
+      "franco": [
+        "ra7 nebe3at l team"
+      ],
+      "arabic": "رح نبعت الفريق",
+      "english": "we will send the team",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "d_yalla_go",
+      "franco": [
+        "yalla nrou7"
+      ],
+      "arabic": "يلا نروح",
+      "english": "let us go",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_where_are_you",
+      "franco": [
+        "wen enta"
+      ],
+      "arabic": "وين انت",
+      "english": "where are you",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_on_the_way",
+      "franco": [
+        "ana 3al tari2"
+      ],
+      "arabic": "أنا عالطريق",
+      "english": "I am on the way",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_traffic",
+      "franco": [
+        "fi 3aje2a ktir"
+      ],
+      "arabic": "في عجقة كتير",
+      "english": "there is a lot of traffic",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_late_sorry",
+      "franco": [
+        "ra7 et2akhar shway"
+      ],
+      "arabic": "رح إتأخر شوي",
+      "english": "I will be a bit late",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_tired",
+      "franco": [
+        "ana ta3ben"
+      ],
+      "arabic": "أنا تعبان",
+      "english": "I am tired",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_hungry",
+      "franco": [
+        "jou3an"
+      ],
+      "arabic": "جوعان",
+      "english": "hungry",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_coffee",
+      "franco": [
+        "badde 2ahwe"
+      ],
+      "arabic": "بدي قهوة",
+      "english": "I want coffee",
+      "tags": [
+        "daily",
+        "food"
+      ]
+    },
+    {
+      "id": "d_how_much",
+      "franco": [
+        "addesh"
+      ],
+      "arabic": "قديش",
+      "english": "how much",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_expensive",
+      "franco": [
+        "ghali ktir"
+      ],
+      "arabic": "غالي كتير",
+      "english": "very expensive",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_cheap",
+      "franco": [
+        "rkhis"
+      ],
+      "arabic": "رخيص",
+      "english": "cheap",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_tomorrow",
+      "franco": [
+        "bukra"
+      ],
+      "arabic": "بكرا",
+      "english": "tomorrow",
+      "tags": [
+        "daily",
+        "time"
+      ]
+    },
+    {
+      "id": "d_today",
+      "franco": [
+        "l yom"
+      ],
+      "arabic": "اليوم",
+      "english": "today",
+      "tags": [
+        "daily",
+        "time"
+      ]
+    },
+    {
+      "id": "d_now",
+      "franco": [
+        "halla2"
+      ],
+      "arabic": "هلق",
+      "english": "now",
+      "tags": [
+        "daily",
+        "time"
+      ]
+    },
+    {
+      "id": "d_later",
+      "franco": [
+        "ba3deen"
+      ],
+      "arabic": "بعدين",
+      "english": "later",
+      "tags": [
+        "daily",
+        "time"
+      ]
+    },
+    {
+      "id": "d_quickly",
+      "franco": [
+        "bser3a"
+      ],
+      "arabic": "بسرعة",
+      "english": "quickly",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_slowly",
+      "franco": [
+        "3a ra7tak"
+      ],
+      "arabic": "عا راحتك",
+      "english": "take your time",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_god_willing",
+      "franco": [
+        "nshalla"
+      ],
+      "arabic": "نشالله",
+      "english": "God willing",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_congrats",
+      "franco": [
+        "mabrouk"
+      ],
+      "arabic": "مبروك",
+      "english": "congratulations",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_whats_up",
+      "franco": [
+        "shou fi ma fi"
+      ],
+      "arabic": "شو في ما في",
+      "english": "what is up",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_nothing_new",
+      "franco": [
+        "wala shi jdid"
+      ],
+      "arabic": "ولا شي جديد",
+      "english": "nothing new",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_really",
+      "franco": [
+        "3an jadd"
+      ],
+      "arabic": "عن جد",
+      "english": "really",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_of_course",
+      "franco": [
+        "akeed"
+      ],
+      "arabic": "أكيد",
+      "english": "of course",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_no_problem",
+      "franco": [
+        "ma fi meshkel"
+      ],
+      "arabic": "ما في مشكل",
+      "english": "no problem",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_i_dont_know",
+      "franco": [
+        "ma ba3ref"
+      ],
+      "arabic": "ما بعرف",
+      "english": "I do not know",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_i_think",
+      "franco": [
+        "ba7seb"
+      ],
+      "arabic": "بحسب",
+      "english": "I think",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_wait_for_me",
+      "franco": [
+        "stanne ne"
+      ],
+      "arabic": "استناني",
+      "english": "wait for me",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_come_here",
+      "franco": [
+        "ta3 lahon"
+      ],
+      "arabic": "تع لهون",
+      "english": "come here",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "d_lets_meet",
+      "franco": [
+        "nelta2e bukra"
+      ],
+      "arabic": "نلتقي بكرا",
+      "english": "let us meet tomorrow",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "id": "t_taxi_need",
+      "franco": [
+        "badde taxi"
+      ],
+      "arabic": "بدي تاكسي",
+      "english": "I need a taxi",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_where_from",
+      "franco": [
+        "mnen baddak teji"
+      ],
+      "arabic": "منين بدك تجي",
+      "english": "where should I come from",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_to_airport",
+      "franco": [
+        "3al matar"
+      ],
+      "arabic": "عالمطار",
+      "english": "to the airport",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_how_much_ride",
+      "franco": [
+        "addesh l tawsile"
+      ],
+      "arabic": "قديش التوصيلة",
+      "english": "how much is the ride",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_driver_coming",
+      "franco": [
+        "l driver 3al tari2"
+      ],
+      "arabic": "الدرايفر عالطريق",
+      "english": "the driver is on the way",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_i_am_outside",
+      "franco": [
+        "ana barra 3am estanna"
+      ],
+      "arabic": "أنا برا عم استنى",
+      "english": "I am outside waiting",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_cancel_ride",
+      "franco": [
+        "badde elghe l talab"
+      ],
+      "arabic": "بدي إلغي الطلب",
+      "english": "I want to cancel the request",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "id": "t_address_building",
+      "franco": [
+        "l bineye hadd l far7",
+        "l bineye jamb l far7"
+      ],
+      "arabic": "البناية حد الفرن",
+      "english": "the building is next to the bakery",
+      "tags": [
+        "taxi",
+        "address"
+      ]
+    },
+    {
+      "id": "t_second_floor",
+      "franco": [
+        "l tabe2 l tene"
+      ],
+      "arabic": "الطابق الثاني",
+      "english": "the second floor",
+      "tags": [
+        "taxi",
+        "address"
+      ]
+    },
+    {
+      "id": "t_call_when_here",
+      "franco": [
+        "ettesil fine wa2et tousal"
+      ],
+      "arabic": "إتصل فيني وقت توصل",
+      "english": "call me when you arrive",
+      "tags": [
+        "taxi"
+      ]
+    }
+  ]
+}

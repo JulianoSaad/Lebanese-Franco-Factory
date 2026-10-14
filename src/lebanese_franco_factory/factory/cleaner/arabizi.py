@@ -16,6 +16,7 @@ import unicodedata
 COUNTER_RE = re.compile(r"#\d+|\[\s*\d+\s*\]|\(\s*\d+\s*\)")
 ARABIC_RE = re.compile(r"[؀-ۿݐ-ݿ]")
 PROPER_NOUNS = {
+    "fransa", "almanya", "turkiya", "amrika", "canada", "italya", "ingeltra", "dubai",
     "beirut", "jounieh", "saida", "sour", "tripoli", "trablous", "zahle", "baabda", "jbeil",
     "achrafieh", "hamra", "verdun", "dbayeh", "zalka", "mazraa", "jnah", "ghoubeiry",
     "mansourieh", "chouf", "adma", "idm", "ogero", "whatsapp", "lebanon", "libnan",
@@ -29,7 +30,10 @@ WORD_FIXES = {
     "wakt": "wa2et", "alwakt": "l wa2et",
 }
 # §4 prefixes that attach to the next word.
-ATTACHING_PREFIXES = ("b", "bl", "mn", "mnl")
+# Only "b" fuses with the next word ("b ser3a" -> "bser3a"). "mn" and "3a" are prepositions
+# and keep their space, and the article-fused forms ("bl beit", "mnl beit") are already one
+# token followed by a space.
+ATTACHING_PREFIXES = ("b",)
 # §2 MSA case endings.
 MSA_ENDINGS = (("aton", ""), ("atoun", ""), ("oun", ""), ("un", ""))
 
@@ -73,8 +77,9 @@ def _fix_article(token: str) -> str:
     if low in ("al", "el", "il"):
         return "l"
     for prefix in ("al", "el"):
-        if low.startswith(prefix) and len(low) > len(prefix) + 2:
-            return "l " + low[len(prefix):]
+        rest = low[len(prefix):]
+        if low.startswith(prefix) and len(low) >= 6 and len(rest) >= 4 and rest[:1].isalpha():
+            return "l " + rest
     return token
 
 
@@ -92,13 +97,19 @@ def _strip_msa_ending(token: str) -> str:
     return token
 
 
-ACRONYMS = {"idm", "ogero", "pbx", "sim", "vpn", "dsl", "adsl", "vdsl", "ont", "tv"}
+ACRONYMS = {"idm", "ogero", "pbx", "sim", "vpn", "dsl", "adsl", "vdsl", "ont", "tv",
+            "los", "pon", "lan", "wan", "ip", "nat", "dmz", "otp", "sms"}
+# Brands with their own capitalisation; "wifi"/"esim" stay lowercase loanwords.
+BRAND_CASE = {"whatsapp": "WhatsApp", "youtube": "YouTube", "tiktok": "TikTok",
+              "iphone": "iPhone", "playstation": "PlayStation"}
 
 
 def _case(token: str) -> str:
     """Lowercase, except proper nouns (capitalised) and acronyms (left upper)."""
     base = token.strip(".,!?;:'\"()")
     low = base.lower()
+    if low in BRAND_CASE:
+        return token.replace(base, BRAND_CASE[low])
     if low in ACRONYMS:
         return token.upper()
     return token.capitalize() if low in PROPER_NOUNS else token.lower()
@@ -163,6 +174,8 @@ def franco_violations(text: str) -> list[str]:
         if _strip_msa_ending(low) != low:
             issues.append("msa_ending")
     for i, tok in enumerate(tokens[:-1]):
-        if tok.lower() in ATTACHING_PREFIXES and tokens[i + 1].lower() != "l":
+        nxt = tokens[i + 1].strip(".,!?;:'\"()").lower()
+        if (tok.lower() in ATTACHING_PREFIXES and nxt != "l"
+                and nxt not in PROPER_NOUNS and nxt not in ACRONYMS and nxt not in BRAND_CASE):
             issues.append("detached_prefix")
     return sorted(set(issues))

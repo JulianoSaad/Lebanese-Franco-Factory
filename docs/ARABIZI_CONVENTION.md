@@ -59,14 +59,16 @@ Write **`l`** as its own token: `l beit`, `l internet`, `l share3`.
 
 ## 4. Prefixes attach, prepositions do not
 
-| Attach to the word | Example |
+| Rule | Example |
 |---|---|
-| `b` (with/in) | `bser3a`, `bl beit` |
-| `m` / `mn` (from) | `mnl beit` |
-| `3a` (on/to) when a single unit | `3assa3a` is also fine as `3a l sa3a` |
-| verb prefixes `b`, `m`, `ra7` | `b7eb`, `mroo7`, `ra7 rou7` |
+| `b` (with/in) fuses with the next word | `b ser3a` → `bser3a`, `b mant2atna` → `bmant2atna` |
+| `b` + article is written fused, then a space | `bl beit` |
+| `mn` (from) keeps its space | `mn embare7`, `mn sa3a` |
+| `mn` + article, fused, then a space | `mnl beit` |
+| A prefix never fuses with a name | `b Fransa`, `b Jounieh` |
+| Verb prefixes are part of the verb | `b7eb`, `mroo7`, `ra7 rou7` |
 
-Stand-alone words keep their space: `fi`, `ma3`, `3an`, `la`, `mesh`.
+Stand-alone words keep their space: `fi`, `ma3`, `3an`, `la`, `3a`, `mesh`.
 
 Negation is **`mesh`** (`mesh tamam`), not `ma7`, not `mich`.
 

@@ -115,13 +115,27 @@ def parse_pairs(text: str) -> list[dict[str, str]]:
     for item in candidates:
         if not isinstance(item, dict):
             continue
-        ar = str(item.get("arabic", "")).strip()
-        fr = str(item.get("franco", "")).strip()
-        en = str(item.get("english", "")).strip()
+        ar = _strip_trailing_num(str(item.get("arabic", "")).strip())
+        fr = _strip_trailing_num(str(item.get("franco", "")).strip())
+        en = _strip_trailing_num(str(item.get("english", "")).strip())
         if not fr or not _AR_RE.search(ar):
             continue
         out.append({"arabic": ar, "franco": fr, "english": en})
     return out
+
+
+# Models sometimes echo an index/count into the phrase as a trailing "(1234)"
+# or "#3". Strip those artifacts while keeping inline Arabizi numerals (7=ح…)
+# and legitimate bare numbers inside a phrase.
+_TRAILING_NUM_RE = re.compile(r"\s*(?:[\(\[]\s*\d+\s*[\)\]]|#\d+)\s*$")
+
+
+def _strip_trailing_num(s: str) -> str:
+    prev = None
+    while prev != s:
+        prev = s
+        s = _TRAILING_NUM_RE.sub("", s).rstrip()
+    return s
 
 
 def _norm(s: str) -> str:

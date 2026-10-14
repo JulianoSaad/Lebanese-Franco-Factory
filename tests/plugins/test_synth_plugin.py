@@ -31,6 +31,22 @@ def test_parse_pairs_handles_fences_and_prose() -> None:
     assert all("arabic" in p and "franco" in p for p in pairs)
 
 
+def test_parse_pairs_strips_trailing_number_artifacts() -> None:
+    synth = _load_synth()
+    text = (
+        '[{"arabic":"أنا متعب (7812)","franco":"ana muta3eb (7812)","english":"tired #3"},'
+        '{"arabic":"أنا معايا 5000","franco":"ana ma3aya 5000","english":"kifak 7 3 2"}]'
+    )
+    pairs = synth.parse_pairs(text)
+    # trailing (NNNN) / #N stripped …
+    assert pairs[0]["arabic"] == "أنا متعب"
+    assert pairs[0]["franco"] == "ana muta3eb"
+    assert pairs[0]["english"] == "tired"
+    # … but bare numbers and inline Arabizi numerals are kept
+    assert pairs[1]["franco"] == "ana ma3aya 5000"
+    assert pairs[1]["english"] == "kifak 7 3 2"
+
+
 def test_parse_pairs_skips_non_arabic_and_empty() -> None:
     synth = _load_synth()
     text = (

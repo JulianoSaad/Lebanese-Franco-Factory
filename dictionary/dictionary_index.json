@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "packs": {
     "cities": 90,
     "curated_chat": 40,
@@ -14,7 +14,9 @@
     "technology": 90,
     "time": 3,
     "verbs": 90,
-    "work": 90
+    "work": 90,
+    "lebanese_support_phrases": 111,
+    "lebanese_core_vocabulary": 9596
   },
-  "entry_count": 1123
+  "entry_count": 10830
 }

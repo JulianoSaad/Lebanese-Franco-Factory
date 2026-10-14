@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import json
-import random
 from typing import Any
 
 from lebanese_franco_factory.core.paths import rules_dir
@@ -33,7 +32,6 @@ def generate(config: dict[str, Any]) -> list[dict[str, Any]]:
     direction: Direction = config.get("direction") or config["name"]
     size = int(config.get("size", 100))
     seed = int(config.get("seed", 42))
-    rng = random.Random(seed)
 
     lexicon = json.loads((rules_dir() / "phrase_lexicon.json").read_text(encoding="utf-8"))
     source_key, target_key = _DIRECTION_KEYS[direction]

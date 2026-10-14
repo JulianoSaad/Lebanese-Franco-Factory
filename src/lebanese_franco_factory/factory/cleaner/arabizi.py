@@ -34,8 +34,12 @@ WORD_FIXES = {
 # and keep their space, and the article-fused forms ("bl beit", "mnl beit") are already one
 # token followed by a space.
 ATTACHING_PREFIXES = ("b",)
-# §2 MSA case endings.
-MSA_ENDINGS = (("aton", ""), ("atoun", ""), ("oun", ""), ("un", ""))
+# §2 MSA case endings. Only the feminine tanwin/plural forms are safe to strip, and only on a
+# stem of 5+ letters: "mut3ab-aton" is MSA, but "ba3-aton" (I sent them), "ghal-aton" (their
+# mistake) are a Lebanese verb/noun + object suffix. "-oun"/"-un" are never stripped: zboun,
+# mamnoun, telefoun, 3youn are everyday Lebanese words.
+MSA_ENDINGS = (("atoun", ""), ("aton", ""))
+MSA_ENDING_MIN_STEM = 5
 
 # §2 Modern Standard Arabic words that no amount of respelling makes Lebanese. Spotted in the
 # `anonymous` reviewer's corrections ("al touroukat mouzdahima", "alshare3 mughlaq bisabab
@@ -92,8 +96,9 @@ def _fix_doubles(token: str) -> str:
 
 def _strip_msa_ending(token: str) -> str:
     for ending, repl in MSA_ENDINGS:
-        if len(token) > len(ending) + 2 and token.endswith(ending):
-            return token[: -len(ending)] + repl
+        stem = token[: -len(ending)]
+        if token.endswith(ending) and len(stem) >= MSA_ENDING_MIN_STEM and stem[-1].isalpha():
+            return stem + repl
     return token
 
 

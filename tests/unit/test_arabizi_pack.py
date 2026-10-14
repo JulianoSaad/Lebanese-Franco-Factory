@@ -33,6 +33,14 @@ class PrepositionsAndVerbsTests(unittest.TestCase):
         self.assertEqual(normalize_franco("badde elghe l talab"), "badde elghe l talab")
         self.assertEqual(normalize_franco("alshare3 msakkar"), "l share3 msakkar")
 
+    def test_lebanese_suffixes_are_not_msa_endings(self):
+        # found by validating the generated core vocabulary pack
+        for word in ("zboun", "mamnoun", "telefoun", "3youn", "ba3aton", "beb3aton", "ghalaton"):
+            self.assertEqual(normalize_franco(word), word)
+            self.assertNotIn("msa_ending", franco_violations(word))
+        self.assertEqual(normalize_franco("ana mut3abaton"), "ana mut3ab")   # real MSA still stripped
+        self.assertIn("msa_ending", franco_violations("mouzdahimaton"))
+
     def test_acronyms_brands_and_loanwords(self):
         self.assertEqual(normalize_franco("dawa l los a7mar"), "dawa l LOS a7mar")
         self.assertEqual(normalize_franco("l vpn mesh 3am yetwasal"), "l VPN mesh 3am yetwasal")

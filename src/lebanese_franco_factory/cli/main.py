@@ -45,6 +45,15 @@ def build_parser() -> argparse.ArgumentParser:
     train.add_argument("--data", action="append", default=None)
 
     sub.add_parser("evaluate", help="Run benchmark suite")
+    au = sub.add_parser("audit", help="Quality-audit a JSONL/run dir: what is decidable without a human")
+    au.add_argument("path")
+    au.add_argument("--round-trip", action="store_true", help="back-translate review rows via a provider")
+    au.add_argument("--judge", action="store_true", help="model-judge meaning + naturalness")
+    au.add_argument("--provider", default="ollama")
+    au.add_argument("--model", default="tony-qwen3-14b-lora")
+    au.add_argument("--host", default="http://127.0.0.1:11434")
+    au.add_argument("--limit", type=int, default=None)
+    au.add_argument("--report", default=None)
     sub.add_parser("serve", help="Start the combined app (Dashboard+Datasets+Review) on :8090")
     sub.add_parser("dashboard", help="Alias for serve (combined app) on :8090")
     sub.add_parser("review", help="Alias for serve (combined app) on :8081")
@@ -64,6 +73,7 @@ def main(argv: list[str] | None = None) -> int:
         "validate",
         "train",
         "evaluate",
+        "audit",
         "serve",
         "dashboard",
         "review",
@@ -135,6 +145,20 @@ def main(argv: list[str] | None = None) -> int:
         from lebanese_franco_factory.benchmarks.runner import main as eval_main
 
         return eval_main()
+
+    if args.command == "audit":
+        from lebanese_franco_factory.factory.validator.audit import main as audit_main
+
+        argv2 = [args.path]
+        if args.round_trip:
+            argv2.append("--round-trip")
+        if args.judge:
+            argv2.append("--judge")
+        for opt in ("provider", "model", "host", "limit", "report"):
+            val = getattr(args, opt, None)
+            if val is not None:
+                argv2 += ["--" + opt, str(val)]
+        return audit_main(argv2)
 
     if args.command == "serve":
         from lebanese_franco_factory.webui.server import main as serve_main
